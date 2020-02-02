@@ -83,10 +83,10 @@ def get_info_from_one_posting(absolute_path):
     
     if len(default_job_list_keys) < len(job_list_keys):
         print("New 'h3' fields in job description list are present: \nCheck the output.")
-    else:
-        for key in default_job_list_keys:
-            if key not in job_list_keys:
-                extracted_data[key] = "None"
+    
+    for key in default_job_list_keys:
+        if key not in job_list_keys:
+            extracted_data[key] = "None"
                 
     for cnt, h3 in enumerate(job_list.css('h3'), start=1):
         
@@ -139,6 +139,9 @@ def crawl_all_postings(absolute_paths, delay=10):
                 extracted_data[key] = []
                 
             extracted_data[key].append(extracted_data_from_posting[key])
+
+        with open("log.json", "w") as l:
+            l.write(json.dumps(extracted_data))
         
         time.sleep(delay)
     
