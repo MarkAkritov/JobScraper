@@ -47,6 +47,8 @@
 
 * [ ] Fix company title fetching (currently `None`)
 
+* [ ] Store `int`-s & `float`-s properly in `.json` files (stored as `str`)
+
 ## Database
 
 * [ ] Setup RDBMS (**`PostgreSQL`**/**`SQLite`**)
