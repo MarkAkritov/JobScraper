@@ -43,6 +43,10 @@
 
 * [ ] Add URL to extracted data fields
 
+## Bugs
+
+* [ ] Fix company title fetching (currently `None`)
+
 ## Database
 
 * [ ] Setup RDBMS (**`PostgreSQL`**/**`SQLite`**)
