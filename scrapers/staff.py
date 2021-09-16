@@ -48,13 +48,21 @@ def get_relative_paths_for_all_pages(
 
     while response.css("li.next a").get() is not None:
 
-        relative_paths_for_all_pages.extend(get_relative_paths_from_one_page(response))
-        rs = requests.get(base_url + response.css("li.next a::attr(href)").get())
-        response = scrapy.http.HtmlResponse(url=rs.url, body=rs.text, encoding="utf-8")
+        relative_paths_for_all_pages.extend(
+            get_relative_paths_from_one_page(response)
+        )
+        rs = requests.get(
+            base_url + response.css("li.next a::attr(href)").get()
+        )
+        response = scrapy.http.HtmlResponse(
+            url=rs.url, body=rs.text, encoding="utf-8"
+        )
         time.sleep(delay)
 
     # Adding relative paths of last page
-    relative_paths_for_all_pages.extend(get_relative_paths_from_one_page(response))
+    relative_paths_for_all_pages.extend(
+        get_relative_paths_from_one_page(response)
+    )
 
     return relative_paths_for_all_pages
 
@@ -62,34 +70,69 @@ def get_relative_paths_for_all_pages(
 def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
 
     rs = requests.get(absolute_path)
-    response = scrapy.http.HtmlResponse(url=rs.url, body=rs.text, encoding="utf-8")
+    response = scrapy.http.HtmlResponse(
+        url=rs.url, body=rs.text, encoding="utf-8"
+    )
 
     all_default_keys = (
         "Company_Title", "Total_views", "Followers", "Active_Jobs",
         "Jobs_History", "Job_Views", "Job_Title", "Application_Deadline",
         "Industry", "Employment_term", "Job_Category", "Job_type",
-        "Job_Location", "Job_description", "Job_responsibilities", "Required_qualifications",
-        "Required_candidate_level", "Salary", "Additional_information", "Professional_skills",
-        "Soft_skills"
+        "Job_Location", "Job_description", "Job_responsibilities",
+        "Required_qualifications", "Required_candidate_level",
+        "Salary", "Additional_information",
+        "Professional_skills", "Soft_skills"
     )
 
     extracted_data = {
-        "Company_Title": response.css("h1.job_company_title::text").get(),
-        "Total_views": response.css("div.col-lg-7.company_info_container p.company-page-views span::text").getall()[0],
-        "Followers": response.css("div.col-lg-7.company_info_container p.company-page-views span::text").getall()[1],
+        "Company_Title": (
+            response
+            .css("h1.job_company_title::text")
+            .get()
+        ),
+        "Total_views": (
+            response
+            .css("div.col-lg-7.company_info_container p.company-page-views span::text")
+            .getall()[0]
+        ),
+        "Followers": (
+            response
+            .css("div.col-lg-7.company_info_container p.company-page-views span::text")
+            .getall()[1]
+        ),
         "Active_Jobs": response.css("p.company-active-job span::text").get(),
         "Jobs_History": response.css("p.company-job-history span::text").get(),
-        "Job_Views": re.search("[0-9]+", response.css("div.statistics p::text").get()).group(),
+        "Job_Views": re.search(
+            "[0-9]+",
+            response.css("div.statistics p::text").get()
+        ).group(),
         "Job_Title": response.css("div.col-lg-8 h2::text").get(),
-        "Application_Deadline": re.search(r"Deadline: (.*)\s", response.css("div.col-lg-4.apply-btn-top p::text").get().replace("\n", " ")).group(1)
+        "Application_Deadline": re.search(
+            r"Deadline: (.*)\s",
+            (
+                response
+                .css("div.col-lg-4.apply-btn-top p::text")
+                .get()
+                .replace("\n", " ")
+            )
+        ).group(1)
     }
 
     try:
-        extracted_data["Industry"] = response.css("div.col-lg-7.company_info_container p.professional-skills-description span::text").getall()[-1]
+        extracted_data["Industry"] = (
+            response
+            .css("div.col-lg-7.company_info_container p.professional-skills-description span::text")
+            .getall()
+            [-1]
+        )
     except IndexError:
         extracted_data["Industry"] = "None"
 
-    job_info = [i.strip() for i in response.css("div.col-lg-6.job-info p::text").getall() if i != "\n"]
+    job_info = [
+        i.strip()
+        for i in response.css("div.col-lg-6.job-info p::text").getall()
+        if i != "\n"
+    ]
 
     extracted_data["Employment_term"] = job_info[0]
     extracted_data["Job_Category"] = job_info[1]
@@ -97,14 +140,22 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
     extracted_data["Job_Location"] = job_info[3]
 
     default_job_list_keys = [
-        "Job_description", "Job_responsibilities", "Required_qualifications", 
+        "Job_description", "Job_responsibilities", "Required_qualifications",
         "Required_candidate_level", "Salary", "Additional_information"
     ]
     job_list = response.css("div.job-list-content-desc.hs_line_break")
-    job_list_keys = [i.strip().replace(":", "").replace(" ", "_") for i in job_list.css("h3::text").getall()]
+    job_list_keys = [
+        i.strip().replace(":", "").replace(" ", "_")
+        for i in job_list.css("h3::text").getall()
+    ]
 
     if len(default_job_list_keys) < len(job_list_keys):
-        print("New 'h3' fields in job description list are present: \nCheck the output.")
+        print(
+            """
+            New 'h3' fields in job description list are present:
+            \tCheck the output.
+            """
+        )
 
     for key in default_job_list_keys:
         if key not in job_list_keys:
@@ -117,25 +168,49 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
         if key in ["Required_candidate_level", "Salary"]:
             extracted_data[key] = h3.css("span::text").get()
         else:
-            values = h3.xpath("following-sibling::*[count(preceding-sibling::h3)=$cnt]", cnt=cnt)[:-1].css("::text").getall()
-            extracted_data[key] = [value.strip() for value in values if value != "\n"]
+            values = h3.xpath(
+                "following-sibling::*[count(preceding-sibling::h3)=$cnt]",
+                cnt=cnt
+            )[:-1].css("::text").getall()
+            extracted_data[key] = [
+                value.strip()
+                for value in values
+                if value != "\n"
+            ]
 
-    skills_info_keys = [i.replace(" ", "_") for i in response.css("div.soft-skills-list.clearfix h3::text").getall()]
+    skills_info_keys = [
+        i.replace(" ", "_")
+        for i in response.css("div.soft-skills-list.clearfix h3::text").getall()
+    ]
 
     if "Professional_skills" in skills_info_keys:
         ind = skills_info_keys.index("Professional_skills")
-        extracted_data["Professional_skills"] = response.css("div.soft-skills-list.clearfix")[ind].css("p span::text, .p::text").getall()
+        extracted_data["Professional_skills"] = (
+            response
+            .css("div.soft-skills-list.clearfix")[ind]
+            .css("p span::text, .p::text")
+            .getall()
+        )
     else:
         extracted_data["Professional_skills"] = "None"
     if "Soft_skills" in skills_info_keys:
         ind = skills_info_keys.index("Soft_skills")
-        extracted_data["Soft_skills"] = response.css("div.soft-skills-list.clearfix")[ind].css("p span::text, .p::text").getall()
+        extracted_data["Soft_skills"] = (
+            response
+            .css("div.soft-skills-list.clearfix")[ind]
+            .css("p span::text, .p::text")
+            .getall()
+        )
     else:
         extracted_data["Soft_skills"] = "None"
 
     for key in all_default_keys:
         if key not in extracted_data.keys():
-            print("Default field: '{}' is missing in extracted data.".format(key))
+            print(
+                """
+                Default field: '{}' is missing in extracted data.
+                """.format(key)
+            )
             extracted_data[key] = "None"
 
     return extracted_data
@@ -153,7 +228,10 @@ def crawl_all_postings(
     for path in absolute_paths:
 
         print(path)
-        print(str(i) + "/" + str(len(absolute_paths)), "Est.: " + str(round((10 * (len(absolute_paths) - i))/60, 2)) + "m.")
+        print(
+            str(i) + "/" + str(len(absolute_paths)),
+            "Est.: " + str(round((10 * (len(absolute_paths) - i))/60, 2)) + "m."
+        )
         i += 1
         extracted_data_from_posting = get_info_from_one_posting(path)
 
@@ -203,7 +281,11 @@ def save_files(file: ExtractedData, *formats) -> None:
     for ext in formats:
 
         if ext not in ("csv", "json"):
-            print("Can't save in {} format.\nSaving both to 'csv' and 'json'.".format(ext))
+            print(
+                """
+                Can't save in {} format.\nSaving both to 'csv' and 'json'.
+                """.format(ext)
+            )
             save_files(file, "csv", "json")
             break
         elif ext == "csv":
@@ -212,7 +294,12 @@ def save_files(file: ExtractedData, *formats) -> None:
                 file_csv = pd.DataFrame(file_csv)
                 file_csv.to_csv("staff_" + date + ".csv")
             except ValueError:
-                print("Unable to save 'csv': missing values are present.\nSaving to 'json'")
+                print(
+                    """
+                    Unable to save 'csv': missing values are present.
+                    Saving to 'json'
+                    """
+                )
                 save_files(file, "json")
                 break
         elif ext == "json":
@@ -226,9 +313,13 @@ def main() -> ExtractedData:
     print(start_time)
     print("Starting crawling '{}'.".format(BASE_URL))
     rs = requests.get(MAIN_URL)
-    response = scrapy.http.HtmlResponse(url=rs.url, body=rs.text, encoding="utf-8")
+    response = scrapy.http.HtmlResponse(
+        url=rs.url, body=rs.text, encoding="utf-8"
+    )
 
-    relative_paths_for_all_pages = get_relative_paths_for_all_pages(response, BASE_URL, delay=5)
+    relative_paths_for_all_pages = get_relative_paths_for_all_pages(
+        response, BASE_URL, delay=5
+    )
     absolute_paths = [BASE_URL + path for path in relative_paths_for_all_pages]
 
     print(str(len(absolute_paths)) + " jobs detected.")
@@ -240,7 +331,10 @@ def main() -> ExtractedData:
     print(end_time)
     print("Ended crawling '{}'.".format(BASE_URL))
 
-    print(str(len(extracted_data["Company_Title"])) + "/" + len(absolute_paths) + " jobs scraped.")
+    print(
+        str(len(extracted_data["Company_Title"])) + "/" +
+        len(absolute_paths) + " jobs scraped."
+    )
     print("Saving files.")
 
     for key in extracted_data.keys():
