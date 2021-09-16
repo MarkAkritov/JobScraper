@@ -24,6 +24,9 @@ load_dotenv()
 BASE_URL: str = os.getenv("BASE_URL") # "https://staff.am"
 MAIN_URL: str = BASE_URL + os.getenv("MAIN_URL_ENDPOINT") # "/en/jobs"
 
+# Other Variables
+extracted_data: ExtractedData
+
 
 # Function to relative paths to job postings from a given page response
 def get_relative_paths_from_one_page(
@@ -40,7 +43,7 @@ def get_relative_paths_from_one_page(
 def get_relative_paths_for_all_pages(
     first_page_response: scrapy.http.HtmlResponse,
     base_url: str,
-    delay: int=3
+    delay: int=1
 ) -> List[str]:
 
     response = first_page_response
@@ -207,9 +210,9 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
     for key in all_default_keys:
         if key not in extracted_data.keys():
             print(
+                f"""
+                Default field: '{key}' is missing in extracted data.
                 """
-                Default field: '{}' is missing in extracted data.
-                """.format(key)
             )
             extracted_data[key] = "None"
 
@@ -218,7 +221,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
 # Function to collect data from all job postings given absolute paths
 def crawl_all_postings(
     absolute_paths: List[str],
-    delay: int=10
+    delay: int=3
 ) -> ExtractedData:
 
     extracted_data = {}
@@ -282,13 +285,14 @@ def save_files(file: ExtractedData, *formats) -> None:
 
         if ext not in ("csv", "json"):
             print(
+                f"""
+                Can't save in {ext} format.\nSaving both to 'csv' and 'json'.
                 """
-                Can't save in {} format.\nSaving both to 'csv' and 'json'.
-                """.format(ext)
             )
             save_files(file, "csv", "json")
             break
         elif ext == "csv":
+            # TODO: Implement properly
             file_csv = format_to_csv(file)
             try:
                 file_csv = pd.DataFrame(file_csv)
@@ -303,15 +307,15 @@ def save_files(file: ExtractedData, *formats) -> None:
                 save_files(file, "json")
                 break
         elif ext == "json":
-            with open("staff_" + date + ".json", "w") as f:
-                f.write(json.dumps(file))
+            with open("staff_" + date + ".json", "w", encoding="utf-8") as f:
+                json.dump(file, f, indent=4, ensure_ascii=False)
 
 
 # Main function
 def main() -> ExtractedData:
     start_time = time.ctime()
     print(start_time)
-    print("Starting crawling '{}'.".format(BASE_URL))
+    print(f"Starting crawling '{BASE_URL}'.")
     rs = requests.get(MAIN_URL)
     response = scrapy.http.HtmlResponse(
         url=rs.url, body=rs.text, encoding="utf-8"
@@ -325,22 +329,23 @@ def main() -> ExtractedData:
     print(str(len(absolute_paths)) + " jobs detected.")
     print("Starting crawling job postings..")
 
-    extracted_data = crawl_all_postings(absolute_paths)
+    # NOTE: Added index slice for testing purposes, remove for production
+    extracted_data = crawl_all_postings(absolute_paths[:10])
 
     end_time = time.ctime()
     print(end_time)
-    print("Ended crawling '{}'.".format(BASE_URL))
+    print(f"Ended crawling '{BASE_URL}'.")
 
     print(
         str(len(extracted_data["Company_Title"])) + "/" +
-        len(absolute_paths) + " jobs scraped."
+        str(len(absolute_paths)) + " jobs scraped."
     )
     print("Saving files.")
 
     for key in extracted_data.keys():
     	print(key + ": " + str(len(extracted_data[key])))
 
-    save_files(extracted_data, "csv", "json")
+    save_files(extracted_data, "json")
 
     return extracted_data
 

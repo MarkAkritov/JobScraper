@@ -1,5 +1,6 @@
 # User defined ignore files
 .vscode
+log.json
 
 # -------------------------------------
 
