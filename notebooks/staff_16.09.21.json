@@ -1,0 +1,529 @@
+{
+    "Company_Title": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "Total_views": [
+        "901349",
+        "11332",
+        "24295",
+        "9",
+        "22790",
+        "4228",
+        "2018011",
+        "4228",
+        "13782",
+        "1247"
+    ],
+    "Followers": [
+        "1052",
+        "8",
+        "7",
+        "0",
+        "10",
+        "3",
+        "1259",
+        "3",
+        "2",
+        "6"
+    ],
+    "Active_Jobs": [
+        "21",
+        "1",
+        "2",
+        "1",
+        "4",
+        "2",
+        "27",
+        "2",
+        "1",
+        "2"
+    ],
+    "Jobs_History": [
+        "440",
+        "5",
+        "20",
+        "1",
+        "15",
+        "4",
+        "1057",
+        "4",
+        "7",
+        "8"
+    ],
+    "Job_Views": [
+        "21",
+        "43",
+        "30",
+        "40",
+        "25",
+        "34",
+        "36",
+        "33",
+        "29",
+        "77"
+    ],
+    "Job_Title": [
+        "Զանգերի սպասարկման կենտրոնի մասնագետ / ք. Վանաձոր",
+        "Intern (3 months)",
+        "QA Engineer",
+        "Dispatcher, Administativ assistant",
+        "Driver - courier",
+        ".Net/C# Developer",
+        "Ներքին անվտանգության տեսահսկման մասնագետ",
+        "UI/UX/Graphic Design",
+        "Service engineer",
+        "General manager"
+    ],
+    "Application_Deadline": [
+        "15 October 2021",
+        "16 October 2021",
+        "16 October 2021",
+        "16 October 2021",
+        "16 October 2021",
+        "16 October 2021",
+        "16 October 2021",
+        "16 October 2021",
+        "16 October 2021",
+        "16 October 2021"
+    ],
+    "Industry": [
+        "Telecommunications",
+        "Human Resources/Consulting/ Legal",
+        "Information technologies",
+        "Logistics/Courier",
+        "Design/Architecture/Construction",
+        "Information technologies",
+        "Information technologies",
+        "Information technologies",
+        "Mining/Manufacturing/Production",
+        "Retail business"
+    ],
+    "Employment_term": [
+        "Permanent",
+        "Internship",
+        "Permanent",
+        "Permanent",
+        "Permanent",
+        "Freelance",
+        "Permanent",
+        "Permanent",
+        "Permanent",
+        "Permanent"
+    ],
+    "Job_Category": [
+        "Sales/service management",
+        "Finance Management",
+        "Quality Assurance /Control",
+        "Administrative/office-work",
+        "Sales/service management",
+        "Software development",
+        "General/professional/Other services",
+        "UI/UX/Graphic Design",
+        "Mechanical/Engineering",
+        "Business/Management"
+    ],
+    "Job_type": [
+        "Full time",
+        "Full time",
+        "Full time",
+        "Full time",
+        "Full time",
+        "Full time",
+        "Full time",
+        "Full time",
+        "Full time",
+        "Full time"
+    ],
+    "Job_Location": [
+        "Vanadzor",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan"
+    ],
+    "Salary": [
+        "None",
+        "None",
+        "None",
+        "From 600 USD",
+        "From 140000 AMD",
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+    ],
+    "Job_description": [
+        [
+            "Ucom ընկերության կարևորագույն նպատակներից է ժամանակակից նորարարությունները հասանելի դարձնել մեր հաճախորդներին: Կիրառելով գերժամանակակից տեխնոլոգիաներն ու ինովացիաները` մենք ձգտում ենք ստեղծել ապագայի ծառայությունները:",
+            "Այժմ, դուք հնարավորություն ունեք միանալու մեր կենսուրախ, եռանդուն ու մոտիվացված թիմին և ստեղծելով իրական արդյունքներ՝ միաժամանակ էլ ավելի զարգացնել ձեր հմտությունները և հարթել կարիերայի Ձեր ճանապարհը: Մենք փնտրում ենք ակտիվ երիտասարդների մեր Զանգերի սպասարկման կենտրոնի թիմին միանալու համար Վանաձոր քաղաքում:",
+            "Զանգերի և սպասարկման կենտրոնի մասնագետը պատասխանատու է Յուքոմ ընկերության ծառայությունների վերաբերյալ բաժանորդների կողմից գրավոր հարթակների և զանգերի միջոցով ստացվող հարցումներին արդյունավետ և ժամանակին արձագանքելու համար:",
+            "Նոր թիմակիցներ փնտրելիս մեզ համար կարևոր է ոչ միայն աշխատանքային փորձը, այլև մարտահրավերներին դիմագրավելու պատրաստակամությունն ու արագ սովորելու ունակությունը:",
+            "/en/zangeri-spasarkman-kentroni-masnaget-k-vanajor-2"
+        ],
+        [
+            "We are looking for an intern, an energetic, passionate and creative person with an outstanding logic and a passion to math and data.",
+            "Internship period is 3 months, employment will be suggested to outstanding candidates.",
+            "/en/intern-3-months-4"
+        ],
+        [
+            "We're seeking an experienced Quality Assurance Engineer to create, manage and lead the automation and execution of test plans and test case solutions for existing and upcoming projects, as well as drive the automation and maintenance of those tests. The selected candidate will define, develop, execute and maintain automated and manual tests.",
+            "/en/quality-assurance-engineer-67"
+        ],
+        [
+            "Պահանջվում են աշխատակցուհիներ ամերիկյան բեռնափոխադրման կազմակերպությունում դիսպետչերի հաստիքում աշխատելու համար։",
+            "/en/dispetcer-administrativ-ognakan"
+        ],
+        [
+            "Ակվատուս ընկերությունը փնտրում է վարորդ - առաքիչ։ Ավտոմեքենան տրամադրում է ընկերությունը․",
+            "Աշխատանքային օրերն ու ժամերն են․",
+            "Երկուշաբթի - ուրբաթ՝ 10։00 - 19։00",
+            "Շաբաթ՝ 10։00 - 17։00",
+            "/en/driver-courier-2"
+        ],
+        [
+            "SoftConstruct is seeking a qualified .NET/C# Developers, who will participate in full development life cycle and will be challenged to design solutions that meet the business requirements while adhering to architecture standards and governance process established by the company. The candidate will get a great opportunity﻿.",
+            "/en/netc-developer-71"
+        ],
+        [
+            "Դիջիթեյն ընկերությունը փնտրում է Ներքին անվտանգության տեսահսկման մասնագետի, ով տեսախցիկների միջոցով իրականացնելու է",
+            "ընկերության տարածքների հետևում, միջադեպերի արձանագրում և կանխում,",
+            "անվտանգության խնդիրների, ռիսկերի գնահատում, ի հայտ բերում և դրանց կանխման միջոցների ձեռնարկում:",
+            "Աշխատանքը հերթափոխային է՝ այդ թվում գիշերային, 12 ժամյա գրաֆիկով։",
+            "/en/nerkin-anvtangutyan-tesahskman-masnaget-27"
+        ],
+        [
+            "Imusic is looking for a creative and highly productive Graphic and Web Designer, who will become a part of the team and will be responsible for creating visual content both for the Company’s Marketing & Communications needs and for Software Development projects.",
+            "/en/uiuxgraphic-design"
+        ],
+        [
+            "Էպիռոք Արմենիա կազմակերպությանը անհրաժեշտ է Սերվիս ինժեներ, ով կիրականացնի սարքավորումների շահագործում և սպասարկում։",
+            "/en/service-engineer-3"
+        ],
+        [
+            "ՆՈՐ ՄԵԿՆԱՐԿ, ՆՈՐ ԱՇԽԱՏԱՆՔ",
+            "Սեպտեմբերը ճիշտ ժամանակն է՝ փոփոխություն մտցնելու ձեր կյանքում, GENERAL MANAGER հաստիքը համալրելու և մեր փորձառու թիմին միանալու համար։",
+            "Եթե ունեք վստահություն և խանդավառություն ձեր կարիերայում առավելագույնին հասնելու համար, մենք ունենք նախագիծ, որն առավելագույնը կխթանի այն: Կենդանի միջավայրը, ջերմ մթնոլորտը, բարյացակամ գործընկերները, աշխատանքի և սպասարկման բարձր չափանիշները մեր արդեն իսկ 3 ամսական հաստատության հիմնասյուներն են:",
+            "/en/glxavor-menejer-3"
+        ]
+    ],
+    "Job_responsibilities": [
+        [
+            "Արձագանքել բաժանորդների կողմից ստացված հարցումներին, տալով արագ և արդյունավետ լուծումներ,",
+            "Պատասխանել մուտքային հեռախոսազանգերին, անհրաժեշտության դեպքում կատարել ելքային զանգեր,",
+            "Պատասխանել հաճախորդների հարցերին գրավոր հարթակներում,",
+            "Բացահայտել հաճախորդի կարիքները, իրականացնել վաճառք հեռախոսազանգի ընթացքում,",
+            "Նպաստել հաճախորդի խնդրի արագ և արդյունավետ լուծմանը,",
+            "Իրականացնել զանգերի կենտրոնին առնչվող այլ աշխատանքներ:"
+        ],
+        [
+            "You will be engaged in:",
+            "Data collection,",
+            "Data analysis,",
+            "Support in preparation of industry reports,",
+            "Some technical staff, ie translation, formatting reports and etc."
+        ],
+        [
+            "Check (review) technical design requirements, features and documents for timely and content feedback;",
+            "Develop detailed, comprehensive and well-constructed testing plans and test examples;",
+            "Evaluate, plan, coordinate and prioritize testing;",
+            "Design, develop and implement automation scenarios using open source tools;",
+            "Clarify, record, document thoroughly and follow up on mistakes;",
+            "Perform a thorough regression test when errors are corrected;",
+            "Develop and apply new and existing project testing processes to meet customer requirements;",
+            "Stay in touch with team members (for example, programmers and project managers) to clarify system requirements;",
+            "Pursue quality assurance standards such as defect density and open defects;",
+            "Keep up with the latest testing tools and testing strategies."
+        ],
+        [
+            "1․ Հետևել նամակագրությանը",
+            "2․ Կազմակերպել վարորդների առաքումները և բարձելու գործընթացը",
+            "3․ Հետևել, որ ժամանակին բեռները առաքվեն և բարձվեն",
+            "4․ Ուղարկել բարձելու և առաքման հասցեները վարորդներին",
+            "5․ Ընթացիկ գրասենյակային աշխատանքներ"
+        ],
+        [
+            "Ապրանքների առաքում",
+            "Մեքենայի պատշաճ վիճակի ապահովում",
+            "Անմիջական ղեկավարի կողմից տրված այլ հանձնարարությունների կատարում",
+            "Հաղորդակցություն պահեստի,լոգիստիկայի և կազմակերպության այլ ստորաբաժանումների հետ"
+        ],
+        [
+            "Code, test, debug, implement, and document programs",
+            "Assist in the modification of company products and/or customer/internal systems to meet the needs of the client and/or end-user",
+            "Research and analyze existing systems and program requirements",
+            "Develop test plans to verify the logic of new or modified programs",
+            "Work as part of a software development team"
+        ],
+        [
+            "Իրականացնել տեսահսկում",
+            "Գնահատել դիտարկվող իրավիճակը և գնահատել հնարավոր ռիսկերը,",
+            "Հայտնաբերված խախտումների, տեղի ունեցող արտակարգ իրավիճակների, ինչպես նաև տեսահսկման համակարգի անսարքությունների վերաբերյալ տեղեկացնել այդ մասին անմիջական ղեկավարին,",
+            "Սահմանել տեսախցիկների անընդմեջ հսկողություն",
+            "Պահպանել աշխատանքային գաղտնիքները",
+            "Իրականացնել հիմնական գործառույթներին առնչվող այլ պարտականություններ:"
+        ],
+        [
+            "-Creating delightful user experiences across web and mobile applications",
+            "-Design and preparation of Presentation slides, Social Media banners, and other relevant materials",
+            "-Delivering exceptional designs that are exciting and user friendly in accord with the latest design and technology trends.",
+            "-Creating concise design artifacts (concept maps, flowcharts, interaction design specs) when needed",
+            "-Support implementation and respond to day-to-day requests from developers, product manager, team leads and the Business Development Director",
+            "-Introduce, support and encourage compliance with UX/UI best practices -Perform other tasks as assigned"
+        ],
+        [
+            "Իրականացնել սարքավորումների շահագործում:",
+            "Իրականացնել երաշխիքային և հետերաշխիքային նորոգում, կոմպրեսորային տեխնիկայի ստուգում և սպասարկում:",
+            "Իրականացնել ստուգումներ ըստ ստուգաթերթիկի և վերականգնել թերությունները եթե դրանք առկա են:",
+            "Հաճախորդների հետադարձ կապի / պահանջների / մտահոգությունների և կարծիքների ժամանակին փոխանցում սարքավորումների վերաբերյալ անմիջական ղեկավարին:",
+            "Անմիջական ղեկավարի հանձնարարությամբ կատարել պայմանագրով սահմանված աշխատանքային գործառույթների հետ անմիջականորեն կապված այլ գործառույթներ, որոնք համապատասխանում են իր մասնագիտությանը կամ պաշտոնին:",
+            "Համոզվել, որ բոլոր գործիքները և սարքավորումները ճիշտ են օգտագործվում և պահվում են աշխատանքային լավ վիճակում"
+        ],
+        [
+            "հաստատության բոլոր պրոցեսների ստնադարտացում և կառավարում,",
+            "հաստատության արդյունավետ աշխատանքի ապահովում",
+            "Ֆինանսական ցուցանիշների պլանավորում և մոնիթորինգ,",
+            "հաստատության զարգացման և աշխատանքի արդյունավետության բարձրացման համար, գործընթացների մշակում և ներդնում,",
+            "հաստատության մրցունակության բարձրացում,",
+            "սպառողականության դինամիկայի ապահովում,",
+            "նոր ծառայություններ մշակում և առաջարկում,",
+            "ընթացիկ բիզնես գործընթացների օպտիմալացման համար,նոր գործընթացների մշակում և ներդնում։"
+        ]
+    ],
+    "Required_qualifications": [
+        [
+            "Բարձրագույն կրթություն,",
+            "Աշխատանքային փորձը հաճախորդների սպասարկման ոլորտում կդիտվի որպես առավելություն,",
+            "Լեզուների իմացություն,",
+            "Համակարգչային գիտելիքներ,",
+            "Հաղորդակցվելու և թիմում աշխատելու հմտություններ,",
+            "Բանակցելու և խնդիրներ լուծելու հմտություններ,",
+            "Ճշտապահություն և պատասխանատվության զգացում,",
+            "Տարբեր իրավիճակներում աշխատելու և արագ կողմնորոշվելու ունակություն,",
+            "Կազմակերպչական հմտություններ:"
+        ],
+        "None",
+        [
+            "2+ years’ experience in software QA/testing;",
+            "Experience writing successful test plans and test cases for use in test suites and developing automation;",
+            "Highly proficient in test planning and estimation, QA techniques/methodologies and SDLC;",
+            "Documentation preparation skills. Experience in writing and reviewing accurate and complete support procedures, system documentation and issue tracking entries;",
+            "Experience with user-level automation frameworks and scripting via Python, Java or JavaScript;",
+            "Self-management skills. Proven ability to prioritise in a complex, fast-paced environment. Proven ability to work autonomously or with little guidance;",
+            "Experience in developing automated tests using tools like Selenium, Appium, TestNG/Junit, Jmeter;",
+            "Experienced in Agile or Scrum software development methodologies;",
+            "Ability to work in team;",
+            "Ability to work under high load."
+        ],
+        [
+            "1․ Անգլերեն",
+            "2․ Համակարգիչ"
+        ],
+        [
+            "Վարորդական վկայականի առկայություն B և C կարգի",
+            "Երթևեկության կանոնների գերազանց իմացություն",
+            "Ճանապարհների գերազանց տիրապետում",
+            "Պարտաճանաչ և պատասխանատու",
+            "Ֆիզիկապես առողջ",
+            "Տարիքը՝ մինչև 50"
+        ],
+        [
+            "Bachelor’s Degree in Computer Sciences",
+            "At least 3 year of work experience as a Software Developer",
+            "Experience and knowledge of C# .NET Framework / ASP.Net",
+            "Strong knowledge of Object-oriented programming (OOP)",
+            "Knowledge of Design Patterns and Microservice Architecture",
+            "Knowledge of .NET Core, WPF, Xamarin is a plus",
+            "Ability to work well under pressure in a task/module oriented project team environment",
+            "Subversion/Git version control tools",
+            "Knowledge of ASP.Net Web API.",
+            "Experience in Test Driven Development is a plus"
+        ],
+        [
+            "Աշխատանքային փորձը ցանկալի է",
+            "Բարձրագույն կրթություն",
+            "Հայերենի լավ իմացություն, անգլերենի և ռուսերենի իմացությունը ցանկալի է",
+            "MS Office",
+            "իմացություն",
+            "Պատասխանատվություն",
+            "Զգոնություն և գաղտնապահություն",
+            "Պատասխանատվության բարձր զգացում",
+            "Միտքը գրավոր շարադրելու ունակություն",
+            "Սթրեսային իրավիճակներում արագ կողմնորոշվելու ունակություն",
+            "Հերթափոխով աշխատելու պատրաստակամություն"
+        ],
+        [
+            "-Bachelor's degree in web design sphere",
+            "-At least 2 years of work experience",
+            "-Knowledge and experience in Sketch or XD",
+            "-Excellent knowledge of Photoshop, Illustrator, InDesign",
+            "-Experience as a graphic designer or in a related field",
+            "-Knowledge of all the basic design principles with a great sense of aesthetics",
+            "-Product-oriented design approach",
+            "-Good written and spoken English",
+            "-Brainstorming and facilitation skills",
+            "-Strong communication skills to work in a team",
+            "-Effective time management skills and the ability to meet deadlines",
+            "-Ability to learn new skills fast",
+            "-Self-management, multi-tasking, and time-management skills"
+        ],
+        [
+            "Համապատասխան բարձրագույն կրթություն",
+            "Մասնագիտական աշխատանքային փորձ",
+            "Առնվազն 2 տարվա համապատասխան աշխատանքային փորձ:",
+            "Համակարգչային գիտելիքների առկայություն"
+        ],
+        [
+            "բիզնեսի, կառավարման կամ հարակից այլ ոլորտների բարձրագույն կրթություն,",
+            "առնվազն 3 տարվա ղեկավարի աշխատանքային փորձ ռեստորանային բնագավառում,",
+            "բիզնես գործընթացներ սահմանելու և իրականացնելու փորձ,",
+            "համակարգչային բազային ծրագրեի և ռեստորանային ծրագրեին իմացություն",
+            "ռուսերեն և անգլերեն լեզուների իմացություն,",
+            "ճգնաժամային պայմաններում աշխատելու ունակություն,",
+            "ՈՐՊԵՍ ԱՌԱՎԵԼՈՒԹՅՈՒՆ",
+            "ռեստորանային բնագավառում անձնական աշխատանային պրոգրես,",
+            "ֆրենչայզ ցանցերում աշխատանքային փորձ,",
+            "արտերկրում աշխատանքային փորձ,",
+            "արտադրանքի մատակակարամն կազմակերպման փորձ,",
+            "սննդի արտադրության ստանդարտների տիրապետում։",
+            "ՊԱՀԱՆՋՎՈՂ ՀՄՏՈՒԹՅՈՒՆՆԵՐ",
+            "Բարդ իրավիճակները հարթելու ունակություն",
+            "Դետալային ուշադրություն",
+            "Ղեկավարման բարձր հմտություններ",
+            "Պատասխանատվության զգացում",
+            "Թիմում աշխատելու ունակություն",
+            "Սթրեսակայունություն",
+            "Ներկայացուցչական տեսք",
+            "Հստակ ու գրագետ խոսք"
+        ]
+    ],
+    "Required_candidate_level": [
+        "Junior",
+        "Junior",
+        "Mid level",
+        "Senior",
+        "Mid level",
+        "Senior",
+        "Not defined",
+        "Mid level",
+        "Mid level",
+        "C level"
+    ],
+    "Additional_information": [
+        [],
+        [],
+        "None",
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "Professional_skills": [
+        "None",
+        [
+            "Data processing",
+            "Analytical and Mathematical skills"
+        ],
+        [
+            "Selenium ",
+            "SDLC",
+            "Appium",
+            "JMeter"
+        ],
+        [
+            "Logistics"
+        ],
+        "None",
+        [
+            ".NET Framework",
+            "OOP",
+            "C#"
+        ],
+        [
+            "Detail oriented"
+        ],
+        [
+            "Adobe Illustrator",
+            "Adobe Photoshop",
+            "Graphic Design",
+            "Adobe XD",
+            "UI/UX"
+        ],
+        [
+            "ASP.NET MVC"
+        ],
+        [
+            "Project management",
+            "English",
+            "Production management ",
+            "Food production"
+        ]
+    ],
+    "Soft_skills": [
+        [
+            "Flexible",
+            "Communication"
+        ],
+        [
+            "Time management ",
+            "Flexible",
+            "Logical thinking",
+            "Fast learning ability"
+        ],
+        [
+            "Teamwork",
+            "Work under pressure",
+            "Communication"
+        ],
+        [
+            "Ability to work independently",
+            "Personal branding ",
+            "Time management ",
+            "Problem solving ",
+            "Conflict resolution skills",
+            "Flexible",
+            "Detail-oriented",
+            "Decision making ",
+            "Logical thinking",
+            "Teamwork",
+            "Fast learning ability",
+            "Ability to work under pressure",
+            "Fast orientation"
+        ],
+        [
+            "Detail-oriented"
+        ],
+        [
+            "Ability to work independently",
+            "Leadership skills",
+            "Time management ",
+            "Problem solving "
+        ],
+        "None",
+        "None",
+        "None",
+        [
+            "Time management ",
+            "Conflict resolution skills",
+            "Flexible",
+            "Detail-oriented"
+        ]
+    ]
+}

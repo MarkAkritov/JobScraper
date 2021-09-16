@@ -137,6 +137,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
         if i != "\n"
     ]
 
+    # TODO: for loop here
     extracted_data["Employment_term"] = job_info[0]
     extracted_data["Job_Category"] = job_info[1]
     extracted_data["Job_type"] = job_info[2]
@@ -244,10 +245,10 @@ def crawl_all_postings(
 
                 extracted_data[key] = []
 
-            extracted_data[key].append(extracted_data_from_posting[key])
+            extracted_data[key].append(value)
 
-        with open("log.json", "w") as l:
-            l.write(json.dumps(extracted_data))
+        with open("log.json", "w", encoding="utf-8") as l:
+            json.dump(extracted_data, l, ensure_ascii=False)
 
         time.sleep(delay)
 
@@ -257,10 +258,8 @@ def crawl_all_postings(
 def crawl_all_companies(
     absolute_paths_companies: List[str]
 ) -> ExtractedData:
-
-    # TODO
-
-    return ""
+    # TODO: Implement company info crawling
+    ...
 
 # Function to make dict data to be saved as csv
 def format_to_csv(file: ExtractedData) -> ExtractedData:
@@ -330,7 +329,7 @@ def main() -> ExtractedData:
     print("Starting crawling job postings..")
 
     # NOTE: Added index slice for testing purposes, remove for production
-    extracted_data = crawl_all_postings(absolute_paths[:10])
+    extracted_data = crawl_all_postings(absolute_paths[:])
 
     end_time = time.ctime()
     print(end_time)

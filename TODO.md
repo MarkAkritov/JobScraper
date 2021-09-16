@@ -39,9 +39,13 @@
 
 * [ ] Save logs for a daily crawling (appending msg.-s in `main` function)
 
+* [ ] Utilize `urllib.parse.urljoin` for base URL and relative pages' joining
+
+* [ ] Add URL to extracted data fields
+
 ## Database
 
-* [ ] Setup RDBMS (**`PostgreSQL`**/**`PostgreSQL`**)
+* [ ] Setup RDBMS (**`PostgreSQL`**/**`SQLite`**)
 
 * [ ] Setup ORM (Object Relational Mapper: **`SQLAlchemy.orm`**/**`PeeWee`**)
 
