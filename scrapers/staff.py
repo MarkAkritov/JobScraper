@@ -1,23 +1,47 @@
 # shebang to be added
+"""
 # Crawler to scrape job postings and company information from https://staff.am/en/jobs
+"""
 
+from typing import Any, List, Dict
+
+import os
 import re, json, time, datetime
+
+from dotenv import load_dotenv
+
 import requests
 import scrapy
-from scrapy.http import HttpResponse
+
 import pandas as pd
 
+
+# Data Types
+ExtractedData = Dict[str, List[Any]]
+
 # URL variables
-base_url = "https://staff.am"
-main_url = base_url + "/en/jobs"
+load_dotenv()
+BASE_URL: str = os.getenv("BASE_URL") # "https://staff.am"
+MAIN_URL: str = BASE_URL + os.getenv("MAIN_URL_ENDPOINT") # "/en/jobs"
+
 
 # Function to relative paths to job postings from a given page response
-def get_relative_paths_from_one_page(page_response):
-    relative_paths = page_response.css("div.web_item_card.hs_job_list_item a.load-more::attr(href)").getall()
+def get_relative_paths_from_one_page(
+    page_response: scrapy.http.HtmlResponse
+) -> List[str]:
+    relative_paths = (
+        page_response
+        .css("div.web_item_card.hs_job_list_item a.load-more::attr(href)")
+        .getall()
+    )
     return relative_paths
 
 # Function to get relative paths for all pages
-def get_relative_paths_for_all_pages(first_page_response, base_url, delay=3):
+def get_relative_paths_for_all_pages(
+    first_page_response: scrapy.http.HtmlResponse,
+    base_url: str,
+    delay: int=3
+) -> List[str]:
 
     response = first_page_response
     relative_paths_for_all_pages = []
@@ -35,7 +59,7 @@ def get_relative_paths_for_all_pages(first_page_response, base_url, delay=3):
     return relative_paths_for_all_pages
 
 # Function to collect data from one job posting
-def get_info_from_one_posting(absolute_path):
+def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
 
     rs = requests.get(absolute_path)
     response = scrapy.http.HtmlResponse(url=rs.url, body=rs.text, encoding="utf-8")
@@ -44,7 +68,7 @@ def get_info_from_one_posting(absolute_path):
         "Company_Title", "Total_views", "Followers", "Active_Jobs",
         "Jobs_History", "Job_Views", "Job_Title", "Application_Deadline",
         "Industry", "Employment_term", "Job_Category", "Job_type",
-        "Job_Location", "Job_description", "Job_responsibilities", "Required_qualifications", 
+        "Job_Location", "Job_description", "Job_responsibilities", "Required_qualifications",
         "Required_candidate_level", "Salary", "Additional_information", "Professional_skills",
         "Soft_skills"
     )
@@ -117,7 +141,10 @@ def get_info_from_one_posting(absolute_path):
     return extracted_data
 
 # Function to collect data from all job postings given absolute paths
-def crawl_all_postings(absolute_paths, delay=10):
+def crawl_all_postings(
+    absolute_paths: List[str],
+    delay: int=10
+) -> ExtractedData:
 
     extracted_data = {}
 
@@ -146,28 +173,30 @@ def crawl_all_postings(absolute_paths, delay=10):
     return extracted_data
 
 # Function to collect data about companies
-def crawl_all_companies(absolute_paths_companies):
+def crawl_all_companies(
+    absolute_paths_companies: List[str]
+) -> ExtractedData:
 
     # TODO
 
     return ""
 
 # Function to make dict data to be saved as csv
-def format_to_csv(file):
+def format_to_csv(file: ExtractedData) -> ExtractedData:
 
     keys_to_format = (
-        "Job_description", "Job_responsibilities", "Required_qualifications", 
+        "Job_description", "Job_responsibilities", "Required_qualifications",
         "Additional_information", "Professional_skills", "Soft_skills"
     )
 
     for key, value in file.items():
         if key in keys_to_format:
-            file[key] = "\n".join(file[key])
+            file[key] = "\n".join(value)
 
     return file
 
 # Function to save the data in a given file format
-def save_files(file, *formats):
+def save_files(file: ExtractedData, *formats) -> None:
 
     date = datetime.date.today().strftime("%d.%m.%y")
 
@@ -192,15 +221,15 @@ def save_files(file, *formats):
 
 
 # Main function
-def main():
+def main() -> ExtractedData:
     start_time = time.ctime()
     print(start_time)
-    print("Starting crawling '{}'.".format(base_url))
-    rs = requests.get(main_url)
+    print("Starting crawling '{}'.".format(BASE_URL))
+    rs = requests.get(MAIN_URL)
     response = scrapy.http.HtmlResponse(url=rs.url, body=rs.text, encoding="utf-8")
 
-    relative_paths_for_all_pages = get_relative_paths_for_all_pages(response, base_url, delay=5)
-    absolute_paths = [base_url + path for path in relative_paths_for_all_pages]
+    relative_paths_for_all_pages = get_relative_paths_for_all_pages(response, BASE_URL, delay=5)
+    absolute_paths = [BASE_URL + path for path in relative_paths_for_all_pages]
 
     print(str(len(absolute_paths)) + " jobs detected.")
     print("Starting crawling job postings..")
@@ -209,7 +238,7 @@ def main():
 
     end_time = time.ctime()
     print(end_time)
-    print("Ended crawling '{}'.".format(base_url))
+    print("Ended crawling '{}'.".format(BASE_URL))
 
     print(str(len(extracted_data["Company_Title"])) + "/" + len(absolute_paths) + " jobs scraped.")
     print("Saving files.")
@@ -224,3 +253,7 @@ def main():
 
 if __name__ == '__main__':
 	extracted_data = main()
+
+    # rs = requests.get(MAIN_URL)
+    # response = scrapy.http.HtmlResponse(url=rs.url, body=rs.text, encoding="utf-8")
+    # print(type(response))

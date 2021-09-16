@@ -10,6 +10,7 @@ requests = "*"
 scrapy = "*"
 pandas = "*"
 sip = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.9"
