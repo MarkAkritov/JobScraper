@@ -47,11 +47,11 @@ def get_relative_paths_for_all_pages(
 ) -> List[str]:
 
     response = first_page_response
-    relative_paths_for_all_pages = []
+    relative_paths = []
 
     while response.css("li.next a").get() is not None:
 
-        relative_paths_for_all_pages.extend(
+        relative_paths.extend(
             get_relative_paths_from_one_page(response)
         )
         rs = requests.get(
@@ -63,11 +63,11 @@ def get_relative_paths_for_all_pages(
         time.sleep(delay)
 
     # Adding relative paths of last page
-    relative_paths_for_all_pages.extend(
+    relative_paths.extend(
         get_relative_paths_from_one_page(response)
     )
 
-    return relative_paths_for_all_pages
+    return relative_paths
 
 # Function to collect data from one job posting
 def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
@@ -273,21 +273,21 @@ def crawl_all_companies(
     ...
 
 # Function to make dict data to be saved as csv
-def format_to_csv(file: ExtractedData) -> ExtractedData:
+def format_to_csv(data: ExtractedData) -> ExtractedData:
 
     keys_to_format = (
         "Job_description", "Job_responsibilities", "Required_qualifications",
         "Additional_information", "Professional_skills", "Soft_skills"
     )
 
-    for key, value in file.items():
+    for key, value in data.items():
         if key in keys_to_format:
-            file[key] = "\n".join(value)
+            data[key] = "\n".join(value)
 
-    return file
+    return data
 
 # Function to save the data in a given file format
-def save_files(file: ExtractedData, *formats) -> None:
+def save_files(data: ExtractedData, *formats) -> None:
 
     date = datetime.date.today().strftime("%d.%m.%y")
 
@@ -299,14 +299,14 @@ def save_files(file: ExtractedData, *formats) -> None:
                 Can't save in {ext} format.\nSaving both to 'csv' and 'json'.
                 """
             )
-            save_files(file, "csv", "json")
+            save_files(data, "csv", "json")
             break
         elif ext == "csv":
             # TODO: Implement properly
-            file_csv = format_to_csv(file)
+            data_csv = format_to_csv(data)
             try:
-                file_csv = pd.DataFrame(file_csv)
-                file_csv.to_csv("staff_" + date + ".csv")
+                data_csv = pd.DataFrame(data_csv)
+                data_csv.to_csv("staff_" + date + ".csv")
             except ValueError:
                 print(
                     """
@@ -314,11 +314,11 @@ def save_files(file: ExtractedData, *formats) -> None:
                     Saving to 'json'
                     """
                 )
-                save_files(file, "json")
+                save_files(data, "json")
                 break
         elif ext == "json":
             with open("staff_" + date + ".json", "w", encoding="utf-8") as f:
-                json.dump(file, f, indent=4, ensure_ascii=False)
+                json.dump(data, f, indent=4, ensure_ascii=False)
 
 
 # Main function
@@ -331,10 +331,10 @@ def main() -> ExtractedData:
         url=rs.url, body=rs.text, encoding="utf-8"
     )
 
-    relative_paths_for_all_pages = get_relative_paths_for_all_pages(
-        response, BASE_URL, delay=5
+    relative_paths = get_relative_paths_for_all_pages(
+        response, BASE_URL, delay=1
     )
-    absolute_paths = [BASE_URL + path for path in relative_paths_for_all_pages]
+    absolute_paths = [BASE_URL + path for path in relative_paths]
 
     print(str(len(absolute_paths)) + " jobs detected.")
     print("Starting crawling job postings..")
@@ -347,7 +347,7 @@ def main() -> ExtractedData:
     print(f"Ended crawling '{BASE_URL}'.")
 
     print(
-        str(len(extracted_data["Company_Title"])) + "/" +
+        str(len(extracted_data["URL"])) + "/" +
         str(len(absolute_paths)) + " jobs scraped."
     )
     print("Saving files.")
@@ -362,7 +362,3 @@ def main() -> ExtractedData:
 
 if __name__ == '__main__':
 	extracted_data = main()
-
-    # rs = requests.get(MAIN_URL)
-    # response = scrapy.http.HtmlResponse(url=rs.url, body=rs.text, encoding="utf-8")
-    # print(type(response))

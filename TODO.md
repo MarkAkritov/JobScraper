@@ -12,6 +12,8 @@
 
 * [ ] Add **`mypy`** tests
 
+* [ ] Fully utilize `scrapy` **Spyders** (*currently works with* `requests`)
+
 * [ ] Setup **`cron`** jobs for automatic daily scraping
 
 ## Architecture and code optimization
@@ -46,6 +48,12 @@
 * [ ] Implement saving to `.csv` functionality
 
 * [ ] Add progress bars
+
+* [ ] Change data storing directory (currently in `notebooks/`)
+
+* [ ] Need to check previous scraped data for avoiding duplicate crawling
+
+* [ ] Need to update `Job_views` field daily
 
 ## Bugs
 
