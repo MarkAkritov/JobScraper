@@ -78,10 +78,11 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
     )
 
     all_default_keys = (
-        "Company_Title", "Total_views", "Followers", "Active_Jobs",
-        "Jobs_History", "Job_Views", "Job_Title", "Application_Deadline",
-        "Industry", "Employment_term", "Job_Category", "Job_type",
-        "Job_Location", "Job_description", "Job_responsibilities",
+        "Company_Title", "Company_URL", "URL", "Total_views", "Followers",
+        "Active_Jobs", "Jobs_History", "Job_Views", "Job_Title",
+        "Application_Deadline", "Industry", "Employment_term",
+        "Job_Category", "Job_type", "Job_Location",
+        "Job_description", "Job_responsibilities",
         "Required_qualifications", "Required_candidate_level",
         "Salary", "Additional_information",
         "Professional_skills", "Soft_skills"
@@ -90,25 +91,31 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
     extracted_data = {
         "Company_Title": (
             response
-            .css("h1.job_company_title::text")
+            .css("div.company-info > div > a > h1::text")
             .get()
         ),
-        "Total_views": (
+        "Company_URL": (
+            response
+            .css("div.company-info > div > a::attr(href)")
+            .get()
+        ),
+        "URL": absolute_path,
+        "Total_views": int(
             response
             .css("div.col-lg-7.company_info_container p.company-page-views span::text")
             .getall()[0]
         ),
-        "Followers": (
+        "Followers": int(
             response
             .css("div.col-lg-7.company_info_container p.company-page-views span::text")
             .getall()[1]
         ),
-        "Active_Jobs": response.css("p.company-active-job span::text").get(),
-        "Jobs_History": response.css("p.company-job-history span::text").get(),
-        "Job_Views": re.search(
+        "Active_Jobs": int(response.css("p.company-active-job span::text").get()),
+        "Jobs_History": int(response.css("p.company-job-history span::text").get()),
+        "Job_Views": int(re.search(
             "[0-9]+",
             response.css("div.statistics p::text").get()
-        ).group(),
+        ).group()),
         "Job_Title": response.css("div.col-lg-8 h2::text").get(),
         "Application_Deadline": re.search(
             r"Deadline: (.*)\s",
@@ -137,11 +144,15 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
         if i != "\n"
     ]
 
-    # TODO: for loop here
-    extracted_data["Employment_term"] = job_info[0]
-    extracted_data["Job_Category"] = job_info[1]
-    extracted_data["Job_type"] = job_info[2]
-    extracted_data["Job_Location"] = job_info[3]
+    for i, k in enumerate(
+        [
+            "Employment_term",
+            "Job_Category",
+            "Job_type",
+            "Job_Location"
+        ]
+    ):
+        extracted_data[k] = job_info[i]
 
     default_job_list_keys = [
         "Job_description", "Job_responsibilities", "Required_qualifications",

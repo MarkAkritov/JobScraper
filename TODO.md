@@ -31,27 +31,33 @@
 
 * [x] When svaing to `.json`, stylize/prettify the content
 
-* [x] Correct the encoding for *arm* characters
+* [x] Correct the encoding for *arm* characters (*UTF-8*)
 
-* [ ] Add functionality for scraping **company** information
+* [x] Add URL to extracted data fields
 
-* [ ] Implement saving to `.csv` functionality
+* [x] Add Company URL to extracted data fields
 
 * [ ] Save logs for a daily crawling (appending msg.-s in `main` function)
 
 * [ ] Utilize `urllib.parse.urljoin` for base URL and relative pages' joining
 
-* [ ] Add URL to extracted data fields
+* [ ] Add functionality for scraping **company** information
+
+* [ ] Implement saving to `.csv` functionality
+
+* [ ] Add progress bars
 
 ## Bugs
 
-* [ ] Fix company title fetching (currently `None`)
+* [x] Fix company title fetching (currently `None`)
 
-* [ ] Store `int`-s & `float`-s properly in `.json` files (stored as `str`)
+* [x] Store `int`-s & `float`-s properly in `.json` files (stored as `str`)
+
+* [x] Recover URL-s for previous scraped data
 
 ## Database
 
-* [ ] Setup RDBMS (**`PostgreSQL`**/**`SQLite`**)
+* [ ] Setup RDBMS or NoSQL (**`PostgreSQL`**/**`SQLite`** or **`MongoDB`**/**`Redis`**)
 
 * [ ] Setup ORM (Object Relational Mapper: **`SQLAlchemy.orm`**/**`PeeWee`**)
 
