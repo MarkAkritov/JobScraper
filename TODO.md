@@ -73,9 +73,9 @@
 
 * [x] Fix bug related to `crawl_all_companies()` output (`list` instead of `dict`)
 
-* [ ] Strip scraped `str` data (eg.: `Company_Title`)
+* [x] Fix Company `Info` field scraping (appends all companies together)
 
-* [ ] Fix Company `Info` field scraping (appends all companies together)
+* [ ] Strip scraped `str` data (eg.: `Company_Title`)
 
 ## Database
 
