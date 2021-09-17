@@ -55,6 +55,8 @@
 
 * [ ] Need to update `Job_views` field daily
 
+* [ ] Utilize **`collections.defaultdict`**
+
 ## Bugs
 
 * [x] Fix company title fetching (currently `None`)
@@ -62,6 +64,12 @@
 * [x] Store `int`-s & `float`-s properly in `.json` files (stored as `str`)
 
 * [x] Recover URL-s for previous scraped data
+
+* [ ] Strip scraped `str` data (eg.: `Company_Title`)
+
+* [ ] Fix bug related to `crawl_all_companies()` output (`list` instead of `dict`)
+
+* [ ] Finalize Company info crawling in `main()` function
 
 ## Database
 

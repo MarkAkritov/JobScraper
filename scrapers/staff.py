@@ -3,7 +3,7 @@
 # Crawler to scrape job postings and company information from https://staff.am/en/jobs
 """
 
-from typing import Any, List, Dict
+from typing import Any, List, Set, Dict, Union
 
 import os
 import re, json, time, datetime
@@ -17,7 +17,7 @@ import pandas as pd
 
 
 # Data Types
-ExtractedData = Dict[str, List[Any]]
+ExtractedData = Dict[str, Union[List[Any]]]
 
 # URL variables
 load_dotenv()
@@ -251,11 +251,8 @@ def crawl_all_postings(
         extracted_data_from_posting = get_info_from_one_posting(path)
 
         for key, value in extracted_data_from_posting.items():
-
             if key not in extracted_data.keys():
-
                 extracted_data[key] = []
-
             extracted_data[key].append(value)
 
         with open("log.json", "w", encoding="utf-8") as l:
@@ -265,12 +262,104 @@ def crawl_all_postings(
 
     return extracted_data
 
+# Function to collect data for a single company
+def crawl_company_info(url: str) -> ExtractedData:
+    rs = requests.get(BASE_URL + url)
+    response = scrapy.http.HtmlResponse(
+        url=rs.url, body=rs.text, encoding="utf-8"
+    )
+
+    return {
+        "Company_Title": (
+            response
+            .css("div.company-title-views > h1::text")
+            .get()
+        ),
+        "Company_URL": url,
+        "Page views": int(
+            response
+            .css("p.company-page-views > span::text")
+            .get()
+        ),
+        "Followers": int(
+            response
+            .css("p.company-page-views > span#followers_count::text")
+            .get()
+        ),
+        "Active_jobs": int(
+            response
+            .css("p.company-active-job > a > span::text")
+            .get()
+        ),
+        "Job_history": int(
+            response
+            .css("p.company-job-history > span::text")
+            .get()
+        ),
+        "Info": "".join(
+            response
+            .css("div.hs_text_block ::text")
+            .getall()
+        ),
+        "Industry": (
+            response
+            .css("td:contains('Industry:')~td ::text")
+            .get()
+        ),
+        "Type": (
+            response
+            .css("td:contains('Type:')~td ::text")
+            .get()
+        ),
+        "Number_of_Employees": (
+            response
+            .css("span:contains('Number of Employees:')~span ::text")
+            .get()
+        ),
+        "Location": (
+            response
+            .css("span:contains('Location:')~span ::text")
+            .get()
+        ),
+        "Website": (
+            response
+            .css("a.hs_company_website_btn::attr(href)")
+            .get()
+        ),
+        "Benefits": ( # List[str]
+            response
+            .css("div.hs_benefit_view_block > div > div > span ::text")
+            .getall()
+        ),
+        "Contacts": ( # List[str]
+            response
+            .css("div.mt15 > a::attr(href)")
+            .getall()
+        ),
+        "Geolocation": list(map( # List[float]
+            float,
+            re.search(
+                "q=(([0-9]+\.[0-9]+,?){2})&",
+                response.css("iframe::attr(src)").getall()[-1]
+            ).group(1).split(",")
+        ))
+    }
+
+
 # Function to collect data about companies
 def crawl_all_companies(
-    absolute_paths_companies: List[str]
+    absolute_paths_companies: Union[List[str], Set[str]]
 ) -> ExtractedData:
-    # TODO: Implement company info crawling
-    ...
+    extracted_data = {}
+    for url in absolute_paths_companies:
+        company_data = crawl_company_info(url)
+
+        for key, value in company_data.items():
+            if key not in extracted_data.keys():
+                extracted_data[key] = []
+            extracted_data[key].append(value)
+
+    return extracted_data
 
 # Function to make dict data to be saved as csv
 def format_to_csv(data: ExtractedData) -> ExtractedData:
@@ -341,6 +430,26 @@ def main() -> ExtractedData:
 
     # NOTE: Added index slice for testing purposes, remove for production
     extracted_data = crawl_all_postings(absolute_paths[:])
+
+    # TODO: Implement company info crawling here
+    company_urls = extracted_data["Company_URL"]
+
+    with open("../data/companies/companies.json", "r") as f:
+        available_companies = json.load(f)["Company_URL"]
+
+    new_companies = set(company_urls) - set(available_companies)
+
+    print(f"Detected {len(new_companies)} new companies.")
+    print("Starting crawling comanies.")
+
+    extracted_companies = crawl_all_companies(new_companies)
+
+    print(
+        f"Extracted {len(extracted_companies["Company_URL"])}/{len(new_companies)}"
+    )
+
+
+
 
     end_time = time.ctime()
     print(end_time)
