@@ -75,6 +75,8 @@
 
 * [ ] Strip scraped `str` data (eg.: `Company_Title`)
 
+* [ ] Fix Company `Info` field scraping (appends all companies together)
+
 ## Database
 
 * [ ] Setup RDBMS or NoSQL (**`PostgreSQL`**/**`SQLite`** or **`MongoDB`**/**`Redis`**)
