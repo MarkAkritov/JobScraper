@@ -7,6 +7,7 @@ from typing import Any, List, Set, Dict, Union
 
 import os
 import re, json, time, datetime
+from collections import defaultdict
 
 from dotenv import load_dotenv
 
@@ -336,15 +337,21 @@ def crawl_company_info(url: str) -> ExtractedData:
             .css("div.mt15 > a::attr(href)")
             .getall()
         ),
-        "Geolocation": list(map( # List[float]
+        "Geolocation": get_geolocation(response)
+    }
+
+def get_geolocation(rs):
+    try:
+        location = list(map( # List[float]
             float,
             re.search(
                 "q=(([0-9]+\.[0-9]+,?){2})&",
-                response.css("iframe::attr(src)").getall()[-1]
+                rs.css("iframe::attr(src)").getall()[-1]
             ).group(1).split(",")
         ))
-    }
-
+    except AttributeError:
+        return None
+    return location
 
 # Function to collect data about companies
 def crawl_all_companies(
@@ -431,30 +438,6 @@ def main() -> ExtractedData:
     # NOTE: Added index slice for testing purposes, remove for production
     extracted_data = crawl_all_postings(absolute_paths[:])
 
-    # TODO: Implement company info crawling here
-    company_urls = extracted_data["Company_URL"]
-
-    with open("../data/companies/companies.json", "r") as f:
-        available_companies = json.load(f)["Company_URL"]
-
-    new_companies = set(company_urls) - set(available_companies)
-
-    print(f"Detected {len(new_companies)} new companies.")
-    print("Starting crawling comanies.")
-
-    extracted_companies = crawl_all_companies(new_companies)
-
-    print(
-        f"Extracted {len(extracted_companies["Company_URL"])}/{len(new_companies)}"
-    )
-
-
-
-
-    end_time = time.ctime()
-    print(end_time)
-    print(f"Ended crawling '{BASE_URL}'.")
-
     print(
         str(len(extracted_data["URL"])) + "/" +
         str(len(absolute_paths)) + " jobs scraped."
@@ -465,6 +448,37 @@ def main() -> ExtractedData:
     	print(key + ": " + str(len(extracted_data[key])))
 
     save_files(extracted_data, "json")
+
+    # TODO: Implement company info crawling here
+    company_urls = extracted_data["Company_URL"]
+    try:
+        with open("../data/companies/companies.json", "r") as f:
+            companies = json.load(f)
+            available_companies = companies["Company_URL"]
+    except:
+        companies = defaultdict(list)
+        available_companies = set()
+
+    new_companies = set(company_urls) - set(available_companies)
+
+    print(f"Detected {len(new_companies)} new companies.")
+    print("Starting crawling companies.")
+
+    extracted_companies = crawl_all_companies(new_companies)
+
+    print(
+        f"Extracted {len(extracted_companies['Company_URL'])}/{len(new_companies)}"
+    )
+
+    for k in extracted_companies.keys():
+        companies[k].extend(extracted_companies[k])
+
+    with open("../data/companies/companies.json", "w", encoding="utf-8") as f:
+        json.dump(companies, f, indent=4, ensure_ascii=False)
+
+    end_time = time.ctime()
+    print(end_time)
+    print(f"Ended crawling '{BASE_URL}'.")
 
     return extracted_data
 

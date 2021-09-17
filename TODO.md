@@ -57,6 +57,8 @@
 
 * [ ] Utilize **`collections.defaultdict`**
 
+* [ ] Add **`Foundation_date`** and **`Telephone`** fields to companies
+
 ## Bugs
 
 * [x] Fix company title fetching (currently `None`)
@@ -65,11 +67,13 @@
 
 * [x] Recover URL-s for previous scraped data
 
+* [x] Fix company storing data (`list.extend()` instead of `list.append()`)
+
+* [x] Finalize Company info crawling in `main()` function
+
+* [x] Fix bug related to `crawl_all_companies()` output (`list` instead of `dict`)
+
 * [ ] Strip scraped `str` data (eg.: `Company_Title`)
-
-* [ ] Fix bug related to `crawl_all_companies()` output (`list` instead of `dict`)
-
-* [ ] Finalize Company info crawling in `main()` function
 
 ## Database
 

@@ -1,0 +1,331 @@
+{
+    "Company_Title": [
+        "OMD LLC",
+        "«Ինստիգեյթ Մոբայլ» ՓԲԸ",
+        "Digitain ",
+        "Acquerant LLC",
+        "Prague Civil Society Centre"
+    ],
+    "Company_URL": [
+        "/en/company/omd-llc",
+        "/en/company/instigeyt-mobayl-pbe",
+        "/en/company/digitain",
+        "/en/company/acquerant-llc",
+        "/en/company/prague-civil-society-centre"
+    ],
+    "URL": [
+        "https://staff.am/en/operations-monitoring-engineer-cloud-team-4",
+        "https://staff.am/en/senior-software-engineer-213",
+        "https://staff.am/en/administrative-assistant-285",
+        "https://staff.am/en/klinikayi-menejer-karavaric",
+        "https://staff.am/en/local-consultant-in-armenia"
+    ],
+    "Total_views": [
+        5526,
+        42790,
+        2018153,
+        44893,
+        15
+    ],
+    "Followers": [
+        6,
+        20,
+        1261,
+        5,
+        0
+    ],
+    "Active_Jobs": [
+        2,
+        2,
+        28,
+        1,
+        1
+    ],
+    "Jobs_History": [
+        18,
+        34,
+        1059,
+        21,
+        1
+    ],
+    "Job_Views": [
+        35,
+        28,
+        59,
+        72,
+        78
+    ],
+    "Job_Title": [
+        "Operations & Monitoring Engineer (Cloud team)",
+        "Senior Software Engineer",
+        "Administrative assistant",
+        "Կլինիկայի Մենեջեր/ Կառավարիչ",
+        "Local Consultant in Armenia"
+    ],
+    "Application_Deadline": [
+        "17 October 2021",
+        "17 October 2021",
+        "17 October 2021",
+        "09 October 2021",
+        "30 September 2021"
+    ],
+    "Industry": [
+        "Information technologies",
+        "Information technologies",
+        "Information technologies",
+        "Human Resources/Consulting/ Legal",
+        "NGO/International organization"
+    ],
+    "Employment_term": [
+        "Permanent",
+        "Permanent",
+        "Permanent",
+        "Permanent",
+        "Freelance"
+    ],
+    "Job_Category": [
+        "Other IT",
+        "Software development",
+        "Administrative/office-work",
+        "Business/Management",
+        "General/professional/Other services"
+    ],
+    "Job_type": [
+        "Full time",
+        "Full time",
+        "Full time",
+        "Full time",
+        "Part time"
+    ],
+    "Job_Location": [
+        "Yerevan",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan",
+        "Yerevan"
+    ],
+    "Salary": [
+        "None",
+        "None",
+        "None",
+        "None",
+        "None"
+    ],
+    "Job_description": [
+        [
+            "Our company is a partner of well-known banks and exchanges on different continents, for example, Bloomberg, Itiviti, Optiver, Credit Suisse, Instinet, Tudor Funds.",
+            "Once our partners trade, they need the historical data for different asset prices and transaction cost analysis metrics. Without it their trading oriented departments simply wouldn’t function. That is why delivering market data to them on time is a crucial and utmost important function.",
+            "And here is where our Cloud Operation department jumps in. We are supporting data delivery lifecycle from our vendors (New York Stock Exchange, Intercontinental Exchange, etc.) to our Customers and corresponding infrastructure behind it. Our instances are located in AWS and data centers in New York and New Jersey (we are planning to migrate to AWS completely and then to move into multi-cloud concept direction). We are looking for a Middle or Senior level colleague, who will help us to continuously provide excellent Customer experience. 4 technical team members in Yerevan, 4 technical team members (including 2 DevOps) in Saint-Petersburg, management in Saint-Petersburg. We are using Jira & Confluence, processes are based on the Scrum approach.",
+            "Our stack",
+            ":",
+            "AWS (some of the services we use are: EFS, EC2, SGW, ASG, NLB, etc.);",
+            "OneTick (time-series database language, which is specific to the financial area);",
+            "Terraform and Ansible (our DevOps group is helping us to embed CI/CD approach);",
+            "Python and Perl (Perl is related to the legacy part of the project, which will be gradually moved to Python);",
+            "also we are going to use Kubernetes in order to reduce our costs and have more flexible infrastructure in the mid-term.",
+            "We have great benefits:",
+            "",
+            "Opportunity to learn AWS and Terraform with the mentoring of our DevOps group and become DevOps in 1-1.5 year time frame (some Operations functions could remain in place - to be discussed), if interested in such a rotation.",
+            "Opportunity to become a financial data expert (our colleagues work with Wall Street and for Wall Street for a long time)",
+            ".",
+            "/en/operations-monitoring-engineer-cloud-team-4"
+        ],
+        [
+            "Instigate Mobile is looking for Senior Software Engineer to join its team in",
+            "Yerevan, Vanadzor",
+            "or",
+            "Gyumr",
+            "i as a full-time team member.",
+            "The ideal candidate will be a cross-platform technology expert who thrives on successfully delivering state of the art engineering projects.",
+            "/en/senior-software-engineer-213"
+        ],
+        [
+            "Digitain is looking for an administrative assistant to support with the administrative tasks of the biggest department in Digitain.",
+            "The ideal candidate should be motivated, detail-oriented and responsible with good time management skills and eager to learn new things and grow professionally in Digitain family.",
+            "/en/administrative-assistant-285"
+        ],
+        [
+            "Մեզ անհրաժեշտ է մենեջեր/ կառավարիչ կլինկայում աշխատելու համար:",
+            "/en/klinikayi-menejer-karavaric"
+        ],
+        [
+            "The Prague Civil Society Centre is looking for a Local Consultant in Armenia. The role will be part-time, based in Armenia, initially for a period of 12 months with the possibility of extension.",
+            "The consultant will be selected based on his/her experience and knowledge of political and societal developments in the country. The candidate will be asked to prove the scope of his/her in-country network, both in the capital and in regions within media and civil society organisations, social entrepreneurship initiatives, online and offline activism, etc."
+        ]
+    ],
+    "Job_responsibilities": [
+        [
+            "Ensuring on a daily basis, that the data delivery cycle is functioning from end to end both on-premises and in AWS, supporting all company branches in their data availability requests.",
+            "Monitoring the alerts and daily jobs and helping to eliminate the issues timely and proactively.",
+            "Setting up, configuring and maintaining environments for Cloud Customers using OneTick and Terraform (the latter is optional).",
+            "Helping with troubleshooting in case of connectivity issues in our environments.",
+            "Improving the existing framework of data loading and processing scripts.",
+            "Working with AWS.",
+            "Collaboration with different teams across the company, Customers and data vendors."
+        ],
+        "None",
+        [
+            "Provide general administrative and clerical support to management, including mailing, scanning, faxing",
+            "Manage calendar for Managing Director",
+            "Assist in resolving any administrative problems",
+            "Prepare and modify documents including correspondence, reports, and emails",
+            "Maintaining employees’ databases (related to the vacations, working and overtime hours)",
+            "Maintaining records related to employees’ disciplinary actions (presences, absences)",
+            "Create requests via 1C program",
+            "Manage communications among different units of the company",
+            "Translation of the emails, documents for the Managing Director if needed (from Russian, English to Armenian and vice versa)"
+        ],
+        "None",
+        [
+            "Primary Tasks & Responsibilities",
+            "The Local Consultant will work in close cooperation and under the direct supervision of the dedicated Senior Programme Officer, namely to:",
+            "• Discover and report on new initiatives, projects and actors whose work could be relevant for the Centre’s programmes.",
+            "• Provide input for the Centre’s country strategy and propose new directions of work.",
+            "• Monitor activities of the groups running projects and social businesses supported by the Centre in Armenia, and provide regular feedback and assessment of their work.",
+            "• Contribute to the assessment of applications for the Centre’s programmes received from the country including content and context assessment, information verification, and reference checking.",
+            "• Provide logistical support to the Centre’s staff during country visits, make introductions and arrange meetings.",
+            "• Submit written reports and media digests upon request.",
+            "• Attend events and meetings in the country on behalf of the Prague Civil Society Centre."
+        ]
+    ],
+    "Required_qualifications": [
+        [
+            "Experience more than 2 years.",
+            "Linux system administrator Experience",
+            "Experience of working with network tools and protocols.",
+            "Experience with Bash or Python/Perl (preferably, Python).",
+            "English - Intermediate or higher (speaking).",
+            "Attentiveness, hard-working and goal-oriented mindset (to have the tasks done), opportunity to work both in team and independently, readiness to learn OneTick."
+        ],
+        [
+            "5-6 years of working experience within software engineering teams in architecture, development, and implementation of highly scalable, high-volume software systems, including back-end infrastructure, client-facing web applications, and major Internet-oriented applications;",
+            "Full-stack development experience in coding within multiple technology stacks desired (e.g. Angular JS, Java Script, React, Ruby, Ruby on Rails);",
+            "Similar experience with other modern frameworks for web applications development such as Django, Node JS, VUE, etc is also acceptable;",
+            "Knowledge of data persistence and storage strategies, experience with relational databases, (MySQL, PostgreQSL);",
+            "Working experience with RESTful APIs and GraphQL;",
+            "Working experience with Docker and CI/CD workflows, data migration;",
+            "Demonstrated agile delivery expertise with particular excellence in estimation and planning;",
+            "Excellent English (verbal and written) skills.",
+            "Required Knowledge, Skills and Abilities",
+            "Strong analytical, problem solving, organizational, and prioritization skills;",
+            "Self-starter, self-motivated attitude, and willing to take initiative;",
+            "High interest in current technology trends and continuous learning;",
+            "Experience working with external personnel and vendors;",
+            "Ability to collaborate with engineering teams across the organization to establish, enforce and maintain engineering standards and best practices;",
+            "Ability to mentor Junior developers and monitor overall code quality. Set standards and expectations for the team.",
+            "Maintain GitFlow workflow."
+        ],
+        [
+            "Bachelor degree",
+            "Excellent communication skills – written and verbal",
+            "Ability to prioritize projects and strong problem solving skills",
+            "Good research skills and attention to details",
+            "Knowledge of 1C program",
+            "Proficiency in MS Office",
+            "Good knowledge of Armenian, English and Russian languages"
+        ],
+        [
+            "Բարձրագույն կրթություն բժշկության կամ կառավարման ոլորտում",
+            "Հայերենի, ռուսերենի և անգլերենի լավ իմացություն",
+            "Հմտություն առողջապահական ծրագրերի և համակարգչային համակարգերի օգտագործման հարցում",
+            "Գրավոր և բանավոր հաղորդակցման գերազանց հմտություններ",
+            "Խնդիրներ լուծելու հմտություններ",
+            "Թիմում աշխատելու ունակություն",
+            "Պատասխանատվության զգացում",
+            "Սեղմ ժամկետներում աշխատելու ունակություն",
+            "Աշխատանքային փորձ նմանատիպ ոլորտում պարտադիր է"
+        ],
+        [
+            "Qualification & Requirements",
+            "• At least two years’ experience and a proven track record in a relevant field, e.g human rights, activism, social entrepreneurship, or international development cooperation;",
+            "• Analytical skills;",
+            "• Fluency in Armenian and English (essential), good command of Russian is a plus;",
+            "• Excellent computer skills (MS Word and Excel), cybersecurity literacy, experience with managing databases;",
+            "• High level of personal integrity, impartiality and professional honesty;",
+            "• Excellent communication and relationship-building skills, ability to deal with diverse groups of people;",
+            "• High level of self-organisation, reliability and diligence in approach to work;",
+            "• Readiness and flexibility to travel within Armenia and to the Centre’s headquarters in Prague, Czech Republic."
+        ]
+    ],
+    "Required_candidate_level": [
+        "Mid level",
+        "Senior",
+        "Not defined",
+        "Not defined",
+        "Mid level"
+    ],
+    "Additional_information": [
+        [],
+        [],
+        "None",
+        [],
+        []
+    ],
+    "Professional_skills": [
+        [
+            "Python",
+            "Linux system administration",
+            "Tomcat"
+        ],
+        [
+            "MySQL",
+            "Docker",
+            "PostgreSQL",
+            "Web API",
+            "Web applications",
+            "CI/CD"
+        ],
+        [
+            "MS Excel"
+        ],
+        [
+            "Business management",
+            "Staff management ",
+            "MS Word"
+        ],
+        "None"
+    ],
+    "Soft_skills": [
+        [
+            "Ability to work under pressure",
+            "Attention to details"
+        ],
+        [
+            "Problem solving ",
+            "Analytical skills",
+            "Self-motivation",
+            "Communicability ",
+            "Collaborative",
+            "english"
+        ],
+        [
+            "Positive attitude",
+            "Time management ",
+            "Detail-oriented",
+            "Ability to work under pressure",
+            "Result-oriented"
+        ],
+        [
+            "Leadership skills",
+            "Decision making ",
+            "Teamwork"
+        ],
+        [
+            "Ability to work independently"
+        ]
+    ],
+    "About_the_Prague_Civil_Society_Centre": [
+        [
+            "The Prague Civil Society Centre is a non-governmental organisation supporting and empowering civil society across Eastern Europe, the South Caucasus and Central Asia. We believe civil society is the key driver of social change and work to ensure it has the flexibility, connections and tools to play a leading role in the development of the region. In the face of difficult conditions, the Centre emphasises creativity, innovation and technology as the cornerstones of a sustainable and diverse civic ecosystem."
+        ]
+    ],
+    "What_We_Offer": [
+        [
+            "We are a young, dynamic, yet well-established and highly respected organisation. In the role of Local Consultant in Armenia, you’ll have the opportunity to help shape the Centre’s strategy on Armenia and affect decisions on funding and programming. You’ll also participate in our annual staff retreats in the Czech Republic.",
+            "/en/local-consultant-in-armenia"
+        ]
+    ],
+    "Application_Details": [
+        []
+    ]
+}
