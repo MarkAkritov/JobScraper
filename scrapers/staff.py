@@ -54,12 +54,11 @@ def get_relative_paths_from_one_page(
 
 # Function to get relative paths for all pages
 def get_relative_paths_for_all_pages(
-    first_page_response: scrapy.http.HtmlResponse,
+    response: scrapy.http.HtmlResponse,
     base_url: str,
     delay: int=1
 ) -> List[str]:
 
-    response = first_page_response
     relative_paths = []
 
     while response.css("li.next a").get() is not None:
@@ -265,6 +264,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
         )
     else:
         extracted_data["Professional_skills"] = None
+
     if "Soft_skills" in skills_info_keys:
         ind = skills_info_keys.index("Soft_skills")
         extracted_data["Soft_skills"] = (
@@ -539,7 +539,7 @@ def main() -> ExtractedData:
     print("Starting crawling job postings..")
 
     # NOTE: Added index slice for testing purposes, remove for production
-    extracted_data = crawl_all_postings(absolute_paths[:15], delay=1)
+    extracted_data = crawl_all_postings(absolute_paths[:], delay=1)
 
     print(
         str(len(extracted_data["URL"])) + "/" +
@@ -552,7 +552,6 @@ def main() -> ExtractedData:
 
     save_files(extracted_data, "json")
 
-    # TODO: Implement company info crawling here
     company_urls = extracted_data["Company_URL"]
     try:
         with open(

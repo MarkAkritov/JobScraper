@@ -65,11 +65,13 @@
 
     ```json
     {
-        "date": "datetime",
-        "weekday": "str",
-        "postings": "int",
-        "new_postings": "int",
-        "new_companies": "int"
+        "date": {
+            "date": "datetime",
+            "weekday": "str",
+            "postings": "int",
+            "new_postings": "int",
+            "new_companies": "int"
+        }
     }
     ```
 

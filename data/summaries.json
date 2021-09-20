@@ -1,0 +1,37 @@
+{
+    "16.09.21": {
+        "date": "Thu Sep 16 19:29:29 2021",
+        "weekday": "Thu",
+        "postings": 1500,
+        "new_postings": null,
+        "new_companies": null
+    },
+    "17.09.21": {
+        "date": "Fri Sep 17 20:21:36 2021",
+        "weekday": "Fri",
+        "postings": 1515,
+        "new_postings": null,
+        "new_companies": null
+    },
+    "18.09.21": {
+        "date": "Sat Sep 18 22:41:38 2021",
+        "weekday": "Sat",
+        "postings": 1474,
+        "new_postings": null,
+        "new_companies": null
+    },
+    "19.09.21": {
+        "date": null,
+        "weekday": "Sun",
+        "postings": null,
+        "new_postings": null,
+        "new_companies": null
+    },
+    "20.09.21": {
+        "date": "Mon Sep 20 19:33:55 2021",
+        "weekday": "Mon",
+        "postings": 1412,
+        "new_postings": null,
+        "new_companies": 1
+    }
+}
