@@ -1,0 +1,3545 @@
+Sun Sep 19 20:09:29 2021
+Starting crawling 'https://staff.am'.
+1429 jobs detected.
+Starting crawling job postings..
+https://staff.am/en/casino-risks-and-b2c-operations-junior-specialist-6
+1/1429 Est.: 238.0m.
+https://staff.am/en/engineering-manager-134
+2/1429 Est.: 237.83m.
+https://staff.am/en/uiux-designer-716
+3/1429 Est.: 237.67m.
+https://staff.am/en/android-developer-499
+4/1429 Est.: 237.5m.
+https://staff.am/en/veravacarog
+5/1429 Est.: 237.33m.
+https://staff.am/en/front-end-developer-652
+6/1429 Est.: 237.17m.
+https://staff.am/en/php-developer-467
+7/1429 Est.: 237.0m.
+https://staff.am/en/hacaxordneri-spasarkman-masnaget-k-vayk
+8/1429 Est.: 236.83m.
+https://staff.am/en/hacaxordneri-spasarkman-masnaget-k-abovyan-7
+9/1429 Est.: 236.67m.
+https://staff.am/en/hacaxordneri-spasarkman-masnaget-k-sisian
+10/1429 Est.: 236.5m.
+https://staff.am/en/hacaxordneri-spasarkman-masnaget-k-erevan-9
+11/1429 Est.: 236.33m.
+https://staff.am/en/associate-labour-law-specialization
+12/1429 Est.: 236.17m.
+https://staff.am/en/paid-internship-5
+13/1429 Est.: 236.0m.
+https://staff.am/en/data-scientist-bi-13
+14/1429 Est.: 235.83m.
+https://staff.am/en/product-manager-survej-junkie-member-support-1
+15/1429 Est.: 235.67m.
+https://staff.am/en/customer-care-specialist-57
+16/1429 Est.: 235.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/php-backend-developer
+17/1429 Est.: 235.33m.
+https://staff.am/en/tumo-labs-application-developer-6
+18/1429 Est.: 235.17m.
+https://staff.am/en/scrum-master-192
+19/1429 Est.: 235.0m.
+https://staff.am/en/logistics-manager-50
+20/1429 Est.: 234.83m.
+https://staff.am/en/tumo-labs-full-stack-developer-6
+21/1429 Est.: 234.67m.
+https://staff.am/en/midsenior-level-php-software-engineer-24
+22/1429 Est.: 234.5m.
+https://staff.am/en/uiux-designer-719
+23/1429 Est.: 234.33m.
+https://staff.am/en/head-of-engineering-9
+24/1429 Est.: 234.17m.
+https://staff.am/en/photographer-14
+25/1429 Est.: 234.0m.
+https://staff.am/en/graphic-designer-703
+26/1429 Est.: 233.83m.
+https://staff.am/en/operations-monitoring-engineer-cloud-team-4
+27/1429 Est.: 233.67m.
+https://staff.am/en/senior-software-engineer-213
+28/1429 Est.: 233.5m.
+https://staff.am/en/administrative-assistant-285
+29/1429 Est.: 233.33m.
+https://staff.am/en/klinikayi-menejer-karavaric
+30/1429 Est.: 233.17m.
+https://staff.am/en/local-consultant-in-armenia
+31/1429 Est.: 233.0m.
+https://staff.am/en/line-operator-5
+32/1429 Est.: 232.83m.
+https://staff.am/en/administrative-assistant-284
+33/1429 Est.: 232.67m.
+https://staff.am/en/group-accounting-specialist-1
+34/1429 Est.: 232.5m.
+https://staff.am/en/b2b-sales-specialist-15
+35/1429 Est.: 232.33m.
+https://staff.am/en/senior-python-automation-test-engineer
+36/1429 Est.: 232.17m.
+https://staff.am/en/artadramasi-varpet-9
+37/1429 Est.: 232.0m.
+https://staff.am/en/java-developer-186
+38/1429 Est.: 231.83m.
+https://staff.am/en/hacaxordneri-ajakcman-kentroni-tvayin-masnaget
+39/1429 Est.: 231.67m.
+https://staff.am/en/ic-design-training
+40/1429 Est.: 231.5m.
+https://staff.am/en/leading-specialist-marketing-unit-1
+41/1429 Est.: 231.33m.
+https://staff.am/en/mardaser-timakic
+42/1429 Est.: 231.17m.
+https://staff.am/en/pos-terminals-ev-atms-specialist
+43/1429 Est.: 231.0m.
+https://staff.am/en/senior-front-end-software-engineer-30
+44/1429 Est.: 230.83m.
+https://staff.am/en/cloud-and-hosting-services-engineer
+45/1429 Est.: 230.67m.
+https://staff.am/en/office-manager-237
+46/1429 Est.: 230.5m.
+https://staff.am/en/specialist-in-customer-service-department-9
+47/1429 Est.: 230.33m.
+https://staff.am/en/loan-analyst-12
+48/1429 Est.: 230.17m.
+https://staff.am/en/customer-engagement-specialist-2
+49/1429 Est.: 230.0m.
+https://staff.am/en/junior-associate-criminal-law-group
+50/1429 Est.: 229.83m.
+https://staff.am/en/junior-associate-junior-lawyer-assistant-to-the-attorney
+51/1429 Est.: 229.67m.
+https://staff.am/en/sinararutyan-naxahasvark-irakanacnog
+52/1429 Est.: 229.5m.
+https://staff.am/en/senior-product-manager-34
+53/1429 Est.: 229.33m.
+https://staff.am/en/sales-agent-english-speaking-13
+54/1429 Est.: 229.17m.
+https://staff.am/en/hyusn
+55/1429 Est.: 229.0m.
+https://staff.am/en/pakanagorc-13
+56/1429 Est.: 228.83m.
+https://staff.am/en/inzener-mexaniktexnikakan-bazni-gekavar-1
+57/1429 Est.: 228.67m.
+https://staff.am/en/inzener-mexanik-34
+58/1429 Est.: 228.5m.
+https://staff.am/en/brand-manager-125
+59/1429 Est.: 228.33m.
+https://staff.am/en/elektrik-39
+60/1429 Est.: 228.17m.
+https://staff.am/en/odapoxutyan-hamakargeri-montazman-masnaget-1
+61/1429 Est.: 228.0m.
+https://staff.am/en/senior-cloud-specialist-mfd-1
+62/1429 Est.: 227.83m.
+https://staff.am/en/owzeg-ntanikner-ev-hamaynkner-tavusi-marzum-erexaneri-zargacman-hamar-cragri-socialakan-asxatogin-poxarinog
+63/1429 Est.: 227.67m.
+https://staff.am/en/intern-mfd-office-management-6
+64/1429 Est.: 227.5m.
+https://staff.am/en/administrative-staff
+65/1429 Est.: 227.33m.
+https://staff.am/en/data-scientist-for-genomicsoncology
+66/1429 Est.: 227.17m.
+https://staff.am/en/front-end-developer-649
+67/1429 Est.: 227.0m.
+https://staff.am/en/project-manager-590
+68/1429 Est.: 226.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/energaverahskogutyan-glxavor-masnaget-3
+69/1429 Est.: 226.67m.
+https://staff.am/en/cnet-core-developer-12
+70/1429 Est.: 226.5m.
+https://staff.am/en/graphic-designers-web-ui
+71/1429 Est.: 226.33m.
+https://staff.am/en/c-developer-192
+72/1429 Est.: 226.17m.
+https://staff.am/en/senior-react-js-developer-69
+73/1429 Est.: 226.0m.
+https://staff.am/en/htmlcss-specialist-verstalsik-3
+74/1429 Est.: 225.83m.
+https://staff.am/en/graphic-designer-700
+75/1429 Est.: 225.67m.
+https://staff.am/en/artadrutyan-operator-9
+76/1429 Est.: 225.5m.
+https://staff.am/en/quality-control-operator-24
+77/1429 Est.: 225.33m.
+https://staff.am/en/waiter-33
+78/1429 Est.: 225.17m.
+https://staff.am/en/barman-2
+79/1429 Est.: 225.0m.
+https://staff.am/en/backend-software-engineer-16
+80/1429 Est.: 224.83m.
+https://staff.am/en/market-analyst-10
+81/1429 Est.: 224.67m.
+https://staff.am/en/front-desk-attendant
+82/1429 Est.: 224.5m.
+https://staff.am/en/cook-23
+83/1429 Est.: 224.33m.
+https://staff.am/en/ios-software-engineer-31
+84/1429 Est.: 224.17m.
+https://staff.am/en/recruitment-manager-13
+85/1429 Est.: 224.0m.
+https://staff.am/en/android-developer-493
+86/1429 Est.: 223.83m.
+https://staff.am/en/netc-developer-74
+87/1429 Est.: 223.67m.
+https://staff.am/en/partkeri-havakagrman-masnaget-23
+88/1429 Est.: 223.5m.
+https://staff.am/en/hr-architect
+89/1429 Est.: 223.33m.
+https://staff.am/en/academic-writer
+90/1429 Est.: 223.17m.
+https://staff.am/en/reactjs-developer-253
+91/1429 Est.: 223.0m.
+https://staff.am/en/mortgage-center-leading-specialist
+92/1429 Est.: 222.83m.
+https://staff.am/en/procurement-specialist-89
+93/1429 Est.: 222.67m.
+https://staff.am/en/ganjapah-153
+94/1429 Est.: 222.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/nermucman-ev-artahanman-masnaget-7
+95/1429 Est.: 222.33m.
+https://staff.am/en/solidity-intern-4
+96/1429 Est.: 222.17m.
+https://staff.am/en/user-acquisition-manager-25
+97/1429 Est.: 222.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/security-analyst-12
+98/1429 Est.: 221.83m.
+https://staff.am/en/database-administrator-172
+99/1429 Est.: 221.67m.
+https://staff.am/en/android-developer-remote-45
+100/1429 Est.: 221.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/android-developer-490
+101/1429 Est.: 221.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/qa-automation-engineer-mobile-66
+102/1429 Est.: 221.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-qa-engineer-221
+103/1429 Est.: 221.0m.
+https://staff.am/en/trainer-23
+104/1429 Est.: 220.83m.
+https://staff.am/en/consultant-of-the-post-operational-formation-department
+105/1429 Est.: 220.67m.
+https://staff.am/en/full-stack-developer-react-net-c
+106/1429 Est.: 220.5m.
+https://staff.am/en/accountant-776
+107/1429 Est.: 220.33m.
+https://staff.am/en/senior-php-developers
+108/1429 Est.: 220.17m.
+https://staff.am/en/nermucman-ev-logistikayi-bazni-masnaget
+109/1429 Est.: 220.0m.
+https://staff.am/en/programming-teacher
+110/1429 Est.: 219.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/account-manager-112
+111/1429 Est.: 219.67m.
+https://staff.am/en/zangeri-spasarkman-kentroni-masnaget-k-vanajor
+112/1429 Est.: 219.5m.
+https://staff.am/en/intern-3-months-4
+113/1429 Est.: 219.33m.
+https://staff.am/en/quality-assurance-engineer-67
+114/1429 Est.: 219.17m.
+https://staff.am/en/dispatcher-administativ-assistant
+115/1429 Est.: 219.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/driver-courier-2
+116/1429 Est.: 218.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/netc-developer-71
+117/1429 Est.: 218.67m.
+https://staff.am/en/nerkin-anvtangutyan-tesahskman-masnaget-25
+118/1429 Est.: 218.5m.
+https://staff.am/en/uiuxgraphic-design
+119/1429 Est.: 218.33m.
+https://staff.am/en/service-engineer-3
+120/1429 Est.: 218.17m.
+https://staff.am/en/general-manager-40
+121/1429 Est.: 218.0m.
+https://staff.am/en/junior-technical-writer-3
+122/1429 Est.: 217.83m.
+https://staff.am/en/project-manager-587
+123/1429 Est.: 217.67m.
+https://staff.am/en/technical-writer-159
+124/1429 Est.: 217.5m.
+https://staff.am/en/scrum-master-189
+125/1429 Est.: 217.33m.
+https://staff.am/en/tnoreni-ognakan-85
+126/1429 Est.: 217.17m.
+https://staff.am/en/loan-officer-32
+127/1429 Est.: 217.0m.
+https://staff.am/en/surveyor
+128/1429 Est.: 216.83m.
+https://staff.am/en/supplier-3
+129/1429 Est.: 216.67m.
+https://staff.am/en/tour-guide-24
+130/1429 Est.: 216.5m.
+https://staff.am/en/cartaraget
+131/1429 Est.: 216.33m.
+https://staff.am/en/senior-software-engineer-in-test-24
+132/1429 Est.: 216.17m.
+https://staff.am/en/protection-field-officer-16
+133/1429 Est.: 216.0m.
+https://staff.am/en/sales-and-service-manager-5
+134/1429 Est.: 215.83m.
+https://staff.am/en/nativenear-to-native-german-speaker-instructor
+135/1429 Est.: 215.67m.
+https://staff.am/en/nativenear-to-native-french-speaker-instructor
+136/1429 Est.: 215.5m.
+https://staff.am/en/receptionist-administrative-customer-service-representative-7
+137/1429 Est.: 215.33m.
+https://staff.am/en/native-or-near-to-native-english-speaker-instructor-7
+138/1429 Est.: 215.17m.
+https://staff.am/en/pahestapet-53
+139/1429 Est.: 215.0m.
+https://staff.am/en/swift-developer-13
+140/1429 Est.: 214.83m.
+https://staff.am/en/senior-react-developer-92
+141/1429 Est.: 214.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/administrative-assistant-281
+142/1429 Est.: 214.5m.
+https://staff.am/en/digital-marketing-specialist-424
+143/1429 Est.: 214.33m.
+https://staff.am/en/pahestapet-50
+144/1429 Est.: 214.17m.
+https://staff.am/en/mid-level-php-developer-25
+145/1429 Est.: 214.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/chief-financial-officer-42
+146/1429 Est.: 213.83m.
+https://staff.am/en/pr-specialist-54
+147/1429 Est.: 213.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/hasvapahi-ognakan-owzeg-ntanikner-ev-hamaynkner-tavusi-marzum-erexaneri-zargacman-hamar-cragri-gcov
+148/1429 Est.: 213.5m.
+https://staff.am/en/sales-specialist-141
+149/1429 Est.: 213.33m.
+https://staff.am/en/production-planning-and-logistic-specialist
+150/1429 Est.: 213.17m.
+https://staff.am/en/first-line-technical-support-specialist-12
+151/1429 Est.: 213.0m.
+https://staff.am/en/product-owner-251
+152/1429 Est.: 212.83m.
+https://staff.am/en/administrative-assistanttumo-studios-6
+153/1429 Est.: 212.67m.
+https://staff.am/en/software-engineer-140
+154/1429 Est.: 212.5m.
+https://staff.am/en/web-developer-170
+155/1429 Est.: 212.33m.
+https://staff.am/en/project-manager-586
+156/1429 Est.: 212.17m.
+https://staff.am/en/head-of-data-analysis-3
+157/1429 Est.: 212.0m.
+https://staff.am/en/transmission-engineer-14
+158/1429 Est.: 211.83m.
+https://staff.am/en/texnikakan-ajakcman-masnaget-46
+159/1429 Est.: 211.67m.
+https://staff.am/en/b2b-support-specialist-night-shift-8
+160/1429 Est.: 211.5m.
+https://staff.am/en/administrator-142
+161/1429 Est.: 211.33m.
+https://staff.am/en/mexanik-85
+162/1429 Est.: 211.17m.
+https://staff.am/en/marketing-specialist-370
+163/1429 Est.: 211.0m.
+https://staff.am/en/experienced-c-developer
+164/1429 Est.: 210.83m.
+https://staff.am/en/head-of-chain-of-stores
+165/1429 Est.: 210.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/php-developer-464
+166/1429 Est.: 210.5m.
+https://staff.am/en/director-of-operations-5
+167/1429 Est.: 210.33m.
+https://staff.am/en/business-development-specialist-46
+168/1429 Est.: 210.17m.
+https://staff.am/en/project-manager-project-management-center
+169/1429 Est.: 210.0m.
+https://staff.am/en/credit-documentation-officer-6
+170/1429 Est.: 209.83m.
+https://staff.am/en/receptionist-only-boys-for-night-shift
+171/1429 Est.: 209.67m.
+https://staff.am/en/assistant-of-the-national-director
+172/1429 Est.: 209.5m.
+https://staff.am/en/xanut-srahi-vacarog-xorhrdatu
+173/1429 Est.: 209.33m.
+https://staff.am/en/it-business-analyst-82
+174/1429 Est.: 209.17m.
+https://staff.am/en/social-mediadigital-marketing-manager-4
+175/1429 Est.: 209.0m.
+https://staff.am/en/ganjapah-upay-nkerutyunum-k-armavir-1
+176/1429 Est.: 208.83m.
+https://staff.am/en/javascript-engineer-data-infrastructure-6
+177/1429 Est.: 208.67m.
+https://staff.am/en/python-engineer-6
+178/1429 Est.: 208.5m.
+https://staff.am/en/threat-hunter-25
+179/1429 Est.: 208.33m.
+https://staff.am/en/b2c-specialist
+180/1429 Est.: 208.17m.
+https://staff.am/en/ml-engineer-4
+181/1429 Est.: 208.0m.
+https://staff.am/en/receptionist-258
+182/1429 Est.: 207.83m.
+https://staff.am/en/group-financial-reporting-specialist-34
+183/1429 Est.: 207.67m.
+https://staff.am/en/c-unity-developer
+184/1429 Est.: 207.5m.
+https://staff.am/en/glxavor-pahestapet
+185/1429 Est.: 207.33m.
+https://staff.am/en/systems-analyst-82
+186/1429 Est.: 207.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-financial-auditor
+187/1429 Est.: 207.0m.
+https://staff.am/en/seo-specialist-223
+188/1429 Est.: 206.83m.
+https://staff.am/en/marketing-specialist-367
+189/1429 Est.: 206.67m.
+https://staff.am/en/general-manager-assistant-4
+190/1429 Est.: 206.5m.
+https://staff.am/en/human-resources-manager-56
+191/1429 Est.: 206.33m.
+https://staff.am/en/varkayin-portfeli-karavaric-astarak-masnacyug
+192/1429 Est.: 206.17m.
+https://staff.am/en/product-trainer
+193/1429 Est.: 206.0m.
+https://staff.am/en/jewelry-appraiser-2
+194/1429 Est.: 205.83m.
+https://staff.am/en/korean-speaking-data-research-intern
+195/1429 Est.: 205.67m.
+https://staff.am/en/varkayin-gorcakal-hrazdan-masnacyugum-4
+196/1429 Est.: 205.5m.
+https://staff.am/en/premium-xosor-hacaxordneri-biznes-verlucaban
+197/1429 Est.: 205.33m.
+https://staff.am/en/software-engineer-python
+198/1429 Est.: 205.17m.
+https://staff.am/en/graphic-designer-695
+199/1429 Est.: 205.0m.
+https://staff.am/en/komunikacion-kentronspasarkog-masnaget
+200/1429 Est.: 204.83m.
+https://staff.am/en/tt-administrator-4
+201/1429 Est.: 204.67m.
+https://staff.am/en/avag-tt-administrator
+202/1429 Est.: 204.5m.
+https://staff.am/en/sales-representative-72
+203/1429 Est.: 204.33m.
+https://staff.am/en/sales-consultant-400
+204/1429 Est.: 204.17m.
+https://staff.am/en/digital-products-owner-3
+205/1429 Est.: 204.0m.
+https://staff.am/en/it-specialist-drone-constructor
+206/1429 Est.: 203.83m.
+https://staff.am/en/hasvapah-609
+207/1429 Est.: 203.67m.
+https://staff.am/en/office-manager-administrative-assistant
+208/1429 Est.: 203.5m.
+https://staff.am/en/partner-success-specialist-10
+209/1429 Est.: 203.33m.
+https://staff.am/en/finansist-45
+210/1429 Est.: 203.17m.
+https://staff.am/en/business-assistant
+211/1429 Est.: 203.0m.
+https://staff.am/en/masnaget-ganjapah-k-erevan-16
+212/1429 Est.: 202.83m.
+https://staff.am/en/project-management-intern-7
+213/1429 Est.: 202.67m.
+https://staff.am/en/senior-nodejs-engineer-12
+214/1429 Est.: 202.5m.
+https://staff.am/en/web-app-developer
+215/1429 Est.: 202.33m.
+https://staff.am/en/workshops-team-coordinator
+216/1429 Est.: 202.17m.
+https://staff.am/en/electrical-engineer-20
+217/1429 Est.: 202.0m.
+https://staff.am/en/junior-digital-marketing-specialist-7
+218/1429 Est.: 201.83m.
+https://staff.am/en/react-native-developer-145
+219/1429 Est.: 201.67m.
+https://staff.am/en/manual-qa-engineer-373
+220/1429 Est.: 201.5m.
+https://staff.am/en/call-center-specialist-114
+221/1429 Est.: 201.33m.
+https://staff.am/en/seller-consultant-yerevan-16
+222/1429 Est.: 201.17m.
+https://staff.am/en/vacarki-bazni-gekavar-9
+223/1429 Est.: 201.0m.
+https://staff.am/en/jewelry-expert-yerevan-vanadzor
+224/1429 Est.: 200.83m.
+https://staff.am/en/legal-advisor-of-judicial-service-division-for-legal-entities-3
+225/1429 Est.: 200.67m.
+https://staff.am/en/artcraft-teacher-2
+226/1429 Est.: 200.5m.
+https://staff.am/en/varkeri-monitoringi-bazni-masnaget-1
+227/1429 Est.: 200.33m.
+https://staff.am/en/it-support-specialist-112
+228/1429 Est.: 200.17m.
+https://staff.am/en/chess-teacher-2
+229/1429 Est.: 200.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/monetization-manager-6
+230/1429 Est.: 199.83m.
+https://staff.am/en/incident-management-specialist-43
+231/1429 Est.: 199.67m.
+https://staff.am/en/senior-nodejs-developer-remote-30
+232/1429 Est.: 199.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/nodejs-developer-312
+233/1429 Est.: 199.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/makeup-and-uniform-specialist
+234/1429 Est.: 199.17m.
+https://staff.am/en/ganjapah-150
+235/1429 Est.: 199.0m.
+https://staff.am/en/operator-logiastikayi-baznum-6
+236/1429 Est.: 198.83m.
+https://staff.am/en/arakic-114
+237/1429 Est.: 198.67m.
+https://staff.am/en/logistic-manager-13
+238/1429 Est.: 198.5m.
+https://staff.am/en/marketing-specialist-366
+239/1429 Est.: 198.33m.
+https://staff.am/en/sales-manager-wine
+240/1429 Est.: 198.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/logistics-coordinator-13
+241/1429 Est.: 198.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/backend-engineer-search-engine-nodejs-6
+242/1429 Est.: 197.83m.
+https://staff.am/en/senior-backend-engineer-search-engine-nodejs-6
+243/1429 Est.: 197.67m.
+https://staff.am/en/logistics-coordinator-dispatcher-evening-shift-2
+244/1429 Est.: 197.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/customer-support-servicedepartment-supervisor-mixed-shift-english
+245/1429 Est.: 197.33m.
+https://staff.am/en/smm-specialist-583
+246/1429 Est.: 197.17m.
+https://staff.am/en/senior-analyst-11
+247/1429 Est.: 197.0m.
+https://staff.am/en/team-leader-23
+248/1429 Est.: 196.83m.
+https://staff.am/en/ppc-specialist-for-gambling
+249/1429 Est.: 196.67m.
+https://staff.am/en/junior-product-owner-4
+250/1429 Est.: 196.5m.
+https://staff.am/en/senior-data-engineer-scientist-armenia-or-relocation-to-netherlands
+251/1429 Est.: 196.33m.
+https://staff.am/en/manual-qa-engineer-mobile-40
+252/1429 Est.: 196.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/data-analyst-at-vbet-7
+253/1429 Est.: 196.0m.
+https://staff.am/en/head-of-it-operations-unit
+254/1429 Est.: 195.83m.
+https://staff.am/en/teacher-of-german-language
+255/1429 Est.: 195.67m.
+https://staff.am/en/ticketing-operator-3
+256/1429 Est.: 195.5m.
+https://staff.am/en/1c-consultant
+257/1429 Est.: 195.33m.
+https://staff.am/en/senior-test-automation-engineer-java-7
+258/1429 Est.: 195.17m.
+https://staff.am/en/senior-test-automation-engineer-in-net-12
+259/1429 Est.: 195.0m.
+https://staff.am/en/middle-software-testing-engineer-7
+260/1429 Est.: 194.83m.
+https://staff.am/en/senior-c-developer-200
+261/1429 Est.: 194.67m.
+https://staff.am/en/cloud-devops-team-leadmanager-12
+262/1429 Est.: 194.5m.
+https://staff.am/en/net-developer-261
+263/1429 Est.: 194.33m.
+https://staff.am/en/java-developer-182
+264/1429 Est.: 194.17m.
+https://staff.am/en/lead-javascript-developer-9
+265/1429 Est.: 194.0m.
+https://staff.am/en/chemist-laboratory-assistant-2
+266/1429 Est.: 193.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-full-stack-javascript-engineer-45
+267/1429 Est.: 193.67m.
+https://staff.am/en/senior-reactjs-developer-85
+268/1429 Est.: 193.5m.
+https://staff.am/en/senior-python-developer-76
+269/1429 Est.: 193.33m.
+https://staff.am/en/junior-net-developer-6
+270/1429 Est.: 193.17m.
+https://staff.am/en/azure-devops-engineer-13
+271/1429 Est.: 193.0m.
+https://staff.am/en/senior-net-developer-292
+272/1429 Est.: 192.83m.
+https://staff.am/en/aws-devops-engineer-13
+273/1429 Est.: 192.67m.
+https://staff.am/en/senior-test-automation-engineer-in-net-9
+274/1429 Est.: 192.5m.
+https://staff.am/en/senior-angular-engineer-13
+275/1429 Est.: 192.33m.
+https://staff.am/en/senior-java-developer-183
+276/1429 Est.: 192.17m.
+https://staff.am/en/senior-test-automation-engineer-in-js-1
+277/1429 Est.: 192.0m.
+https://staff.am/en/customer-care-specialist-54
+278/1429 Est.: 191.83m.
+https://staff.am/en/qa-automation-engineer-203
+279/1429 Est.: 191.67m.
+https://staff.am/en/copywriter-131
+280/1429 Est.: 191.5m.
+https://staff.am/en/gambling-seo-specialist
+281/1429 Est.: 191.33m.
+https://staff.am/en/wordpress-developer-252
+282/1429 Est.: 191.17m.
+https://staff.am/en/front-end-developer-midsenior-1
+283/1429 Est.: 191.0m.
+https://staff.am/en/smm-manager-tiktok-telegram
+284/1429 Est.: 190.83m.
+https://staff.am/en/copywriter-company-image-manager
+285/1429 Est.: 190.67m.
+https://staff.am/en/avtotexspasarkman-keti-mexanik-27
+286/1429 Est.: 190.5m.
+https://staff.am/en/banvor-37
+287/1429 Est.: 190.33m.
+https://staff.am/en/hr-intern-27
+288/1429 Est.: 190.17m.
+https://staff.am/en/srahi-administrator-k-vedi
+289/1429 Est.: 190.0m.
+https://staff.am/en/experienced-project-manager-26
+290/1429 Est.: 189.83m.
+https://staff.am/en/late-recovery-specialist
+291/1429 Est.: 189.67m.
+https://staff.am/en/it-audit-specialist
+292/1429 Est.: 189.5m.
+https://staff.am/en/accountant-769
+293/1429 Est.: 189.33m.
+https://staff.am/en/manual-qa-engineer-370
+294/1429 Est.: 189.17m.
+https://staff.am/en/senior-auditor-19
+295/1429 Est.: 189.0m.
+https://staff.am/en/midsenior-android-developer-14
+296/1429 Est.: 188.83m.
+https://staff.am/en/tender-manager-5
+297/1429 Est.: 188.67m.
+https://staff.am/en/angular-developer-170
+298/1429 Est.: 188.5m.
+https://staff.am/en/vacarki-menejer-294
+299/1429 Est.: 188.33m.
+https://staff.am/en/system-administrator-247
+300/1429 Est.: 188.17m.
+https://staff.am/en/junior-technical-specialist
+301/1429 Est.: 188.0m.
+https://staff.am/en/loan-officer-31
+302/1429 Est.: 187.83m.
+https://staff.am/en/customer-service-specialist-yerevan
+303/1429 Est.: 187.67m.
+https://staff.am/en/specialist-of-the-logistics-department
+304/1429 Est.: 187.5m.
+https://staff.am/en/technical-operations-support
+305/1429 Est.: 187.33m.
+https://staff.am/en/brewer
+306/1429 Est.: 187.17m.
+https://staff.am/en/mr-masnaget-10
+307/1429 Est.: 187.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/it-support-specialist-109
+308/1429 Est.: 186.83m.
+https://staff.am/en/glxavor-hasvapah-119
+309/1429 Est.: 186.67m.
+https://staff.am/en/product-owner-248
+310/1429 Est.: 186.5m.
+https://staff.am/en/security-employee-1
+311/1429 Est.: 186.33m.
+https://staff.am/en/project-manager-578
+312/1429 Est.: 186.17m.
+https://staff.am/en/online-store-manager-for-amazon
+313/1429 Est.: 186.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/information-security-specialist-49
+314/1429 Est.: 185.83m.
+https://staff.am/en/legal-counsel-90
+315/1429 Est.: 185.67m.
+https://staff.am/en/technical-support-engineer-114
+316/1429 Est.: 185.5m.
+https://staff.am/en/leasing-division-senior-specialist
+317/1429 Est.: 185.33m.
+https://staff.am/en/android-developer-487
+318/1429 Est.: 185.17m.
+https://staff.am/en/program-design-manager
+319/1429 Est.: 185.0m.
+https://staff.am/en/product-owner-242
+320/1429 Est.: 184.83m.
+https://staff.am/en/kazmakerputyan-saheri-pastpanutyan-bazni-iravabani
+321/1429 Est.: 184.67m.
+https://staff.am/en/xorhrdatu-vacaroguhi-59
+322/1429 Est.: 184.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/smm-masnaget-91
+323/1429 Est.: 184.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/info-consultant-4
+324/1429 Est.: 184.17m.
+https://staff.am/en/vacarki-masnaget-109
+325/1429 Est.: 184.0m.
+https://staff.am/en/senior-product-designer-37
+326/1429 Est.: 183.83m.
+https://staff.am/en/junior-fpga-qa-engineer-vanadzor-brannch-6
+327/1429 Est.: 183.67m.
+https://staff.am/en/midjunior-digital-design-engineer-vanadzor-branch-6
+328/1429 Est.: 183.5m.
+https://staff.am/en/senior-engineer-for-fpga-development-vanadzor-branch-6
+329/1429 Est.: 183.33m.
+https://staff.am/en/junior-engineer-for-fpga-development-vanadzor-branch-6
+330/1429 Est.: 183.17m.
+https://staff.am/en/senior-fpga-logical-verification-engineer-vanadzor-branch-6
+331/1429 Est.: 183.0m.
+https://staff.am/en/leadsenior-digital-design-engineer-vanadzor-branch-6
+332/1429 Est.: 182.83m.
+https://staff.am/en/junior-fpga-logical-verification-engine-vanadzor-branch-2
+333/1429 Est.: 182.67m.
+https://staff.am/en/senior-backend-java-engineer-search-api-18
+334/1429 Est.: 182.5m.
+https://staff.am/en/backend-nodejs-engineer-search-api-9
+335/1429 Est.: 182.33m.
+https://staff.am/en/mid-fpga-qa-engineer-vanadzor-branch-6
+336/1429 Est.: 182.17m.
+https://staff.am/en/mid-level-front-end-reactjs-developer
+337/1429 Est.: 182.0m.
+https://staff.am/en/senior-nodejs-developer-134
+338/1429 Est.: 181.83m.
+https://staff.am/en/graphic-designer-691
+339/1429 Est.: 181.67m.
+https://staff.am/en/senior-technical-recruiter-4
+340/1429 Est.: 181.5m.
+https://staff.am/en/group-chief-e-commerce
+341/1429 Est.: 181.33m.
+https://staff.am/en/system-administrator-41-4
+342/1429 Est.: 181.17m.
+https://staff.am/en/chinese-speaking-customer-service-representative-6
+343/1429 Est.: 181.0m.
+https://staff.am/en/it-support-specialist-106
+344/1429 Est.: 180.83m.
+https://staff.am/en/senior-back-end-developer-55
+345/1429 Est.: 180.67m.
+https://staff.am/en/strategic-partner-relationships-senior-coordinator
+346/1429 Est.: 180.5m.
+https://staff.am/en/frontend-ui-engineer
+347/1429 Est.: 180.33m.
+https://staff.am/en/accountant-767
+348/1429 Est.: 180.17m.
+https://staff.am/en/senior-accountant-108
+349/1429 Est.: 180.0m.
+https://staff.am/en/big-data-analyst-3
+350/1429 Est.: 179.83m.
+https://staff.am/en/audit-assistant-30
+351/1429 Est.: 179.67m.
+https://staff.am/en/php-developer-461
+352/1429 Est.: 179.5m.
+https://staff.am/en/software-testing-engineer-17
+353/1429 Est.: 179.33m.
+https://staff.am/en/sef-xoharar-34
+354/1429 Est.: 179.17m.
+https://staff.am/en/delivery-manager-4
+355/1429 Est.: 179.0m.
+https://staff.am/en/it-monitoring-specialist-22
+356/1429 Est.: 178.83m.
+https://staff.am/en/experienced-python-developer-9
+357/1429 Est.: 178.67m.
+https://staff.am/en/senior-android-developer-206
+358/1429 Est.: 178.5m.
+https://staff.am/en/senior-ios-developer-172
+359/1429 Est.: 178.33m.
+https://staff.am/en/diler-vedusij-igr
+360/1429 Est.: 178.17m.
+https://staff.am/en/senior-software-test-engineer
+361/1429 Est.: 178.0m.
+https://staff.am/en/oskeric-masnaget-ararati-marz
+362/1429 Est.: 177.83m.
+https://staff.am/en/lawyer-in-judicial-unit-of-legal-department-2
+363/1429 Est.: 177.67m.
+https://staff.am/en/junior-product-owner
+364/1429 Est.: 177.5m.
+https://staff.am/en/c-developer-189
+365/1429 Est.: 177.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/seniormid-backend-developer
+366/1429 Est.: 177.17m.
+https://staff.am/en/customer-support-specialist-224
+367/1429 Est.: 177.0m.
+https://staff.am/en/english-speaking-account-representative-18
+368/1429 Est.: 176.83m.
+https://staff.am/en/assistent-menedzera-po-eksportu
+369/1429 Est.: 176.67m.
+https://staff.am/en/consumer-lending-specialist-masis-branch-3
+370/1429 Est.: 176.5m.
+https://staff.am/en/front-end-developer-646
+371/1429 Est.: 176.33m.
+https://staff.am/en/sparogakan-varkavorman-masnaget-sisiani-masnacyugum
+372/1429 Est.: 176.17m.
+https://staff.am/en/varkayin-masnaget-sisian-masnacyugum-6
+373/1429 Est.: 176.0m.
+https://staff.am/en/manual-qa-engineer-367
+374/1429 Est.: 175.83m.
+https://staff.am/en/digital-marketer-specialized-in-seo-content
+375/1429 Est.: 175.67m.
+https://staff.am/en/tegekatvakan-anvtangutyan-avag-porjaget
+376/1429 Est.: 175.5m.
+https://staff.am/en/tegekatvakan-anvtangutyan-porjaget-2
+377/1429 Est.: 175.33m.
+https://staff.am/en/senior-it-specialist-icts-department
+378/1429 Est.: 175.17m.
+https://staff.am/en/specialist-otdela-tehniceskoj-podderzki-19
+379/1429 Est.: 175.0m.
+https://staff.am/en/hasvetar-operator-59
+380/1429 Est.: 174.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/qa-automation-engineer-i-12
+381/1429 Est.: 174.67m.
+https://staff.am/en/xoharar-43
+382/1429 Est.: 174.5m.
+https://staff.am/en/partkeri-havakagrman-kordinator-4
+383/1429 Est.: 174.33m.
+https://staff.am/en/sales-consultant-394
+384/1429 Est.: 174.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/middle-python-developer
+385/1429 Est.: 174.0m.
+https://staff.am/en/graphic-designer-690
+386/1429 Est.: 173.83m.
+https://staff.am/en/senior-automation-qa-engineer-36
+387/1429 Est.: 173.67m.
+https://staff.am/en/experienced-net-developer-25
+388/1429 Est.: 173.5m.
+https://staff.am/en/senior-net-developer-289
+389/1429 Est.: 173.33m.
+https://staff.am/en/experienced-qa-manualautomation-engineer-16
+390/1429 Est.: 173.17m.
+https://staff.am/en/middle-c-developer
+391/1429 Est.: 173.0m.
+https://staff.am/en/architect-designer-16
+392/1429 Est.: 172.83m.
+https://staff.am/en/smm-specialist-580
+393/1429 Est.: 172.67m.
+https://staff.am/en/senior-manual-qa-engineer-10
+394/1429 Est.: 172.5m.
+https://staff.am/en/manual-qa-engineer-364
+395/1429 Est.: 172.33m.
+https://staff.am/en/senior-java-software-engineer-91
+396/1429 Est.: 172.17m.
+https://staff.am/en/senior-digital-marketing-specialist-16
+397/1429 Est.: 172.0m.
+https://staff.am/en/social-media-manager-34
+398/1429 Est.: 171.83m.
+https://staff.am/en/training-development-specialist-3
+399/1429 Est.: 171.67m.
+https://staff.am/en/zangeri-spasarkman-kentroni-masnaget-18
+400/1429 Est.: 171.5m.
+https://staff.am/en/senior-nodejs-developer-131
+401/1429 Est.: 171.33m.
+https://staff.am/en/produktneri-ev-hacaxordneri-gnagoyacman-gcov-verlucaban
+402/1429 Est.: 171.17m.
+https://staff.am/en/backend-developer-81
+403/1429 Est.: 171.0m.
+https://staff.am/en/customer-success-and-sales-specialist-15
+404/1429 Est.: 170.83m.
+https://staff.am/en/reactjs-developer-250
+405/1429 Est.: 170.67m.
+https://staff.am/en/frontend-developer-108
+406/1429 Est.: 170.5m.
+https://staff.am/en/monitoring-and-evaluation-me-officer
+407/1429 Est.: 170.33m.
+https://staff.am/en/legal-officer-2
+408/1429 Est.: 170.17m.
+https://staff.am/en/architectconstruction-pm-7
+409/1429 Est.: 170.0m.
+https://staff.am/en/senior-graphic-designer-93
+410/1429 Est.: 169.83m.
+https://staff.am/en/hasvapah-453
+411/1429 Est.: 169.67m.
+https://staff.am/en/talent-acquisition-specialist-109
+412/1429 Est.: 169.5m.
+https://staff.am/en/auditor-43
+413/1429 Est.: 169.33m.
+https://staff.am/en/nodejs-developer-309
+414/1429 Est.: 169.17m.
+https://staff.am/en/hr-administration-specialist-32
+415/1429 Est.: 169.0m.
+https://staff.am/en/marketing-specialist-crm
+416/1429 Est.: 168.83m.
+https://staff.am/en/react-js-developer-136
+417/1429 Est.: 168.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/associate-teacher
+418/1429 Est.: 168.5m.
+https://staff.am/en/sdet-java-37
+419/1429 Est.: 168.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/home-visit-specialist-10
+420/1429 Est.: 168.17m.
+https://staff.am/en/debt-collection-specialist-31
+421/1429 Est.: 168.0m.
+https://staff.am/en/creative-content-writer-49
+422/1429 Est.: 167.83m.
+https://staff.am/en/senior-engineering-manager-7
+423/1429 Est.: 167.67m.
+https://staff.am/en/online-dealer-11
+424/1429 Est.: 167.5m.
+https://staff.am/en/it-project-manager-261
+425/1429 Est.: 167.33m.
+https://staff.am/en/administrator-call-center-specialist
+426/1429 Est.: 167.17m.
+https://staff.am/en/administrative-assistant-office-manager-3
+427/1429 Est.: 167.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/it-project-manager-258
+428/1429 Est.: 166.83m.
+https://staff.am/en/real-estate-agent-2
+429/1429 Est.: 166.67m.
+https://staff.am/en/react-js-developer-130
+430/1429 Est.: 166.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/uiux-designer-710
+431/1429 Est.: 166.33m.
+https://staff.am/en/product-designer-65
+432/1429 Est.: 166.17m.
+https://staff.am/en/senior-ios-developer-169
+433/1429 Est.: 166.0m.
+https://staff.am/en/java-developer-179
+434/1429 Est.: 165.83m.
+https://staff.am/en/time-cafe-biznes-cyugi-zargacman-gekavar
+435/1429 Est.: 165.67m.
+https://staff.am/en/uiux-designer-707
+436/1429 Est.: 165.5m.
+https://staff.am/en/manager-responsible-for-b2b-partnerships
+437/1429 Est.: 165.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/category-manager-26
+438/1429 Est.: 165.17m.
+https://staff.am/en/content-creatorcopywriter
+439/1429 Est.: 165.0m.
+https://staff.am/en/customer-success-associate-3
+440/1429 Est.: 164.83m.
+https://staff.am/en/system-administrator-243
+441/1429 Est.: 164.67m.
+https://staff.am/en/leadership-development-manager-22
+442/1429 Est.: 164.5m.
+https://staff.am/en/kari-texnolog
+443/1429 Est.: 164.33m.
+https://staff.am/en/e-commerce-support-expert-night-shift
+444/1429 Est.: 164.17m.
+https://staff.am/en/system-administratordesktop-support
+445/1429 Est.: 164.0m.
+https://staff.am/en/purchase-specialist
+446/1429 Est.: 163.83m.
+https://staff.am/en/varkayin-masnagetarmavir
+447/1429 Est.: 163.67m.
+https://staff.am/en/varkayin-masnagetijevan
+448/1429 Est.: 163.5m.
+https://staff.am/en/businesssystem-analyst
+449/1429 Est.: 163.33m.
+https://staff.am/en/recruitment-executive
+450/1429 Est.: 163.17m.
+https://staff.am/en/graphic-designer-686
+451/1429 Est.: 163.0m.
+https://staff.am/en/naxaorakavorman-cragirastarak
+452/1429 Est.: 162.83m.
+https://staff.am/en/finansakan-xorhrdatu-k-erevan-8
+453/1429 Est.: 162.67m.
+https://staff.am/en/technical-recruiter-junior
+454/1429 Est.: 162.5m.
+https://staff.am/en/social-media-marketing-expert-for-e-commerce
+455/1429 Est.: 162.33m.
+https://staff.am/en/graphic-designer-685
+456/1429 Est.: 162.17m.
+https://staff.am/en/sponsorship-assistant-13
+457/1429 Est.: 162.0m.
+https://staff.am/en/e-commerce-graphic-designer
+458/1429 Est.: 161.83m.
+https://staff.am/en/senior-front-end-developer-128
+459/1429 Est.: 161.67m.
+https://staff.am/en/executive-assistant-128
+460/1429 Est.: 161.5m.
+https://staff.am/en/elektratexnikayi-gcov-naxagcog
+461/1429 Est.: 161.33m.
+https://staff.am/en/customer-experience-specialist-20
+462/1429 Est.: 161.17m.
+https://staff.am/en/doctor-expert-5
+463/1429 Est.: 161.0m.
+https://staff.am/en/call-centers-specialist
+464/1429 Est.: 160.83m.
+https://staff.am/en/c-qt-developer
+465/1429 Est.: 160.67m.
+https://staff.am/en/customs-broker-9
+466/1429 Est.: 160.5m.
+https://staff.am/en/head-of-budgeting-and-reporting-division-financial-department
+467/1429 Est.: 160.33m.
+https://staff.am/en/project-assistant-41
+468/1429 Est.: 160.17m.
+https://staff.am/en/brand-manager-124
+469/1429 Est.: 160.0m.
+https://staff.am/en/deputy-branch-managersenior-loan-officer
+470/1429 Est.: 159.83m.
+https://staff.am/en/partkeri-havakagrman-masnaget-15
+471/1429 Est.: 159.67m.
+https://staff.am/en/cancayin-administrator-24
+472/1429 Est.: 159.5m.
+https://staff.am/en/angular-developer-167
+473/1429 Est.: 159.33m.
+https://staff.am/en/senior-datadatabase-architect-mfd-42
+474/1429 Est.: 159.17m.
+https://staff.am/en/it-project-manager-255
+475/1429 Est.: 159.0m.
+https://staff.am/en/qa-automation-engineer-202
+476/1429 Est.: 158.83m.
+https://staff.am/en/sales-manager-656
+477/1429 Est.: 158.67m.
+https://staff.am/en/ssalcman-artadramasi-banvor
+478/1429 Est.: 158.5m.
+https://staff.am/en/php-developer-458
+479/1429 Est.: 158.33m.
+https://staff.am/en/hasvetar-operator-56
+480/1429 Est.: 158.17m.
+https://staff.am/en/content-writer-and-strategist
+481/1429 Est.: 158.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/odapoxutyan-hamakargeri-cartaraget
+482/1429 Est.: 157.83m.
+https://staff.am/en/head-of-marketing-29
+483/1429 Est.: 157.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/php-developer-456
+484/1429 Est.: 157.5m.
+https://staff.am/en/elektronayin-plataneri-havakman-ev-zodman-masnaget
+485/1429 Est.: 157.33m.
+https://staff.am/en/devops-system-engineer-40
+486/1429 Est.: 157.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/specialist-transfer-pricing
+487/1429 Est.: 157.0m.
+https://staff.am/en/vacarog-xorhrdatu-172
+488/1429 Est.: 156.83m.
+https://staff.am/en/administrative-assistant-280
+489/1429 Est.: 156.67m.
+https://staff.am/en/aml-officer-6
+490/1429 Est.: 156.5m.
+https://staff.am/en/senior-golang-developer-91
+491/1429 Est.: 156.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-golang-developer-remote-51
+492/1429 Est.: 156.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-ios-developer-remote-51
+493/1429 Est.: 156.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/ios-developer-478
+494/1429 Est.: 155.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/transfer-pricing-senior
+495/1429 Est.: 155.67m.
+https://staff.am/en/preseller-87
+496/1429 Est.: 155.5m.
+https://staff.am/en/data-engineer-customer-complaint-data-integration
+497/1429 Est.: 155.33m.
+https://staff.am/en/sr-data-engineer-quality-operations-data-integration
+498/1429 Est.: 155.17m.
+https://staff.am/en/sr-data-engineer-product-data-integration
+499/1429 Est.: 155.0m.
+https://staff.am/en/engineer-quality-analytics-6
+500/1429 Est.: 154.83m.
+https://staff.am/en/zangeri-kentroni-timi-gekavar
+501/1429 Est.: 154.67m.
+https://staff.am/en/urist-v-uridiceskuu-kompaniu
+502/1429 Est.: 154.5m.
+https://staff.am/en/technical-writer-156
+503/1429 Est.: 154.33m.
+https://staff.am/en/senior-nodejs-engineer-9
+504/1429 Est.: 154.17m.
+https://staff.am/en/senior-android-developer-203
+505/1429 Est.: 154.0m.
+https://staff.am/en/senior-ios-developer-166
+506/1429 Est.: 153.83m.
+https://staff.am/en/iravaban-159
+507/1429 Est.: 153.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/hasvetar-230
+508/1429 Est.: 153.5m.
+https://staff.am/en/canaparhasinarar-inzener
+509/1429 Est.: 153.33m.
+https://staff.am/en/gnumneri-masnaget-82
+510/1429 Est.: 153.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/tnoreni-ognakan-82
+511/1429 Est.: 153.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/smm-specialist-577
+512/1429 Est.: 152.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/web-designer-104
+513/1429 Est.: 152.67m.
+https://staff.am/en/sales-support-specialist
+514/1429 Est.: 152.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/audit-senior
+515/1429 Est.: 152.33m.
+https://staff.am/en/project-manager-architect-designer
+516/1429 Est.: 152.17m.
+https://staff.am/en/procurement-contract-manager
+517/1429 Est.: 152.0m.
+https://staff.am/en/operator-124
+518/1429 Est.: 151.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/medical-representative-60
+519/1429 Est.: 151.67m.
+https://staff.am/en/programme-policy-officer-social-safetynet-programme-sc9
+520/1429 Est.: 151.5m.
+https://staff.am/en/web-designer-101
+521/1429 Est.: 151.33m.
+https://staff.am/en/import-specialist-senior-4
+522/1429 Est.: 151.17m.
+https://staff.am/en/maksayin-jevakerpumneri-masnaget-59
+523/1429 Est.: 151.0m.
+https://staff.am/en/call-center-operator-108
+524/1429 Est.: 150.83m.
+https://staff.am/en/paymanagreri-spasarkman-ev-vacarki-masnaget
+525/1429 Est.: 150.67m.
+https://staff.am/en/arcanc-xagavar-3
+526/1429 Est.: 150.5m.
+https://staff.am/en/graphic-designer-681
+527/1429 Est.: 150.33m.
+https://staff.am/en/data-quality-assurance-team-lead-live-scouting
+528/1429 Est.: 150.17m.
+https://staff.am/en/grafik-dizayner-241
+529/1429 Est.: 150.0m.
+https://staff.am/en/seo-expert-4
+530/1429 Est.: 149.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/hasvapah-597
+531/1429 Est.: 149.67m.
+https://staff.am/en/himnakan-mijoncneri-ev-pasarneri-hasvarman-masov-hasvapah-7
+532/1429 Est.: 149.5m.
+https://staff.am/en/sales-department-employee-4
+533/1429 Est.: 149.33m.
+https://staff.am/en/project-manager-575
+534/1429 Est.: 149.17m.
+https://staff.am/en/solutions-engineer-4
+535/1429 Est.: 149.0m.
+https://staff.am/en/senior-applications-engineer-15
+536/1429 Est.: 148.83m.
+https://staff.am/en/senior-software-engineer-210
+537/1429 Est.: 148.67m.
+https://staff.am/en/pythonc-developer
+538/1429 Est.: 148.5m.
+https://staff.am/en/pmj-ev-korporativ-biznesi-xorhrdatu
+539/1429 Est.: 148.33m.
+https://staff.am/en/sr-applications-engineer
+540/1429 Est.: 148.17m.
+https://staff.am/en/sukayi-zargacman-patasxanatu-129
+541/1429 Est.: 148.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/varord-arakic-115
+542/1429 Est.: 147.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/quality-engineer-mid-level
+543/1429 Est.: 147.67m.
+https://staff.am/en/sr-qualityanalog-design-engineer
+544/1429 Est.: 147.5m.
+https://staff.am/en/senior-communications-specialistcreative-writer-office-of-communications
+545/1429 Est.: 147.33m.
+https://staff.am/en/asxatakazmi-krtser-masnaget
+546/1429 Est.: 147.17m.
+https://staff.am/en/sr-analog-design-engineer
+547/1429 Est.: 147.0m.
+https://staff.am/en/senior-engineer-custom-design-methodologies
+548/1429 Est.: 146.83m.
+https://staff.am/en/live-games-planning-specialist-22
+549/1429 Est.: 146.67m.
+https://staff.am/en/senior-people-advisory-specialist
+550/1429 Est.: 146.5m.
+https://staff.am/en/game-presenter-english-3
+551/1429 Est.: 146.33m.
+https://staff.am/en/aspnet-mvc-developer-15
+552/1429 Est.: 146.17m.
+https://staff.am/en/designer-52
+553/1429 Est.: 146.0m.
+https://staff.am/en/hr-manager-175
+554/1429 Est.: 145.83m.
+https://staff.am/en/hotel-chain-general-manager
+555/1429 Est.: 145.67m.
+https://staff.am/en/tour-transport-operator-englishfrenchgerman
+556/1429 Est.: 145.5m.
+https://staff.am/en/recruiter-77
+557/1429 Est.: 145.33m.
+https://staff.am/en/midsenior-nodejs-developer-21
+558/1429 Est.: 145.17m.
+https://staff.am/en/full-stack-developer-213
+559/1429 Est.: 145.0m.
+https://staff.am/en/auto-accident-assessment-specialist
+560/1429 Est.: 144.83m.
+https://staff.am/en/group-compliance-specialist-36
+561/1429 Est.: 144.67m.
+https://staff.am/en/medical-representatives-team-lead-1
+562/1429 Est.: 144.5m.
+https://staff.am/en/customer-support-specialist-221
+563/1429 Est.: 144.33m.
+https://staff.am/en/qa-engineer-1000
+564/1429 Est.: 144.17m.
+https://staff.am/en/javascript-developer-115
+565/1429 Est.: 144.0m.
+https://staff.am/en/service-desk-specialist-4
+566/1429 Est.: 143.83m.
+https://staff.am/en/pokr-biznesi-hacaxordneri-het-asxatanki-menejer-kmartuni
+567/1429 Est.: 143.67m.
+https://staff.am/en/varkayin-masnaget-ararat-masnacyugum-7
+568/1429 Est.: 143.5m.
+https://staff.am/en/net-developer-258
+569/1429 Est.: 143.33m.
+https://staff.am/en/customer-support-agent-french-language-mixed-shift-27
+570/1429 Est.: 143.17m.
+https://staff.am/en/administrativ-ognakan-85
+571/1429 Est.: 143.0m.
+https://staff.am/en/strategy-and-transactions-analyst
+572/1429 Est.: 142.83m.
+https://staff.am/en/dispatcher-46
+573/1429 Est.: 142.67m.
+https://staff.am/en/uiux-designer-704
+574/1429 Est.: 142.5m.
+https://staff.am/en/copywriter-128
+575/1429 Est.: 142.33m.
+https://staff.am/en/change-management-specialist-15
+576/1429 Est.: 142.17m.
+https://staff.am/en/software-engineer-java-1
+577/1429 Est.: 142.0m.
+https://staff.am/en/quality-control-and-quality-assurance-manager
+578/1429 Est.: 141.83m.
+https://staff.am/en/grafik-dizayner-229
+579/1429 Est.: 141.67m.
+https://staff.am/en/database-specialist-data-entry-specialist
+580/1429 Est.: 141.5m.
+https://staff.am/en/sales-consultant-393
+581/1429 Est.: 141.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/junior-associate-lawyer-6
+582/1429 Est.: 141.17m.
+https://staff.am/en/programmer-24
+583/1429 Est.: 141.0m.
+https://staff.am/en/ganjapah-upay-nkerutyunum-k-erevan-11
+584/1429 Est.: 140.83m.
+https://staff.am/en/revenue-recognition-analyst-4
+585/1429 Est.: 140.67m.
+https://staff.am/en/sales-compensation-analyst-6
+586/1429 Est.: 140.5m.
+https://staff.am/en/payroll-specialist-11
+587/1429 Est.: 140.33m.
+https://staff.am/en/talin-masnacyugi-karavaric
+588/1429 Est.: 140.17m.
+https://staff.am/en/business-intelligence-analyst-28
+589/1429 Est.: 140.0m.
+https://staff.am/en/php-developer-453
+590/1429 Est.: 139.83m.
+https://staff.am/en/french-speaking-customer-service-representative
+591/1429 Est.: 139.67m.
+https://staff.am/en/tibco-bw-bpm
+592/1429 Est.: 139.5m.
+https://staff.am/en/hr-generalist-74
+593/1429 Est.: 139.33m.
+https://staff.am/en/dramarkgayin-gorcarnutyunneri-bazni-arzekneri-verahasvman-xmbi-ganjapah
+594/1429 Est.: 139.17m.
+https://staff.am/en/mijazgayyin-finansakan-institutneri-ev-nerdrogneri-het-asxatankneri-kazmakerpman-masnaget
+595/1429 Est.: 139.0m.
+https://staff.am/en/pasivayin-gorcarnutyunneri-bazni-masnaget
+596/1429 Est.: 138.83m.
+https://staff.am/en/front-end-developer-643
+597/1429 Est.: 138.67m.
+https://staff.am/en/smm-specialist-574
+598/1429 Est.: 138.5m.
+https://staff.am/en/sukayi-zargacman-patasxanatu-132
+599/1429 Est.: 138.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/basic-support-agent-on-shift-9
+600/1429 Est.: 138.17m.
+https://staff.am/en/varord-arakicner-7
+601/1429 Est.: 138.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/credit-monitoring-specialist-2
+602/1429 Est.: 137.83m.
+https://staff.am/en/procurement-specialist-86
+603/1429 Est.: 137.67m.
+https://staff.am/en/project-manager-569
+604/1429 Est.: 137.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/qa-engineer-997
+605/1429 Est.: 137.33m.
+https://staff.am/en/head-of-credit-administration
+606/1429 Est.: 137.17m.
+https://staff.am/en/midsenior-net-developer-9
+607/1429 Est.: 137.0m.
+https://staff.am/en/ganjapetakan-bazni-avag-masnaget
+608/1429 Est.: 136.83m.
+https://staff.am/en/web-development-workshop-leadercontent-developer-24
+609/1429 Est.: 136.67m.
+https://staff.am/en/account-manager-109
+610/1429 Est.: 136.5m.
+https://staff.am/en/linux-systems-administrator-16-7
+611/1429 Est.: 136.33m.
+https://staff.am/en/hindi-support-manager-12
+612/1429 Est.: 136.17m.
+https://staff.am/en/head-of-unit-product-and-project-management-unit
+613/1429 Est.: 136.0m.
+https://staff.am/en/gorcavar-53
+614/1429 Est.: 135.83m.
+https://staff.am/en/graphic-designer-678
+615/1429 Est.: 135.67m.
+https://staff.am/en/front-desk-supervisor
+616/1429 Est.: 135.5m.
+https://staff.am/en/internal-auditor-tax-1
+617/1429 Est.: 135.33m.
+https://staff.am/en/assistant-to-the-head-of-the-legal-department
+618/1429 Est.: 135.17m.
+https://staff.am/en/engineer-reporting-and-analysis-4
+619/1429 Est.: 135.0m.
+https://staff.am/en/customer-service-and-sales-manager-2
+620/1429 Est.: 134.83m.
+https://staff.am/en/senior-customer-care-specialist-52
+621/1429 Est.: 134.67m.
+https://staff.am/en/junior-customer-care-specialist-1
+622/1429 Est.: 134.5m.
+https://staff.am/en/junior-graphic-designer-22
+623/1429 Est.: 134.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/mid-level-htmlcss-developer-75
+624/1429 Est.: 134.17m.
+https://staff.am/en/wordpress-developer-249
+625/1429 Est.: 134.0m.
+https://staff.am/en/architect-13
+626/1429 Est.: 133.83m.
+https://staff.am/en/gnumneri-masnaget-79
+627/1429 Est.: 133.67m.
+https://staff.am/en/aparik-vacarki-gcov-masnaget-6
+628/1429 Est.: 133.5m.
+https://staff.am/en/kotayk-masnacyugi-hogeban-4
+629/1429 Est.: 133.33m.
+https://staff.am/en/talent-acquisition-specialist-106
+630/1429 Est.: 133.17m.
+https://staff.am/en/payment-service-monitoring-specialist-3
+631/1429 Est.: 133.0m.
+https://staff.am/en/seller-cashier-in-gyumri-8
+632/1429 Est.: 132.83m.
+https://staff.am/en/creative-content-writer-46
+633/1429 Est.: 132.67m.
+https://staff.am/en/chief-expert-of-financial-analyses-unit
+634/1429 Est.: 132.5m.
+https://staff.am/en/net-developer-257
+635/1429 Est.: 132.33m.
+https://staff.am/en/vacarki-menejer-288
+636/1429 Est.: 132.17m.
+https://staff.am/en/grants-coordinator-1
+637/1429 Est.: 132.0m.
+https://staff.am/en/frontend-web-developer
+638/1429 Est.: 131.83m.
+https://staff.am/en/devops-engineer-404
+639/1429 Est.: 131.67m.
+https://staff.am/en/it-operations-engineer-6
+640/1429 Est.: 131.5m.
+https://staff.am/en/midjunior-digital-design-engineer-term-15
+641/1429 Est.: 131.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/java-software-engineer-senior
+642/1429 Est.: 131.17m.
+https://staff.am/en/cloud-engineer-mid-level
+643/1429 Est.: 131.0m.
+https://staff.am/en/marketing-team-lead-14
+644/1429 Est.: 130.83m.
+https://staff.am/en/communications-specialist-15
+645/1429 Est.: 130.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/cloud-operations-engineer-6
+646/1429 Est.: 130.5m.
+https://staff.am/en/senior-net-engineer-36
+647/1429 Est.: 130.33m.
+https://staff.am/en/net-software-engineer-48
+648/1429 Est.: 130.17m.
+https://staff.am/en/net-software-engineer-45
+649/1429 Est.: 130.0m.
+https://staff.am/en/ux-engineer-strong-midsenior-2
+650/1429 Est.: 129.83m.
+https://staff.am/en/devops-engineer-401
+651/1429 Est.: 129.67m.
+https://staff.am/en/varkayin-masnagetpmj-ev-gyugatntesakan-varkavorman-gcov-hh-marzerum
+652/1429 Est.: 129.5m.
+https://staff.am/en/middlesenior-android-developer
+653/1429 Est.: 129.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/qa-engineer-994
+654/1429 Est.: 129.17m.
+https://staff.am/en/middlesenior-ios-developer
+655/1429 Est.: 129.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/qa-engineer-991
+656/1429 Est.: 128.83m.
+https://staff.am/en/front-end-software-engineer-senior-10
+657/1429 Est.: 128.67m.
+https://staff.am/en/cc-software-engineer-22
+658/1429 Est.: 128.5m.
+https://staff.am/en/internal-ratespricing-clerk-required-for-netherlands-office
+659/1429 Est.: 128.33m.
+https://staff.am/en/digital-print-specialist
+660/1429 Est.: 128.17m.
+https://staff.am/en/sr-talent-acquisition-business-partner
+661/1429 Est.: 128.0m.
+https://staff.am/en/financial-operations-officer
+662/1429 Est.: 127.83m.
+https://staff.am/en/gorcnkerneri-nergravman-ev-verapatrastman-masnaget
+663/1429 Est.: 127.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/sales-analyst-15
+664/1429 Est.: 127.5m.
+https://staff.am/en/italian-speaking-sales-manager
+665/1429 Est.: 127.33m.
+https://staff.am/en/qa-engineer-988
+666/1429 Est.: 127.17m.
+https://staff.am/en/teller-50
+667/1429 Est.: 127.0m.
+https://staff.am/en/pahestapet-47
+668/1429 Est.: 126.83m.
+https://staff.am/en/masnacyugayin-canci-administrativ-hamakargog
+669/1429 Est.: 126.67m.
+https://staff.am/en/vector-graphics-specialist
+670/1429 Est.: 126.5m.
+https://staff.am/en/saleswoman-27
+671/1429 Est.: 126.33m.
+https://staff.am/en/mid-c-net-full-stack-developer
+672/1429 Est.: 126.17m.
+https://staff.am/en/generation-a
+673/1429 Est.: 126.0m.
+https://staff.am/en/full-stack-software-engineer-freelance
+674/1429 Est.: 125.83m.
+https://staff.am/en/backend-php-developer-3
+675/1429 Est.: 125.67m.
+https://staff.am/en/backend-nodejs-developer
+676/1429 Est.: 125.5m.
+https://staff.am/en/general-manager-37
+677/1429 Est.: 125.33m.
+https://staff.am/en/e-commerce-leader
+678/1429 Est.: 125.17m.
+https://staff.am/en/chief-accountant-145
+679/1429 Est.: 125.0m.
+https://staff.am/en/b2b-sales-team-leader
+680/1429 Est.: 124.83m.
+https://staff.am/en/b2b-sales-manager-41
+681/1429 Est.: 124.67m.
+https://staff.am/en/colleague-support-engineer
+682/1429 Est.: 124.5m.
+https://staff.am/en/reactjs-developer-247
+683/1429 Est.: 124.33m.
+https://staff.am/en/reconciliation-officer-30
+684/1429 Est.: 124.17m.
+https://staff.am/en/oskeric-gnahatog-k-abovyan
+685/1429 Est.: 124.0m.
+https://staff.am/en/varkayin-masnaget-abovyan-mc-6
+686/1429 Est.: 123.83m.
+https://staff.am/en/content-writercopywriter-16
+687/1429 Est.: 123.67m.
+https://staff.am/en/marketing-specialist-363
+688/1429 Est.: 123.5m.
+https://staff.am/en/pr-manager-26
+689/1429 Est.: 123.33m.
+https://staff.am/en/internal-control-and-risk-manager-7
+690/1429 Est.: 123.17m.
+https://staff.am/en/contact-center-coordinator-4
+691/1429 Est.: 123.0m.
+https://staff.am/en/xndraharuyc-varkeri-hetberman-gcov-asxatakic-gorcakal-6
+692/1429 Est.: 122.83m.
+https://staff.am/en/office-coordinator-open-education-4
+693/1429 Est.: 122.67m.
+https://staff.am/en/pharmacist-55
+694/1429 Est.: 122.5m.
+https://staff.am/en/musical-instruments-instructor
+695/1429 Est.: 122.33m.
+https://staff.am/en/uiux-design-lead-21
+696/1429 Est.: 122.17m.
+https://staff.am/en/java-technical-lead-22
+697/1429 Est.: 122.0m.
+https://staff.am/en/technical-writer-153
+698/1429 Est.: 121.83m.
+https://staff.am/en/technical-writer-french-6
+699/1429 Est.: 121.67m.
+https://staff.am/en/senior-react-native-developer-28
+700/1429 Est.: 121.5m.
+https://staff.am/en/anvtangutyan-asxatakic-80
+701/1429 Est.: 121.33m.
+https://staff.am/en/senior-front-end-developer-reactjs
+702/1429 Est.: 121.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/group-financial-audit-specialist-36
+703/1429 Est.: 121.0m.
+https://staff.am/en/hr-generalist-71
+704/1429 Est.: 120.83m.
+https://staff.am/en/texnikakan-ajakcutyan-masnaget-37
+705/1429 Est.: 120.67m.
+https://staff.am/en/packet-core-engineer-6
+706/1429 Est.: 120.5m.
+https://staff.am/en/gnumneri-hamakargog-6
+707/1429 Est.: 120.33m.
+https://staff.am/en/chief-legal-advisor
+708/1429 Est.: 120.17m.
+https://staff.am/en/intern-mfd-it-service-desk-administrator-9
+709/1429 Est.: 120.0m.
+https://staff.am/en/intern-mfd-noc-engineer-9
+710/1429 Est.: 119.83m.
+https://staff.am/en/vacarki-menejer-285
+711/1429 Est.: 119.67m.
+https://staff.am/en/partner-enrollment-specialist-17
+712/1429 Est.: 119.5m.
+https://staff.am/en/festival-director-head-of-events
+713/1429 Est.: 119.33m.
+https://staff.am/en/content-writer-332
+714/1429 Est.: 119.17m.
+https://staff.am/en/digital-platform-owner-6
+715/1429 Est.: 119.0m.
+https://staff.am/en/contact-center-operator-6
+716/1429 Est.: 118.83m.
+https://staff.am/en/bnapahpanakan-ev-socialakan-riskeri-gcov-arajatar-masnaget-6
+717/1429 Est.: 118.67m.
+https://staff.am/en/digital-marketing-manager-83
+718/1429 Est.: 118.5m.
+https://staff.am/en/technical-support-specialist-195
+719/1429 Est.: 118.33m.
+https://staff.am/en/artasahmanyan-gnumneri-hamakargog-7
+720/1429 Est.: 118.17m.
+https://staff.am/en/outbound-team-sales-team-specialist-contact-center-8
+721/1429 Est.: 118.0m.
+https://staff.am/en/sales-manager-651
+722/1429 Est.: 117.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/inbound-communication-team-specialist-10
+723/1429 Est.: 117.67m.
+https://staff.am/en/assistant-to-head-of-trading-operations-21
+724/1429 Est.: 117.5m.
+https://staff.am/en/mid-devops-engineer-9
+725/1429 Est.: 117.33m.
+https://staff.am/en/financial-planning-analysis-analyst
+726/1429 Est.: 117.17m.
+https://staff.am/en/customer-service-representative-phone-email-and-chat-5
+727/1429 Est.: 117.0m.
+https://staff.am/en/ios-developer-464
+728/1429 Est.: 116.83m.
+https://staff.am/en/android-developer-478
+729/1429 Est.: 116.67m.
+https://staff.am/en/chemistry-teacher-2
+730/1429 Est.: 116.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/seo-specialist-217
+731/1429 Est.: 116.33m.
+https://staff.am/en/uiux-designer-703
+732/1429 Est.: 116.17m.
+https://staff.am/en/naxaorakavorman-cragirkajaran
+733/1429 Est.: 116.0m.
+https://staff.am/en/naxaorakavorman-cragirmartuni
+734/1429 Est.: 115.83m.
+https://staff.am/en/naxaorakavorman-cragirhrazdan
+735/1429 Est.: 115.67m.
+https://staff.am/en/naxaorakavorman-cragirijevan
+736/1429 Est.: 115.5m.
+https://staff.am/en/net-developer-253
+737/1429 Est.: 115.33m.
+https://staff.am/en/naxaorakavorman-cragirtalin
+738/1429 Est.: 115.17m.
+https://staff.am/en/naxaorakavorman-cragirglxamasayin-grasenyak
+739/1429 Est.: 115.0m.
+https://staff.am/en/typesetter-graphic-designer-for-comics
+740/1429 Est.: 114.83m.
+https://staff.am/en/naxaorakavorman-cragir-armavir
+741/1429 Est.: 114.67m.
+https://staff.am/en/naxaorakavorman-cragir-aparan
+742/1429 Est.: 114.5m.
+https://staff.am/en/sales-manager-650
+743/1429 Est.: 114.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-it-business-analyst-14
+744/1429 Est.: 114.17m.
+https://staff.am/en/recruiter-76
+745/1429 Est.: 114.0m.
+https://staff.am/en/vacarki-ev-spasarkman-masnaget-k-spitak
+746/1429 Est.: 113.83m.
+https://staff.am/en/associate-sdet-qa
+747/1429 Est.: 113.67m.
+https://staff.am/en/customer-engagement-specialist
+748/1429 Est.: 113.5m.
+https://staff.am/en/senior-mobile-software-engineer-in-test-58
+749/1429 Est.: 113.33m.
+https://staff.am/en/senior-corporate-trainer
+750/1429 Est.: 113.17m.
+https://staff.am/en/seo-project-manager-1
+751/1429 Est.: 113.0m.
+https://staff.am/en/head-of-trading-department
+752/1429 Est.: 112.83m.
+https://staff.am/en/qa-engineer-985
+753/1429 Est.: 112.67m.
+https://staff.am/en/housekeeping-supervisor-2
+754/1429 Est.: 112.5m.
+https://staff.am/en/it-specialist-107
+755/1429 Est.: 112.33m.
+https://staff.am/en/angularnode-js-developer
+756/1429 Est.: 112.17m.
+https://staff.am/en/ui-developer-54
+757/1429 Est.: 112.0m.
+https://staff.am/en/office-assistant-12
+758/1429 Est.: 111.83m.
+https://staff.am/en/full-stack-engineer-17
+759/1429 Est.: 111.67m.
+https://staff.am/en/specialized-doctors
+760/1429 Est.: 111.5m.
+https://staff.am/en/pahesti-asxatakic-7
+761/1429 Est.: 111.33m.
+https://staff.am/en/english-speaking-sales-manager-10
+762/1429 Est.: 111.17m.
+https://staff.am/en/cafe-manager-female
+763/1429 Est.: 111.0m.
+https://staff.am/en/sales-and-marketing-director
+764/1429 Est.: 110.83m.
+https://staff.am/en/client-manager-33
+765/1429 Est.: 110.67m.
+https://staff.am/en/node-js-developer-32
+766/1429 Est.: 110.5m.
+https://staff.am/en/logisticsoperation-manager
+767/1429 Est.: 110.33m.
+https://staff.am/en/staff-accountant-10
+768/1429 Est.: 110.17m.
+https://staff.am/en/sports-gaming-data-analyst-4
+769/1429 Est.: 110.0m.
+https://staff.am/en/head-of-construction-works
+770/1429 Est.: 109.83m.
+https://staff.am/en/product-marketing-manager-43
+771/1429 Est.: 109.67m.
+https://staff.am/en/mid-full-stack-engineer-19
+772/1429 Est.: 109.5m.
+https://staff.am/en/content-writer-for-betconstruct
+773/1429 Est.: 109.33m.
+https://staff.am/en/senior-react-developer-89
+774/1429 Est.: 109.17m.
+https://staff.am/en/leading-analyst-3
+775/1429 Est.: 109.0m.
+https://staff.am/en/qa-automation-engineer-backend-55
+776/1429 Est.: 108.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/buhgalter-283
+777/1429 Est.: 108.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/php-developer-450
+778/1429 Est.: 108.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/teller-49
+779/1429 Est.: 108.33m.
+https://staff.am/en/vacarki-ev-spasarkman-masnaget-19
+780/1429 Est.: 108.17m.
+https://staff.am/en/engineering-manager-mobile-meters
+781/1429 Est.: 108.0m.
+https://staff.am/en/cook-22
+782/1429 Est.: 107.83m.
+https://staff.am/en/mid-php-developer-30
+783/1429 Est.: 107.67m.
+https://staff.am/en/senior-php-developer-150
+784/1429 Est.: 107.5m.
+https://staff.am/en/manual-qa-specialist-50
+785/1429 Est.: 107.33m.
+https://staff.am/en/receptionist-130
+786/1429 Est.: 107.17m.
+https://staff.am/en/full-stack-developer-210
+787/1429 Est.: 107.0m.
+https://staff.am/en/engineering-manager-desktop-meters
+788/1429 Est.: 106.83m.
+https://staff.am/en/product-marketing-manager-at-vbet-12
+789/1429 Est.: 106.67m.
+https://staff.am/en/devops-engineer-398
+790/1429 Est.: 106.5m.
+https://staff.am/en/content-writer-326
+791/1429 Est.: 106.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/sales-person
+792/1429 Est.: 106.17m.
+https://staff.am/en/varord-arakic-112
+793/1429 Est.: 106.0m.
+https://staff.am/en/nodejs-developer-303
+794/1429 Est.: 105.83m.
+https://staff.am/en/cleaning-woman
+795/1429 Est.: 105.67m.
+https://staff.am/en/digital-marketing-manager-user-acquisition-manager
+796/1429 Est.: 105.5m.
+https://staff.am/en/senior-devops-engineer-70
+797/1429 Est.: 105.33m.
+https://staff.am/en/mid-qa-engineer-11
+798/1429 Est.: 105.17m.
+https://staff.am/en/parcel-examination-coordinator
+799/1429 Est.: 105.0m.
+https://staff.am/en/php-developer-447
+800/1429 Est.: 104.83m.
+https://staff.am/en/full-stack-developerlaravel-vuejs
+801/1429 Est.: 104.67m.
+https://staff.am/en/customer-service-specialistnight-shift-job-15
+802/1429 Est.: 104.5m.
+https://staff.am/en/arajatar-varkayin-masnaget-18
+803/1429 Est.: 104.33m.
+https://staff.am/en/fashion-content-creation-training
+804/1429 Est.: 104.17m.
+https://staff.am/en/qa-engineer-982
+805/1429 Est.: 104.0m.
+https://staff.am/en/qa-engineer-manual-4
+806/1429 Est.: 103.83m.
+https://staff.am/en/manual-qa-tester-84
+807/1429 Est.: 103.67m.
+https://staff.am/en/graphic-designer-676
+808/1429 Est.: 103.5m.
+https://staff.am/en/lead-trainer-web-mobile-development-4
+809/1429 Est.: 103.33m.
+https://staff.am/en/react-native-developer-142
+810/1429 Est.: 103.17m.
+https://staff.am/en/seo-specialist-senior-level
+811/1429 Est.: 103.0m.
+https://staff.am/en/co-trainer-web-mobile-development-6
+812/1429 Est.: 102.83m.
+https://staff.am/en/hasvapah-590
+813/1429 Est.: 102.67m.
+https://staff.am/en/evocalab-7
+814/1429 Est.: 102.5m.
+https://staff.am/en/sales-manager-649
+815/1429 Est.: 102.33m.
+https://staff.am/en/levis-store-manager-5
+816/1429 Est.: 102.17m.
+https://staff.am/en/ambarjici-reach-truck-varord-13
+817/1429 Est.: 102.0m.
+https://staff.am/en/incoming-tour-manager-39
+818/1429 Est.: 101.83m.
+https://staff.am/en/hiring-mid-senior-nodejs-reactjs-developer
+819/1429 Est.: 101.67m.
+https://staff.am/en/human-resource-intern-10
+820/1429 Est.: 101.5m.
+https://staff.am/en/verahskogutyan-carayutyan-compliance-arajatar-masnaget-7
+821/1429 Est.: 101.33m.
+https://staff.am/en/biznes-planavorman-glxavor-masnaget-4
+822/1429 Est.: 101.17m.
+https://staff.am/en/service-desk-consultant-20
+823/1429 Est.: 101.0m.
+https://staff.am/en/logistik-menejer-10
+824/1429 Est.: 100.83m.
+https://staff.am/en/ios-developer-475
+825/1429 Est.: 100.67m.
+https://staff.am/en/learning-coach-in-yerevan-35
+826/1429 Est.: 100.5m.
+https://staff.am/en/account-manager-106
+827/1429 Est.: 100.33m.
+https://staff.am/en/nodejs-developer-300
+828/1429 Est.: 100.17m.
+https://staff.am/en/vacarog-xorhrdatu-166
+829/1429 Est.: 100.0m.
+https://staff.am/en/business-development-manager-95
+830/1429 Est.: 99.83m.
+https://staff.am/en/staff-development-specialist
+831/1429 Est.: 99.67m.
+https://staff.am/en/qa-engineer-mid-level-10
+832/1429 Est.: 99.5m.
+https://staff.am/en/senior-react-developer-80
+833/1429 Est.: 99.33m.
+https://staff.am/en/senior-php-laravel-developer-13
+834/1429 Est.: 99.17m.
+https://staff.am/en/sales-consultant-389
+835/1429 Est.: 99.0m.
+https://staff.am/en/customer-support-specialist-220
+836/1429 Est.: 98.83m.
+https://staff.am/en/back-end-software-engineer-specialistsenior-level-6
+837/1429 Est.: 98.67m.
+https://staff.am/en/the-us-commercial-lawyer-15
+838/1429 Est.: 98.5m.
+https://staff.am/en/internal-ratespricing-assistant-uk-office
+839/1429 Est.: 98.33m.
+https://staff.am/en/produkt-menejer-bukmeykerakan-ev-onlayn-xagatneri-uggutyun
+840/1429 Est.: 98.17m.
+https://staff.am/en/talent-acquisition-manager-4
+841/1429 Est.: 98.0m.
+https://staff.am/en/texnikakan-ajakcman-masnaget-43
+842/1429 Est.: 97.83m.
+https://staff.am/en/data-scientist-144
+843/1429 Est.: 97.67m.
+https://staff.am/en/senior-product-designer-desktop-apps-9
+844/1429 Est.: 97.5m.
+https://staff.am/en/senior-product-designer-web-platform-6
+845/1429 Est.: 97.33m.
+https://staff.am/en/motivated-evening-shift-managers-and-operators-are-needed
+846/1429 Est.: 97.17m.
+https://staff.am/en/senior-react-js-developer-66
+847/1429 Est.: 97.0m.
+https://staff.am/en/smm-specialist-572
+848/1429 Est.: 96.83m.
+https://staff.am/en/junior-software-developer-17
+849/1429 Est.: 96.67m.
+https://staff.am/en/it-specialist-102
+850/1429 Est.: 96.5m.
+https://staff.am/en/client-solutions-engineer-10
+851/1429 Est.: 96.33m.
+https://staff.am/en/react-developer-68
+852/1429 Est.: 96.17m.
+https://staff.am/en/data-engineer-108
+853/1429 Est.: 96.0m.
+https://staff.am/en/senior-tech-recruiter
+854/1429 Est.: 95.83m.
+https://staff.am/en/vacarki-menejer-275
+855/1429 Est.: 95.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/onlayn-xagavar-35
+856/1429 Est.: 95.5m.
+https://staff.am/en/hr-generalist-68
+857/1429 Est.: 95.33m.
+https://staff.am/en/beauty-consultant-6
+858/1429 Est.: 95.17m.
+https://staff.am/en/android-developer-juniormiddle
+859/1429 Est.: 95.0m.
+https://staff.am/en/senior-information-security-specialist-2
+860/1429 Est.: 94.83m.
+https://staff.am/en/head-of-it-3
+861/1429 Est.: 94.67m.
+https://staff.am/en/quality-assurance-engineer-64
+862/1429 Est.: 94.5m.
+https://staff.am/en/spa-receptionist-2
+863/1429 Est.: 94.33m.
+https://staff.am/en/smm-specialist-571
+864/1429 Est.: 94.17m.
+https://staff.am/en/mid-level-php-laravel-developer-161
+865/1429 Est.: 94.0m.
+https://staff.am/en/financial-analyst-122
+866/1429 Est.: 93.83m.
+https://staff.am/en/product-manager-269
+867/1429 Est.: 93.67m.
+https://staff.am/en/night-shift-call-center-operator-4
+868/1429 Est.: 93.5m.
+https://staff.am/en/trdp-program-assistant-stepanakert
+869/1429 Est.: 93.33m.
+https://staff.am/en/senior-software-engineer-fleet-pro-1
+870/1429 Est.: 93.17m.
+https://staff.am/en/epic-communications-administrative-coordinator-10
+871/1429 Est.: 93.0m.
+https://staff.am/en/varkayin-portfeli-karavaric-erevani-masnacyuger
+872/1429 Est.: 92.83m.
+https://staff.am/en/ganjapah-menejer-porjnak-erevani-ejmiacni-ijevani-masnacyuger
+873/1429 Est.: 92.67m.
+https://staff.am/en/cashier-seller-9
+874/1429 Est.: 92.5m.
+https://staff.am/en/backend-team-lead
+875/1429 Est.: 92.33m.
+https://staff.am/en/data-engineer-107
+876/1429 Est.: 92.17m.
+https://staff.am/en/b2b-sales-manager-38
+877/1429 Est.: 92.0m.
+https://staff.am/en/software-engineer-java-backend-5
+878/1429 Est.: 91.83m.
+https://staff.am/en/head-of-b2c-sales
+879/1429 Est.: 91.67m.
+https://staff.am/en/digital-and-channels-manager-1
+880/1429 Est.: 91.5m.
+https://staff.am/en/call-center-operator-106
+881/1429 Est.: 91.33m.
+https://staff.am/en/it-security-officer-21
+882/1429 Est.: 91.17m.
+https://staff.am/en/finansakan-hasvetvutyunneri-glxavor-masnaget
+883/1429 Est.: 91.0m.
+https://staff.am/en/customer-operations-portfolio-manager-24
+884/1429 Est.: 90.83m.
+https://staff.am/en/it-security-officer-18
+885/1429 Est.: 90.67m.
+https://staff.am/en/facility-operation-and-maintenance-manager
+886/1429 Est.: 90.5m.
+https://staff.am/en/construction-estimator
+887/1429 Est.: 90.33m.
+https://staff.am/en/branch-status-contact-center-intern
+888/1429 Est.: 90.17m.
+https://staff.am/en/front-desk-associate-10
+889/1429 Est.: 90.0m.
+https://staff.am/en/midsenior-ios-developer-18
+890/1429 Est.: 89.83m.
+https://staff.am/en/cashier-69
+891/1429 Est.: 89.67m.
+https://staff.am/en/xorhrdatu-vacaroguhi-56
+892/1429 Est.: 89.5m.
+https://staff.am/en/content-manager-71
+893/1429 Est.: 89.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/ios-developer-middle
+894/1429 Est.: 89.17m.
+https://staff.am/en/constructor-engineer
+895/1429 Est.: 89.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/purchasing-and-sales-manager-3
+896/1429 Est.: 88.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/ginu-vacarki-menejer
+897/1429 Est.: 88.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/devops-engineer-397
+898/1429 Est.: 88.5m.
+https://staff.am/en/ux-designer-36
+899/1429 Est.: 88.33m.
+https://staff.am/en/frontend-team-lead-4
+900/1429 Est.: 88.17m.
+https://staff.am/en/software-development-engineer-in-test-4
+901/1429 Est.: 88.0m.
+https://staff.am/en/senior-software-engineer-frontend-1
+902/1429 Est.: 87.83m.
+https://staff.am/en/machine-learning-computer-vision-scientist-5
+903/1429 Est.: 87.67m.
+https://staff.am/en/project-coordinator-75
+904/1429 Est.: 87.5m.
+https://staff.am/en/territorial-manager-of-chain-stores
+905/1429 Est.: 87.33m.
+https://staff.am/en/corporate-sales-manager-30
+906/1429 Est.: 87.17m.
+https://staff.am/en/swedish-language-specialist-translator
+907/1429 Est.: 87.0m.
+https://staff.am/en/kyrgyz-language-specialist-translator
+908/1429 Est.: 86.83m.
+https://staff.am/en/agile-project-manager-19
+909/1429 Est.: 86.67m.
+https://staff.am/en/german-speaking-account-manager-5
+910/1429 Est.: 86.5m.
+https://staff.am/en/associate-program-manager-internship-4
+911/1429 Est.: 86.33m.
+https://staff.am/en/senior-php-yii-developer-2
+912/1429 Est.: 86.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/devops-engineer-392
+913/1429 Est.: 86.0m.
+https://staff.am/en/ipchain-armenia
+914/1429 Est.: 85.83m.
+https://staff.am/en/sales-manager-648
+915/1429 Est.: 85.67m.
+https://staff.am/en/mid-level-wordpress-developer
+916/1429 Est.: 85.5m.
+https://staff.am/en/administrative-director-regional-offices-10
+917/1429 Est.: 85.33m.
+https://staff.am/en/system-engineer-15
+918/1429 Est.: 85.17m.
+https://staff.am/en/terminalneri-artadrutyan-ev-texnikakan-spasarkman-masnaget-1
+919/1429 Est.: 85.0m.
+https://staff.am/en/business-analyst-143
+920/1429 Est.: 84.83m.
+https://staff.am/en/qa-engineer-979
+921/1429 Est.: 84.67m.
+https://staff.am/en/senior-java-developer-180
+922/1429 Est.: 84.5m.
+https://staff.am/en/java-developer-178
+923/1429 Est.: 84.33m.
+https://staff.am/en/lead-cc-software-engineer-24
+924/1429 Est.: 84.17m.
+https://staff.am/en/marketing-planning-and-reporting-analyst
+925/1429 Est.: 84.0m.
+https://staff.am/en/mortgage-sales-representative
+926/1429 Est.: 83.83m.
+https://staff.am/en/hr-coordinator-14
+927/1429 Est.: 83.67m.
+https://staff.am/en/call-center-specialist-113
+928/1429 Est.: 83.5m.
+https://staff.am/en/dispatcher-45
+929/1429 Est.: 83.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/general-manager-36
+930/1429 Est.: 83.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/english-speaking-customer-care-specialist-night-shift
+931/1429 Est.: 83.0m.
+https://staff.am/en/full-stack-engineer-ii-6
+932/1429 Est.: 82.83m.
+https://staff.am/en/rd-engineer-ii-windows-1
+933/1429 Est.: 82.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-data-engineer-ii-9
+934/1429 Est.: 82.5m.
+https://staff.am/en/senior-electron-engineer-1
+935/1429 Est.: 82.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-data-analyst-21
+936/1429 Est.: 82.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/test-automation-tech-lead-1
+937/1429 Est.: 82.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/english-and-french-speaking-customer-care-specialist
+938/1429 Est.: 81.83m.
+https://staff.am/en/3d-modeling-workshop-leadercontent-developer-36
+939/1429 Est.: 81.67m.
+https://staff.am/en/photography-workshop-leadercontent-developer-16
+940/1429 Est.: 81.5m.
+https://staff.am/en/game-development-workshop-leadercontent-developer-33
+941/1429 Est.: 81.33m.
+https://staff.am/en/programming-workshop-leadercontent-developer-34
+942/1429 Est.: 81.17m.
+https://staff.am/en/new-media-workshop-leader-2
+943/1429 Est.: 81.0m.
+https://staff.am/en/administrative-assistant-277
+944/1429 Est.: 80.83m.
+https://staff.am/en/accountant-760
+945/1429 Est.: 80.67m.
+https://staff.am/en/software-qa-engineer-qa-2135am
+946/1429 Est.: 80.5m.
+https://staff.am/en/consultant-sales
+947/1429 Est.: 80.33m.
+https://staff.am/en/chief-it-auditor-4
+948/1429 Est.: 80.17m.
+https://staff.am/en/digital-marketing-specialist-422
+949/1429 Est.: 80.0m.
+https://staff.am/en/front-end-developer-640
+950/1429 Est.: 79.83m.
+https://staff.am/en/b2c-marketingi-masnaget-7
+951/1429 Est.: 79.67m.
+https://staff.am/en/seller-consultant-19
+952/1429 Est.: 79.5m.
+https://staff.am/en/oskeric-masnaget-k-erevan-19
+953/1429 Est.: 79.33m.
+https://staff.am/en/human-resources-2
+954/1429 Est.: 79.17m.
+https://staff.am/en/php-laravel-developer-84
+955/1429 Est.: 79.0m.
+https://staff.am/en/logistic-manager-12
+956/1429 Est.: 78.83m.
+https://staff.am/en/c-developer-186
+957/1429 Est.: 78.67m.
+https://staff.am/en/transporti-ev-arakman-pahestneri-gekavar
+958/1429 Est.: 78.5m.
+https://staff.am/en/marketing-specialist-360
+959/1429 Est.: 78.33m.
+https://staff.am/en/wordpress-developer-246
+960/1429 Est.: 78.17m.
+https://staff.am/en/photographer-13
+961/1429 Est.: 78.0m.
+https://staff.am/en/administratorexecutive-assistant-1
+962/1429 Est.: 77.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/smm-specialist-569
+963/1429 Est.: 77.67m.
+https://staff.am/en/tnoren-23
+964/1429 Est.: 77.5m.
+https://staff.am/en/learning-coachinfo-desk-and-registration-coordinator-in-gavar-6
+965/1429 Est.: 77.33m.
+https://staff.am/en/express-van-services-coordinator
+966/1429 Est.: 77.17m.
+https://staff.am/en/senior-angular-developer-37
+967/1429 Est.: 77.0m.
+https://staff.am/en/kimik-texnolog-45
+968/1429 Est.: 76.83m.
+https://staff.am/en/senior-net-developer-286
+969/1429 Est.: 76.67m.
+https://staff.am/en/graphic-designer-672
+970/1429 Est.: 76.5m.
+https://staff.am/en/matakarar-27
+971/1429 Est.: 76.33m.
+https://staff.am/en/asxgek-31
+972/1429 Est.: 76.17m.
+https://staff.am/en/qa-engineer-976
+973/1429 Est.: 76.0m.
+https://staff.am/en/maksayin-jevakerpumneri-masnaget-56
+974/1429 Est.: 75.83m.
+https://staff.am/en/artadrakan-tegamasi-patasxanatu
+975/1429 Est.: 75.67m.
+https://staff.am/en/live-streaming-specialist
+976/1429 Est.: 75.5m.
+https://staff.am/en/digital-marketing-specialist-420
+977/1429 Est.: 75.33m.
+https://staff.am/en/seller-consultant-yerevan-15
+978/1429 Est.: 75.17m.
+https://staff.am/en/accountant-763
+979/1429 Est.: 75.0m.
+https://staff.am/en/senior-ppc-specialist-13
+980/1429 Est.: 74.83m.
+https://staff.am/en/artagna-brnaganjman-masnaget
+981/1429 Est.: 74.67m.
+https://staff.am/en/senior-ios-software-engineer-8
+982/1429 Est.: 74.5m.
+https://staff.am/en/senior-analyst-8
+983/1429 Est.: 74.33m.
+https://staff.am/en/senior-software-engineer-207
+984/1429 Est.: 74.17m.
+https://staff.am/en/dataops-engineer
+985/1429 Est.: 74.0m.
+https://staff.am/en/second-store-manager-3
+986/1429 Est.: 73.83m.
+https://staff.am/en/fixedfmc-mass-market-products-owner
+987/1429 Est.: 73.67m.
+https://staff.am/en/sales-and-service-specialist-44
+988/1429 Est.: 73.5m.
+https://staff.am/en/full-stack-developer-206
+989/1429 Est.: 73.33m.
+https://staff.am/en/leading-system-administrator-31
+990/1429 Est.: 73.17m.
+https://staff.am/en/restaurant-manager-34
+991/1429 Est.: 73.0m.
+https://staff.am/en/assistant-project-manager-8
+992/1429 Est.: 72.83m.
+https://staff.am/en/front-office-agent
+993/1429 Est.: 72.67m.
+https://staff.am/en/marketing-and-pr-coordinator-4
+994/1429 Est.: 72.5m.
+https://staff.am/en/react-js-developer-115
+995/1429 Est.: 72.33m.
+https://staff.am/en/project-manager-564
+996/1429 Est.: 72.17m.
+https://staff.am/en/sales-operations-analyst-6
+997/1429 Est.: 72.0m.
+https://staff.am/en/reporting-and-data-analyst
+998/1429 Est.: 71.83m.
+https://staff.am/en/data-analyst-124
+999/1429 Est.: 71.67m.
+https://staff.am/en/sales-and-service-specialist-43
+1000/1429 Est.: 71.5m.
+https://staff.am/en/meneger-4
+1001/1429 Est.: 71.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/public-partnerships-manager-1
+1002/1429 Est.: 71.17m.
+https://staff.am/en/international-accountant-mfd-10
+1003/1429 Est.: 71.0m.
+https://staff.am/en/senior-it-system-engineer-mfd
+1004/1429 Est.: 70.83m.
+https://staff.am/en/mid-devops-engineer-6
+1005/1429 Est.: 70.67m.
+https://staff.am/en/project-manager-561
+1006/1429 Est.: 70.5m.
+https://staff.am/en/project-manager-558
+1007/1429 Est.: 70.33m.
+https://staff.am/en/head-of-pr-and-communication
+1008/1429 Est.: 70.17m.
+https://staff.am/en/project-manager-555
+1009/1429 Est.: 70.0m.
+https://staff.am/en/fixedfmc-customers-loyalty-and-retention-product-manager
+1010/1429 Est.: 69.83m.
+https://staff.am/en/it-helpdesk-specialist-21
+1011/1429 Est.: 69.67m.
+https://staff.am/en/fransereni-masnaget-gestionnaire-tiers-payant-9
+1012/1429 Est.: 69.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-creative-analyst
+1013/1429 Est.: 69.33m.
+https://staff.am/en/seo-specialist-214
+1014/1429 Est.: 69.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/electronics-design-engineer
+1015/1429 Est.: 69.0m.
+https://staff.am/en/procurement-inventory-specialist
+1016/1429 Est.: 68.83m.
+https://staff.am/en/turkish-speaking-account-manager-6
+1017/1429 Est.: 68.67m.
+https://staff.am/en/b2b-account-manager-spanish-speaking-6
+1018/1429 Est.: 68.5m.
+https://staff.am/en/artakin-govazdi-masnaget-5
+1019/1429 Est.: 68.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/investments-and-fundraising-intern
+1020/1429 Est.: 68.17m.
+https://staff.am/en/pr-masnaget-3
+1021/1429 Est.: 68.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/kahuykagorc-3
+1022/1429 Est.: 67.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/hasvetar-225
+1023/1429 Est.: 67.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/inknakpcun-samoklej-pakcnog-masnaget
+1024/1429 Est.: 67.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/associate-project-manager-13
+1025/1429 Est.: 67.33m.
+https://staff.am/en/company-work-coordinator-1
+1026/1429 Est.: 67.17m.
+https://staff.am/en/smm-masnaget-87
+1027/1429 Est.: 67.0m.
+https://staff.am/en/vacarki-menejer-280
+1028/1429 Est.: 66.83m.
+https://staff.am/en/grafik-dizayner-223
+1029/1429 Est.: 66.67m.
+https://staff.am/en/sales-specialist-140
+1030/1429 Est.: 66.5m.
+https://staff.am/en/administrative-assistant-273
+1031/1429 Est.: 66.33m.
+https://staff.am/en/field-advisor-4
+1032/1429 Est.: 66.17m.
+https://staff.am/en/grant-scheme-manager
+1033/1429 Est.: 66.0m.
+https://staff.am/en/sales-and-business-development-manager-2
+1034/1429 Est.: 65.83m.
+https://staff.am/en/xorhrdatu-vacaroguhi-52
+1035/1429 Est.: 65.67m.
+https://staff.am/en/support-manager-farsi-19
+1036/1429 Est.: 65.5m.
+https://staff.am/en/aprankaget-logist-10
+1037/1429 Est.: 65.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/js-senior-developer-4
+1038/1429 Est.: 65.17m.
+https://staff.am/en/fc-bank-support-specialist-7
+1039/1429 Est.: 65.0m.
+https://staff.am/en/export-manager-46
+1040/1429 Est.: 64.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/furniture-designer-12
+1041/1429 Est.: 64.67m.
+https://staff.am/en/guyki-gnahatman-patasxanatu
+1042/1429 Est.: 64.5m.
+https://staff.am/en/junior-ifrs-accountant
+1043/1429 Est.: 64.33m.
+https://staff.am/en/lead-python-developer-online-education-solutions-7
+1044/1429 Est.: 64.17m.
+https://staff.am/en/android-developer-tickets-selling-system-1
+1045/1429 Est.: 64.0m.
+https://staff.am/en/ios-developer-energy-tech-solutions-1
+1046/1429 Est.: 63.83m.
+https://staff.am/en/front-end-developer-online-trading-1
+1047/1429 Est.: 63.67m.
+https://staff.am/en/senior-devops-engineer-67
+1048/1429 Est.: 63.5m.
+https://staff.am/en/nodejs-engineer-32
+1049/1429 Est.: 63.33m.
+https://staff.am/en/middle-business-analyst-banking-app-1
+1050/1429 Est.: 63.17m.
+https://staff.am/en/mercendayzer-34
+1051/1429 Est.: 63.0m.
+https://staff.am/en/preseller-84
+1052/1429 Est.: 62.83m.
+https://staff.am/en/avag-hasvapah-68
+1053/1429 Est.: 62.67m.
+https://staff.am/en/finansakan-verahskich-hashvetar-7
+1054/1429 Est.: 62.5m.
+https://staff.am/en/java-developer-intern
+1055/1429 Est.: 62.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/seo-specialist-211
+1056/1429 Est.: 62.17m.
+https://staff.am/en/customer-experience-specialist-17
+1057/1429 Est.: 62.0m.
+https://staff.am/en/project-manager-540
+1058/1429 Est.: 61.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/product-manager-266
+1059/1429 Est.: 61.67m.
+https://staff.am/en/project-manager-554
+1060/1429 Est.: 61.5m.
+https://staff.am/en/web-developer-167
+1061/1429 Est.: 61.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/content-creator-10
+1062/1429 Est.: 61.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/rd-manager-29827br
+1063/1429 Est.: 61.0m.
+https://staff.am/en/quality-engineer-31226
+1064/1429 Est.: 60.83m.
+https://staff.am/en/software-engineer-30749
+1065/1429 Est.: 60.67m.
+https://staff.am/en/sr-java-full-stack-developer-29137br-9
+1066/1429 Est.: 60.5m.
+https://staff.am/en/sr-analog-design-engineer-30621
+1067/1429 Est.: 60.33m.
+https://staff.am/en/sr-asic-physical-design-engineer31118br-1
+1068/1429 Est.: 60.17m.
+https://staff.am/en/senior-applications-engineer-30195
+1069/1429 Est.: 60.0m.
+https://staff.am/en/senior-asic-physical-design-engineer-30961
+1070/1429 Est.: 59.83m.
+https://staff.am/en/cpython-developer-30866
+1071/1429 Est.: 59.67m.
+https://staff.am/en/aktiv-vacarki-gorcakal-8
+1072/1429 Est.: 59.5m.
+https://staff.am/en/forexcfd-retention-englisharabicswedishgerman
+1073/1429 Est.: 59.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/risk-specialist-21
+1074/1429 Est.: 59.17m.
+https://staff.am/en/rd-engineer-sr-staff30825br-1
+1075/1429 Est.: 59.0m.
+https://staff.am/en/rabotnik-sklada-5
+1076/1429 Est.: 58.83m.
+https://staff.am/en/orakavorog-inzener
+1077/1429 Est.: 58.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/digital-marketing-specialist-417
+1078/1429 Est.: 58.5m.
+https://staff.am/en/product-marketing-manager-40
+1079/1429 Est.: 58.33m.
+https://staff.am/en/product-owner-236
+1080/1429 Est.: 58.17m.
+https://staff.am/en/games-quality-verification-specialist-16
+1081/1429 Est.: 58.0m.
+https://staff.am/en/vacarog-xorhrdatu-161
+1082/1429 Est.: 57.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/import-specialist-senior
+1083/1429 Est.: 57.67m.
+https://staff.am/en/call-centre-specialist-11
+1084/1429 Est.: 57.5m.
+https://staff.am/en/marketingi-menejer-33
+1085/1429 Est.: 57.33m.
+https://staff.am/en/customer-support-specialist-218
+1086/1429 Est.: 57.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/software-engineer-algorithms-and-data-science-12
+1087/1429 Est.: 57.0m.
+https://staff.am/en/back-end-softwaredata-engineer-seniormid-level
+1088/1429 Est.: 56.83m.
+https://staff.am/en/devops-engineer-389
+1089/1429 Est.: 56.67m.
+https://staff.am/en/technical-support-engineer-111
+1090/1429 Est.: 56.5m.
+https://staff.am/en/qa-analyst-16
+1091/1429 Est.: 56.33m.
+https://staff.am/en/arabic-forex-account-manager-retention
+1092/1429 Est.: 56.17m.
+https://staff.am/en/customer-support-6
+1093/1429 Est.: 56.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/engineering-manager-site-reliability-engineering-6
+1094/1429 Est.: 55.83m.
+https://staff.am/en/java-engineer-63
+1095/1429 Est.: 55.67m.
+https://staff.am/en/operations-coordinator-1
+1096/1429 Est.: 55.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/digital-marketing-specialist-416
+1097/1429 Est.: 55.33m.
+https://staff.am/en/java-engineer-jsdom-experience-is-required-1
+1098/1429 Est.: 55.17m.
+https://staff.am/en/senior-front-end-engineer-69
+1099/1429 Est.: 55.0m.
+https://staff.am/en/associate-customer-support-specialist-6
+1100/1429 Est.: 54.83m.
+https://staff.am/en/technical-writer-150
+1101/1429 Est.: 54.67m.
+https://staff.am/en/it-business-analyst-80
+1102/1429 Est.: 54.5m.
+https://staff.am/en/bookkeeper-16
+1103/1429 Est.: 54.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/experienced-mobile-qa-engineer-2
+1104/1429 Est.: 54.17m.
+https://staff.am/en/net-developer-250
+1105/1429 Est.: 54.0m.
+https://staff.am/en/projects-manager-10
+1106/1429 Est.: 53.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/backend-teamlead
+1107/1429 Est.: 53.67m.
+https://staff.am/en/senior-software-engineer-ios-mobile-18
+1108/1429 Est.: 53.5m.
+https://staff.am/en/sukayi-zargacman-patasxanatu-gegarkuniki-marz-4
+1109/1429 Est.: 53.33m.
+https://staff.am/en/sports-trader-4
+1110/1429 Est.: 53.17m.
+https://staff.am/en/associate-product-manager-21
+1111/1429 Est.: 53.0m.
+https://staff.am/en/data-analyst-121
+1112/1429 Est.: 52.83m.
+https://staff.am/en/studiayi-sarkavorumneri-ajakcman-masnaget
+1113/1429 Est.: 52.67m.
+https://staff.am/en/seller-7
+1114/1429 Est.: 52.5m.
+https://staff.am/en/server-administrator-part-time-19
+1115/1429 Est.: 52.33m.
+https://staff.am/en/hr-specialist-199
+1116/1429 Est.: 52.17m.
+https://staff.am/en/customer-success-specialist-28
+1117/1429 Est.: 52.0m.
+https://staff.am/en/hr-business-partner-24
+1118/1429 Est.: 51.83m.
+https://staff.am/en/administrativ-ognakan-82
+1119/1429 Est.: 51.67m.
+https://staff.am/en/export-manager-43
+1120/1429 Est.: 51.5m.
+https://staff.am/en/ozandak-carayutyunneri-bazni-asxatakic-4
+1121/1429 Est.: 51.33m.
+https://staff.am/en/general-manager-33
+1122/1429 Est.: 51.17m.
+https://staff.am/en/mid-level-java-software-engineer-11
+1123/1429 Est.: 51.0m.
+https://staff.am/en/uiux-designer-693
+1124/1429 Est.: 50.83m.
+https://staff.am/en/online-dealer-7
+1125/1429 Est.: 50.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/product-content-specialist
+1126/1429 Est.: 50.5m.
+https://staff.am/en/middle-c-netnet-core-developer-9
+1127/1429 Est.: 50.33m.
+https://staff.am/en/angular-2-developers-6
+1128/1429 Est.: 50.17m.
+https://staff.am/en/specialist-otdela-tehniceskoj-podderzki-16
+1129/1429 Est.: 50.0m.
+https://staff.am/en/kasir
+1130/1429 Est.: 49.83m.
+https://staff.am/en/human-resources-assistant-10
+1131/1429 Est.: 49.67m.
+https://staff.am/en/inzener-konstruktor-24
+1132/1429 Est.: 49.5m.
+https://staff.am/en/ai-engineer-ml-engineer-machine-learning-computer-vision
+1133/1429 Est.: 49.33m.
+https://staff.am/en/midjunior-digital-design-engineer-term-12
+1134/1429 Est.: 49.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/junior-engineer-for-fpga-development-33
+1135/1429 Est.: 49.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/junior-fpga-logical-verification-engineer-22
+1136/1429 Est.: 48.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-engineer-for-fpga-development-16
+1137/1429 Est.: 48.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/leadsenior-digital-design-engineer-12
+1138/1429 Est.: 48.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-fpga-logical-verification-engineer-28
+1139/1429 Est.: 48.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/junior-fpga-qa-engineer-15
+1140/1429 Est.: 48.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/mid-fpga-qa-engineer-18
+1141/1429 Est.: 48.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/senior-java-engineer-36
+1142/1429 Est.: 47.83m.
+https://staff.am/en/lead-android-engineer-1
+1143/1429 Est.: 47.67m.
+https://staff.am/en/senior-android-engineer-24
+1144/1429 Est.: 47.5m.
+https://staff.am/en/front-end-engineer-9
+1145/1429 Est.: 47.33m.
+https://staff.am/en/project-manager-551
+1146/1429 Est.: 47.17m.
+https://staff.am/en/electrical-engineer-17
+1147/1429 Est.: 47.0m.
+https://staff.am/en/htmlcss-intern-stazer-po-verstke
+1148/1429 Est.: 46.83m.
+https://staff.am/en/budget-controller-4
+1149/1429 Est.: 46.67m.
+https://staff.am/en/avag-hasvapah-65
+1150/1429 Est.: 46.5m.
+https://staff.am/en/gnumneri-masnaget-76
+1151/1429 Est.: 46.33m.
+https://staff.am/en/legal-due-diligence-specialist
+1152/1429 Est.: 46.17m.
+https://staff.am/en/glxavor-hasvapahfinansakan-bazni-gekavar-5
+1153/1429 Est.: 46.0m.
+https://staff.am/en/android-developer-481
+1154/1429 Est.: 45.83m.
+https://staff.am/en/ganjapah-upay-nkerutyunum-k-vanajor-2
+1155/1429 Est.: 45.67m.
+https://staff.am/en/data-analyst-and-reporting-specialist
+1156/1429 Est.: 45.5m.
+https://staff.am/en/logistikayi-bazni-operator-3
+1157/1429 Est.: 45.33m.
+https://staff.am/en/graphic-design-workshop-leader-in-gyumri-1
+1158/1429 Est.: 45.17m.
+https://staff.am/en/motion-graphics-workshop-leader-in-gyumri-1
+1159/1429 Est.: 45.0m.
+https://staff.am/en/robotics-workshop-leader-in-gyumri-1
+1160/1429 Est.: 44.83m.
+https://staff.am/en/animation-workshop-leader-in-gyumri-1
+1161/1429 Est.: 44.67m.
+https://staff.am/en/3d-modeling-workshop-leader-in-gyumri-1
+1162/1429 Est.: 44.5m.
+https://staff.am/en/new-media-workshop-leader-in-gyumri-1
+1163/1429 Est.: 44.33m.
+https://staff.am/en/writing-workshop-leader-in-gyumri-1
+1164/1429 Est.: 44.17m.
+https://staff.am/en/filmmaking-workshop-leader-in-gyumri-1
+1165/1429 Est.: 44.0m.
+https://staff.am/en/web-development-workshop-leader-in-gyumri-1
+1166/1429 Est.: 43.83m.
+https://staff.am/en/php-developer-444
+1167/1429 Est.: 43.67m.
+https://staff.am/en/giserayin-hertapoxov-ganjapah
+1168/1429 Est.: 43.5m.
+https://staff.am/en/full-time-german-language-agent-7
+1169/1429 Est.: 43.33m.
+https://staff.am/en/ndi-program-officer
+1170/1429 Est.: 43.17m.
+https://staff.am/en/program-assistant-11
+1171/1429 Est.: 43.0m.
+https://staff.am/en/ganjapah-142
+1172/1429 Est.: 42.83m.
+https://staff.am/en/motion-graphics-workshop-leader-in-dilijan-1
+1173/1429 Est.: 42.67m.
+https://staff.am/en/animation-workshop-leader-in-dilijan-1
+1174/1429 Est.: 42.5m.
+https://staff.am/en/filmmaking-workshop-leader-in-dilijan-7
+1175/1429 Est.: 42.33m.
+https://staff.am/en/new-media-workshop-leader-in-dilijan-1
+1176/1429 Est.: 42.17m.
+https://staff.am/en/3d-modeling-workshop-leader-in-dilijan-1
+1177/1429 Est.: 42.0m.
+https://staff.am/en/music-workshop-leader-in-dilijan-1
+1178/1429 Est.: 41.83m.
+https://staff.am/en/robotics-workshop-leader-in-dilijan-1
+1179/1429 Est.: 41.67m.
+https://staff.am/en/photography-workshop-leader-in-dilijan-1
+1180/1429 Est.: 41.5m.
+https://staff.am/en/graphic-design-workshop-leader-in-dilijan-1
+1181/1429 Est.: 41.33m.
+https://staff.am/en/smm-specialist-563
+1182/1429 Est.: 41.17m.
+https://staff.am/en/drawing-workshop-leader-in-dilijan-1
+1183/1429 Est.: 41.0m.
+https://staff.am/en/game-development-workshop-leader-in-dilijan-1
+1184/1429 Est.: 40.83m.
+https://staff.am/en/web-development-workshop-leader-in-dilijan-1
+1185/1429 Est.: 40.67m.
+https://staff.am/en/programming-workshop-leader-in-dilijan-1
+1186/1429 Est.: 40.5m.
+https://staff.am/en/writing-workshop-leader-in-dilijan-1
+1187/1429 Est.: 40.33m.
+https://staff.am/en/owggutyan-hamakargog-1
+1188/1429 Est.: 40.17m.
+https://staff.am/en/lawyer-160
+1189/1429 Est.: 40.0m.
+https://staff.am/en/leading-sql-bi-developer
+1190/1429 Est.: 39.83m.
+https://staff.am/en/agriculturist
+1191/1429 Est.: 39.67m.
+https://staff.am/en/head-of-sports-department-2
+1192/1429 Est.: 39.5m.
+https://staff.am/en/legal-regulatory-internship
+1193/1429 Est.: 39.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/chief-accountant-144
+1194/1429 Est.: 39.17m.
+https://staff.am/en/office-worker-2
+1195/1429 Est.: 39.0m.
+https://staff.am/en/experienced-angular2-developer-4
+1196/1429 Est.: 38.83m.
+https://staff.am/en/wordpressphp-developer
+1197/1429 Est.: 38.67m.
+https://staff.am/en/php-developer-441
+1198/1429 Est.: 38.5m.
+https://staff.am/en/senior-qa-engineer-215
+1199/1429 Est.: 38.33m.
+https://staff.am/en/senior-net-developer-280
+1200/1429 Est.: 38.17m.
+https://staff.am/en/qa-engineer-970
+1201/1429 Est.: 38.0m.
+https://staff.am/en/senior-react-developer-77
+1202/1429 Est.: 37.83m.
+https://staff.am/en/electronjs-developer-4
+1203/1429 Est.: 37.67m.
+https://staff.am/en/senior-nodejs-developer-128
+1204/1429 Est.: 37.5m.
+https://staff.am/en/accounts-manager
+1205/1429 Est.: 37.33m.
+https://staff.am/en/game-presenter-15
+1206/1429 Est.: 37.17m.
+https://staff.am/en/senior-java-software-engineer-90
+1207/1429 Est.: 37.0m.
+https://staff.am/en/scrum-master-186
+1208/1429 Est.: 36.83m.
+https://staff.am/en/physics-teacher-6
+1209/1429 Est.: 36.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/english-teacher-20
+1210/1429 Est.: 36.5m.
+https://staff.am/en/math-teacher-9
+1211/1429 Est.: 36.33m.
+https://staff.am/en/sr-technical-project-manager-1
+1212/1429 Est.: 36.17m.
+https://staff.am/en/sales-consultant-388
+1213/1429 Est.: 36.0m.
+https://staff.am/en/nerdrumayin-carayutyunneri-varcutyan-mijazgayin-sukayum-arevtri-bazni-arajatar-masnaget
+1214/1429 Est.: 35.83m.
+https://staff.am/en/inzener-energetik-4
+1215/1429 Est.: 35.67m.
+https://staff.am/en/inzenercapagrog-19
+1216/1429 Est.: 35.5m.
+https://staff.am/en/zangeri-spasarkman-kentroni-masnaget-12
+1217/1429 Est.: 35.33m.
+https://staff.am/en/hasvetar-222
+1218/1429 Est.: 35.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/developer-robotic-process-automation-division
+1219/1429 Est.: 35.0m.
+https://staff.am/en/ararat-masnacyugi-karavaric
+1220/1429 Est.: 34.83m.
+https://staff.am/en/tesahskman-hamakargi-hertapah-7
+1221/1429 Est.: 34.67m.
+https://staff.am/en/csshtml-animator
+1222/1429 Est.: 34.5m.
+https://staff.am/en/glxavor-hasvapah-115
+1223/1429 Est.: 34.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/sales-manager-644
+1224/1429 Est.: 34.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/mid-level-video-editor
+1225/1429 Est.: 34.0m.
+https://staff.am/en/business-administrator-11
+1226/1429 Est.: 33.83m.
+https://staff.am/en/reactjs-developer-244
+1227/1429 Est.: 33.67m.
+https://staff.am/en/eu-tumo-convergence-center-project-finance-controller
+1228/1429 Est.: 33.5m.
+https://staff.am/en/junior-seo-specialist-4
+1229/1429 Est.: 33.33m.
+https://staff.am/en/smm-masnaget-83
+1230/1429 Est.: 33.17m.
+https://staff.am/en/wordpress-developer-240
+1231/1429 Est.: 33.0m.
+https://staff.am/en/korporativ-hacaxordneri-het-asxatanki-menejer-kerevan
+1232/1429 Est.: 32.83m.
+https://staff.am/en/korporativ-hacaxordneri-het-asxatanki-menejer-k-kapan-4
+1233/1429 Est.: 32.67m.
+https://staff.am/en/korporativ-hacaxordneri-het-asxatanki-menejer-k-ijevan-4
+1234/1429 Est.: 32.5m.
+https://staff.am/en/dilijan-masnacyugi-karavaric-4
+1235/1429 Est.: 32.33m.
+https://staff.am/en/country-manager-28
+1236/1429 Est.: 32.17m.
+https://staff.am/en/hr-generalist-65
+1237/1429 Est.: 32.0m.
+https://staff.am/en/schedule-specialist-4
+1238/1429 Est.: 31.83m.
+https://staff.am/en/qa-engineer-968
+1239/1429 Est.: 31.67m.
+https://staff.am/en/midsenior-php-developers-6
+1240/1429 Est.: 31.5m.
+https://staff.am/en/restaurant-manager-31
+1241/1429 Est.: 31.33m.
+https://staff.am/en/manager-of-city-park
+1242/1429 Est.: 31.17m.
+https://staff.am/en/talent-acquisition-specialist-98
+1243/1429 Est.: 31.0m.
+https://staff.am/en/administrator-133
+1244/1429 Est.: 30.83m.
+https://staff.am/en/senior-networksystem-administrator
+1245/1429 Est.: 30.67m.
+https://staff.am/en/sql-database-support-and-reporting-specialist-12
+1246/1429 Est.: 30.5m.
+https://staff.am/en/marketing-director-12
+1247/1429 Est.: 30.33m.
+https://staff.am/en/backend-developer-77
+1248/1429 Est.: 30.17m.
+https://staff.am/en/front-end-developer-638
+1249/1429 Est.: 30.0m.
+https://staff.am/en/recruiting-marketing-specialist
+1250/1429 Est.: 29.83m.
+https://staff.am/en/tegekatvakan-anvtangutyan-patasxanatu-5
+1251/1429 Est.: 29.67m.
+https://staff.am/en/java-software-engineer-24
+1252/1429 Est.: 29.5m.
+https://staff.am/en/mid-level-front-end-software-engineer-16
+1253/1429 Est.: 29.33m.
+https://staff.am/en/software-engineer-front-end-3
+1254/1429 Est.: 29.17m.
+https://staff.am/en/web-developer-164
+1255/1429 Est.: 29.0m.
+https://staff.am/en/consultant-and-customer-support-specialist-for-accounting-systems-2
+1256/1429 Est.: 28.83m.
+https://staff.am/en/paid-internship-training
+1257/1429 Est.: 28.67m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/internjunior-devops-engineer-6
+1258/1429 Est.: 28.5m.
+https://staff.am/en/business-development-manager-92
+1259/1429 Est.: 28.33m.
+https://staff.am/en/26
+1260/1429 Est.: 28.17m.
+https://staff.am/en/frontend-developer-102
+1261/1429 Est.: 28.0m.
+https://staff.am/en/frontend-developer-99
+1262/1429 Est.: 27.83m.
+https://staff.am/en/tt-anvtangutyan-masnaget
+1263/1429 Est.: 27.67m.
+https://staff.am/en/sales-consultant-with-exelent-knowledge-of-persian-and-armenian-languages
+1264/1429 Est.: 27.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/learning-coach-in-dilijan-12
+1265/1429 Est.: 27.33m.
+https://staff.am/en/junior-network-and-operation-system-administrator
+1266/1429 Est.: 27.17m.
+https://staff.am/en/texnikakan-ajakcman-masnaget-38
+1267/1429 Est.: 27.0m.
+https://staff.am/en/php-developer-435
+1268/1429 Est.: 26.83m.
+https://staff.am/en/food-and-beverage-manager-assistant
+1269/1429 Est.: 26.67m.
+https://staff.am/en/aktiv-vacarki-gorcakal-erevanum-4
+1270/1429 Est.: 26.5m.
+https://staff.am/en/senior-engineer-ii-c
+1271/1429 Est.: 26.33m.
+https://staff.am/en/corporate-department-specialist
+1272/1429 Est.: 26.17m.
+https://staff.am/en/administrative-assistant-270
+1273/1429 Est.: 26.0m.
+https://staff.am/en/customer-care-representative-3
+1274/1429 Est.: 25.83m.
+https://staff.am/en/accounting-manager-3
+1275/1429 Est.: 25.67m.
+https://staff.am/en/head-of-corporate-department
+1276/1429 Est.: 25.5m.
+https://staff.am/en/manager-137
+1277/1429 Est.: 25.33m.
+https://staff.am/en/nurse-9
+1278/1429 Est.: 25.17m.
+https://staff.am/en/it-technical-support-specialist-45
+1279/1429 Est.: 25.0m.
+https://staff.am/en/it-monitoring-specialist-19
+1280/1429 Est.: 24.83m.
+https://staff.am/en/sales-manager-645
+1281/1429 Est.: 24.67m.
+https://staff.am/en/ofis-menedzer-49
+1282/1429 Est.: 24.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/vice-provost-for-integration
+1283/1429 Est.: 24.33m.
+https://staff.am/en/pmj-hacaxordneri-het-asxatankneri-menejer-28
+1284/1429 Est.: 24.17m.
+https://staff.am/en/construction-project-manager-assistant
+1285/1429 Est.: 24.0m.
+https://staff.am/en/net-developer-244
+1286/1429 Est.: 23.83m.
+https://staff.am/en/game-development-workshop-leadercontent-developer-30
+1287/1429 Est.: 23.67m.
+https://staff.am/en/content-writer-314
+1288/1429 Est.: 23.5m.
+https://staff.am/en/frontend-engineer-21
+1289/1429 Est.: 23.33m.
+https://staff.am/en/finance-specialist-13
+1290/1429 Est.: 23.17m.
+https://staff.am/en/uiux-designer-690
+1291/1429 Est.: 23.0m.
+https://staff.am/en/customer-care-specialist-ii
+1292/1429 Est.: 22.83m.
+https://staff.am/en/qa-specialist-82
+1293/1429 Est.: 22.67m.
+https://staff.am/en/aktiv-vacarki-masnaget-5
+1294/1429 Est.: 22.5m.
+https://staff.am/en/senior-talent-acquisition-specialist-7
+1295/1429 Est.: 22.33m.
+https://staff.am/en/back-office-specialist-28
+1296/1429 Est.: 22.17m.
+https://staff.am/en/php-developer-432
+1297/1429 Est.: 22.0m.
+https://staff.am/en/business-development-call-specialist
+1298/1429 Est.: 21.83m.
+https://staff.am/en/logistic-manager-11
+1299/1429 Est.: 21.67m.
+https://staff.am/en/hacaxordneri-spasarkman-masnaget-kotayk
+1300/1429 Est.: 21.5m.
+https://staff.am/en/customer-service-coordinator-3
+1301/1429 Est.: 21.33m.
+https://staff.am/en/seo-specialist-208
+1302/1429 Est.: 21.17m.
+https://staff.am/en/sales-manager-643
+1303/1429 Est.: 21.0m.
+https://staff.am/en/spasarkman-srahi-masnaget-4
+1304/1429 Est.: 20.83m.
+https://staff.am/en/ppc-specialist-39
+1305/1429 Est.: 20.67m.
+https://staff.am/en/nerkin-anvtangutyan-masnaget
+1306/1429 Est.: 20.5m.
+https://staff.am/en/sales-manager-642
+1307/1429 Est.: 20.33m.
+https://staff.am/en/hasvapah-583
+1308/1429 Est.: 20.17m.
+https://staff.am/en/furniture-designer-10
+1309/1429 Est.: 20.0m.
+https://staff.am/en/seo-specialist-remote-5
+1310/1429 Est.: 19.83m.
+https://staff.am/en/junior-talent-acquisition-specialist-remote
+1311/1429 Est.: 19.67m.
+https://staff.am/en/qa-automation-engineer-199
+1312/1429 Est.: 19.5m.
+https://staff.am/en/service-specialist-ovs-5
+1313/1429 Est.: 19.33m.
+https://staff.am/en/technical-recruiter-85
+1314/1429 Est.: 19.17m.
+https://staff.am/en/hr-manager-168
+1315/1429 Est.: 19.0m.
+https://staff.am/en/english-teacher-18
+1316/1429 Est.: 18.83m.
+https://staff.am/en/it-project-manager-243
+1317/1429 Est.: 18.67m.
+https://staff.am/en/food-and-beverage-manager-6
+1318/1429 Est.: 18.5m.
+https://staff.am/en/ui-software-engineer-6
+1319/1429 Est.: 18.33m.
+https://staff.am/en/senior-software-developer-php-mysql-mfd-36
+1320/1429 Est.: 18.17m.
+https://staff.am/en/senior-cloud-engineer-mfd-15
+1321/1429 Est.: 18.0m.
+https://staff.am/en/senior-devops-engineer-mfd-39
+1322/1429 Est.: 17.83m.
+https://staff.am/en/senior-solutionaws-developer-mfd-30
+1323/1429 Est.: 17.67m.
+https://staff.am/en/import-specialist-45
+1324/1429 Est.: 17.5m.
+https://staff.am/en/principal-engineer-in-fpga-placement-and-route-software
+1325/1429 Est.: 17.33m.
+https://staff.am/en/physical-designpnr-layout
+1326/1429 Est.: 17.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/qa-engineer-967
+1327/1429 Est.: 17.0m.
+https://staff.am/en/hasvapah-580
+1328/1429 Est.: 16.83m.
+https://staff.am/en/full-stack-net-developer-51
+1329/1429 Est.: 16.67m.
+https://staff.am/en/java-web-developer-full-stack-18
+1330/1429 Est.: 16.5m.
+https://staff.am/en/mechanical-engineer-30
+1331/1429 Est.: 16.33m.
+https://staff.am/en/area-sales-officer
+1332/1429 Est.: 16.17m.
+https://staff.am/en/inzener-elektrik-14
+1333/1429 Est.: 16.0m.
+https://staff.am/en/procurement-specialist-84
+1334/1429 Est.: 15.83m.
+https://staff.am/en/risk-manager-7
+1335/1429 Est.: 15.67m.
+https://staff.am/en/varkayin-masnagetpmj-ev-gyugatntesakan-varkavorman-gcov
+1336/1429 Est.: 15.5m.
+https://staff.am/en/project-manager-548
+1337/1429 Est.: 15.33m.
+https://staff.am/en/senior-react-js-developer-65
+1338/1429 Est.: 15.17m.
+https://staff.am/en/talent-acquisition-specialistit-recruiter
+1339/1429 Est.: 15.0m.
+https://staff.am/en/chief-technology-director-9
+1340/1429 Est.: 14.83m.
+https://staff.am/en/senior-cloud-infrastructure-engineer-9
+1341/1429 Est.: 14.67m.
+https://staff.am/en/qa-automation-engineer-junior-mid-senior
+1342/1429 Est.: 14.5m.
+https://staff.am/en/react-js-developer-106
+1343/1429 Est.: 14.33m.
+https://staff.am/en/senior-data-engineer-31
+1344/1429 Est.: 14.17m.
+https://staff.am/en/cloud-infrastructure-engineer-13
+1345/1429 Est.: 14.0m.
+https://staff.am/en/data-engineer-104
+1346/1429 Est.: 13.83m.
+https://staff.am/en/middle-senior-ios-software-engineer-1
+1347/1429 Est.: 13.67m.
+https://staff.am/en/full-stack-web-developer-143
+1348/1429 Est.: 13.5m.
+https://staff.am/en/korean-support-manager-1-3
+1349/1429 Est.: 13.33m.
+https://staff.am/en/sales-specialist-139
+1350/1429 Est.: 13.17m.
+https://staff.am/en/talent-acquisition-manager
+1351/1429 Est.: 13.0m.
+https://staff.am/en/ml-tech-lead-principal
+1352/1429 Est.: 12.83m.
+https://staff.am/en/director-of-engineering-7
+1353/1429 Est.: 12.67m.
+https://staff.am/en/it-project-manager-240
+1354/1429 Est.: 12.5m.
+https://staff.am/en/laravel-developer-57
+1355/1429 Est.: 12.33m.
+https://staff.am/en/varcakan-ognakan
+1356/1429 Est.: 12.17m.
+https://staff.am/en/ceo-assistant-remote
+1357/1429 Est.: 12.0m.
+https://staff.am/en/full-stack-web-developer-remote-6
+1358/1429 Est.: 11.83m.
+https://staff.am/en/software-development-engineer-ios-1
+1359/1429 Est.: 11.67m.
+https://staff.am/en/reactjs-developer-241
+1360/1429 Est.: 11.5m.
+https://staff.am/en/experienced-project-manager-23
+1361/1429 Est.: 11.33m.
+https://staff.am/en/frontend-engineer-18
+1362/1429 Est.: 11.17m.
+https://staff.am/en/outsourcing-sales-specialist-4
+1363/1429 Est.: 11.0m.
+https://staff.am/en/shop-assistant-3
+1364/1429 Est.: 10.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/reactjs-developer-238
+1365/1429 Est.: 10.67m.
+https://staff.am/en/vuejs-developer-34
+1366/1429 Est.: 10.5m.
+https://staff.am/en/php-developer-429
+1367/1429 Est.: 10.33m.
+https://staff.am/en/vacarki-bazni-operatorgorcavar
+1368/1429 Est.: 10.17m.
+https://staff.am/en/full-stack-javascript-developer-55
+1369/1429 Est.: 10.0m.
+https://staff.am/en/experienced-front-end-developer-10
+1370/1429 Est.: 9.83m.
+https://staff.am/en/front-end-react-developer-10
+1371/1429 Est.: 9.67m.
+https://staff.am/en/guest-service-supervisor
+1372/1429 Est.: 9.5m.
+https://staff.am/en/mid-android-developer-43
+1373/1429 Est.: 9.33m.
+https://staff.am/en/system-administrator-engineer
+1374/1429 Est.: 9.17m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/10-asxatanki-hnaravorutyun-vacarki-ev-spasarkman-olortum
+1375/1429 Est.: 9.0m.
+https://staff.am/en/case-manager
+1376/1429 Est.: 8.83m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/talent-acquisition-specialist-95
+1377/1429 Est.: 8.67m.
+https://staff.am/en/manager-134
+1378/1429 Est.: 8.5m.
+https://staff.am/en/ios-developer-467
+1379/1429 Est.: 8.33m.
+https://staff.am/en/nodejs-developer-289
+1380/1429 Est.: 8.17m.
+https://staff.am/en/internjunior-laravel-developer-1
+1381/1429 Est.: 8.0m.
+https://staff.am/en/digital-marketing-manager-80
+1382/1429 Est.: 7.83m.
+https://staff.am/en/content-write
+1383/1429 Est.: 7.67m.
+https://staff.am/en/content-writer-315
+1384/1429 Est.: 7.5m.
+https://staff.am/en/senior-macos-engineer-6
+1385/1429 Est.: 7.33m.
+https://staff.am/en/physical-security-specialist
+1386/1429 Est.: 7.17m.
+https://staff.am/en/it-support-engineer-17
+1387/1429 Est.: 7.0m.
+https://staff.am/en/arabic-speaking-data-research-intern
+1388/1429 Est.: 6.83m.
+https://staff.am/en/smm-specialist-554
+1389/1429 Est.: 6.67m.
+https://staff.am/en/graphic-designer-669
+1390/1429 Est.: 6.5m.
+https://staff.am/en/project-manager-547
+1391/1429 Est.: 6.33m.
+https://staff.am/en/backend-java-engineer-remote-1
+1392/1429 Est.: 6.17m.
+https://staff.am/en/hr-specialist-196
+1393/1429 Est.: 6.0m.
+https://staff.am/en/nermucman-ev-artahanman-masnaget-4
+1394/1429 Est.: 5.83m.
+https://staff.am/en/content-writer-321
+1395/1429 Est.: 5.67m.
+https://staff.am/en/public-relations-manager-6
+1396/1429 Est.: 5.5m.
+https://staff.am/en/mid-php-developer-27
+1397/1429 Est.: 5.33m.
+https://staff.am/en/product-marketing-manager-39
+1398/1429 Est.: 5.17m.
+https://staff.am/en/sef-xoharar-31
+1399/1429 Est.: 5.0m.
+https://staff.am/en/incident-manager-at-vbet-4
+1400/1429 Est.: 4.83m.
+https://staff.am/en/system-administrator-231
+1401/1429 Est.: 4.67m.
+https://staff.am/en/varord-arakic-106
+1402/1429 Est.: 4.5m.
+https://staff.am/en/uiux-designer-687
+1403/1429 Est.: 4.33m.
+https://staff.am/en/hasvetar-operator-52
+1404/1429 Est.: 4.17m.
+https://staff.am/en/glxavor-hasvapah-112
+1405/1429 Est.: 4.0m.
+https://staff.am/en/hr-manager-159
+1406/1429 Est.: 3.83m.
+https://staff.am/en/talent-acquisition-specialist-92
+1407/1429 Est.: 3.67m.
+https://staff.am/en/technical-pre-sales-specialist-6
+1408/1429 Est.: 3.5m.
+https://staff.am/en/react-native-developer-139
+1409/1429 Est.: 3.33m.
+https://staff.am/en/nodejs-developer-286
+1410/1429 Est.: 3.17m.
+https://staff.am/en/administrative-assistant-office-manager-2
+1411/1429 Est.: 3.0m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/technical-accountant-for-our-us-office
+1412/1429 Est.: 2.83m.
+https://staff.am/en/accountant-759
+1413/1429 Est.: 2.67m.
+https://staff.am/en/operations-specialist-at-vbet-6
+1414/1429 Est.: 2.5m.
+https://staff.am/en/talent-acquisition-specialist-89
+1415/1429 Est.: 2.33m.
+https://staff.am/en/manual-qa-engineer-355
+1416/1429 Est.: 2.17m.
+https://staff.am/en/front-end-developer-635
+1417/1429 Est.: 2.0m.
+https://staff.am/en/big-data-developer-spark-scala-python
+1418/1429 Est.: 1.83m.
+https://staff.am/en/xndraharuyc-aktivneri-het-asxatanki-masnaget-27
+1419/1429 Est.: 1.67m.
+https://staff.am/en/arhitektor-konstruktor
+1420/1429 Est.: 1.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/sales-consultant-385
+1421/1429 Est.: 1.33m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/content-writer-318
+1422/1429 Est.: 1.17m.
+https://staff.am/en/frontend-developer-angular-react-or-vue-1
+1423/1429 Est.: 1.0m.
+https://staff.am/en/head-of-financial-analysis-division
+1424/1429 Est.: 0.83m.
+https://staff.am/en/hr-specialist-195
+1425/1429 Est.: 0.67m.
+https://staff.am/en/gornicnaa-3
+1426/1429 Est.: 0.5m.
+
+            New 'h3' fields in job description list are present:
+            	Check the output.
+            
+https://staff.am/en/customer-support-specialist-208
+1427/1429 Est.: 0.33m.
+https://staff.am/en/sales-manager-639
+1428/1429 Est.: 0.17m.
+https://staff.am/en/onlayn-xagavar-29
+1429/1429 Est.: 0.0m.
+1429/1429 jobs scraped.
+Saving files.
+Company_Title: 1429
+Company_URL: 1429
+URL: 1429
+Total_views: 1429
+Followers: 1429
+Active_Jobs: 1429
+Jobs_History: 1429
+Job_Views: 1429
+Job_Title: 1429
+Application_Deadline: 1429
+Industry: 1429
+Employment_term: 1429
+Job_Category: 1429
+Job_type: 1429
+Job_Location: 1429
+Salary: 1429
+Additional_information: 1429
+Job_description: 1429
+Job_responsibilities: 1429
+Required_qualifications: 1429
+Required_candidate_level: 1429
+Professional_skills: 1429
+Soft_skills: 1429
+Anyone_interested_in_the_job_can_send_their_CV_to: 1
+Interested_candidates_should_submit_a_resume_via_our_career_portal_ by_clicking: 13
+Personal_Qualities: 1
+Interested_candidates_should_submit_a_resume_and_portfolio_via_our_career_portal_ by_clicking: 9
+Interested_candidates_should_submit_a_resume via_our_career_portal_ by_clicking: 9
+About_the_Prague_Civil_Society_Centre: 1
+What_We_Offer: 1
+Application_Details: 1
+Are_you_our_future_Sparker_colleague_?_Apply_now_or_send_me_your_CV_at: 2
+https//www.sparkers.com/: 3
+: 17
+We_are_an_international_IT_company_with_headquarters_in_Singapore.: 1
+Are_you_our_future_Sparker_colleague_?_Apply_now_or_send_me_your_CV: 1
+Համապատասխան_մասնագիտական_որակավուրում_ունեցող_անձիք_կարող_են_իրենց_ինքնակենսագրականները_(CV)_ուղարկել_հետևյալ_էլ._հասցեին՝: 3
+Benefits: 4
+Արտադրանքի,_հումք-նյութերի_քիմիական_ստուգումների_և_փորձաքննությունների_իրականացում։: 1
+About_us_and_the_role: 2
+Interested?: 1
+Компания_"Экра_Кавказ"_ищет_специалиста_по_тендерам: 1
+WE_OFFER: 2
+Digitec_Innovations_is_looking_for_an_React_JS_Developer_to_join_the_team_of_IT_professionals.: 1
+We_are_looking_for_a_teammate_who_is_committed_to_delivering_high-quality_custom-tailored_solutions_for_corporations_and_startups.: 1
+Essential_Duties: 1
+Required_Skills/Experience: 1
+Preferred_Skills/Experience: 1
+ԷԼԷՄԷՍ_ՍՊԸ-ն_փնտրում_է_տնայցի_մասնագետ,_ով_կաշխատի_ժամկետանց_վարկերի,_արդյունավետ_կերպով_կիրականացնի_հաճախորդների_սպասարկում_և_համապատասխան_պայմանների_առաջարկություն_`պարտքերը_վերացնելու_նպատակով,_մասնավորապես_տնայցեր_կատարելու_եղանակով։: 1
+We_are_looking_for_a_qualified_Graphic_Designer_to_join_our_team._This_is_an_opportunity_to_join_one_of_the_best_creative_agencies_in_the_region._You_will_work_closely_with_the_team_to_produce_creative,_visually_appealing_content_that_reflects_clients’_visions.: 1
+About_us: 1
+About_the_role: 1
+About_you: 1
+Interested_individuals_are_requested_to_send_their: 1
+Sample_articles: 1
+to: 1
+Please_clearly_mention_that_you_have_heard_of_this_job_opportunity_on_staff.am: 3
+Հիանալի_հնարավորություն_միանալու_՛՛Կոնսէլ՛՛_ընկերության_թիմին: 1
+Բարձրագույն_ինժեներական_կրթություն: 1
+(HVAC)_մասնագիտացումը_կդիտվի_որպես_առավելություն: 1
+Աշխատանքային_փորձը_պարտադիր_է: 1
+Դիմելու_համար՝: 1
+ուղարկել_ինքնակենսագրականն_(CV): 1
+Interested_individuals_are_requested_to_send_their_CV_to: 1
+Please,_clearly_mention_in_the_subject_line_"SMM_Specialist"._Only_shortlisted_candidates_will_be_considered․_We_look_forward_to_your_applications!: 1
+We_are: 1
+Description: 1
+Interested_individuals_are_requested_to_send_their CV to: 1
+Պարտականություններ: 4
+Պահանջներ: 4
+Additional_information_(required): 2
+Հետաքրքրված_թեկնածուները_իրենց_ինքնակենսագրականները_կարող_են_ուղարկել: 1
+RESPONSIBILITIES: 1
+REQUIREMENTS: 1
+NICE_TO_HAVE: 1
+gg_թիմը_փնտրում_է_կյանքով_լի,_պայծառ_և_եռանդուն_մարդկանց_մեր_ֆանտաստիկ_և_հետաքրքիր_ճանապարհը_միասին_անցնելու_համար։: 1
+Հնարավոր_է_նաև_գիշերային_հերթափոխով_աշխատանք_(պարտադիր_չէ)։: 1
+What_we_offer: 4
+KSPE_Software_is_looking_for_a_talented,_fast_learner_and_highly_motivated: 1
+What_will_you_be_doing?: 1
+To_succeed_in_this_role,_you_should_have: 1
+What_you'll_also_get_if_you_join_TCF?: 1
+Finally,_how_to_join_us?: 1
+Preferred_Qualifications: 1
+Who_we_are: 1
+We_offer: 1
+Աշխատանքային_պարտականություններն_են՝: 2
+E-works_is_looking_for_an_experienced_IOS_Developer_who_is_passionate_about_programming_and_thrives_for_new_challenges_and_opportunities_to_advance.: 1
+"Alpha_food_service"_company_is_looking_for_a_content_manager_who_will_be_responsible_for_creation_of_coherent,_holistic_and_relevant_marketing_content_relevant_for_company’s_communication_instruments_such_as_SMM,_ATL,_PR_and_other._Content_writer_main_goal_is_to_create_cohesive_brand_message_for_different_products_and_services_of_the_company.: 1
+<<ԱԼՖԱ_ՖՈՒԴ_ՍԵՐՎԻՍ>>_ՍՊԸ-ն_աշխատանքի_է_հրավիրում_գինու_վաճառքի_մենեջերի՝_ընկերության_վաճառքների_պատշաճ_կազմակերպման,_պլանավորման_և_առաջխաղացման_նպատակով: 1
+-վաճառքների_զարգացում_և_խթանում,: 1
+Ներկայացված պահանջներին համապատասխանող թեկնածուները կարող են ուղարկել ինքնակենսագրականը հետևյալ էլ. փոստի հասցեով.: 1
+Benefits_at_Krisp: 4
+Krisp_is_an_Equal_Opportunity_Employer: 5
+How_to_Apply: 1
+Interested_candidates_should_submit_a_resume_and_portfolio_via_our_career_portal_by_clicking: 1
+Interested_candidates_should_submit_a_resume_via_our_career_portal by_clicking: 2
+Working_days: 3
+Անհրաժեշտ_հմտություններ՝: 1
+Նկարագրություն: 3
+Հավելյալ_նշումներ: 3
+մշակել_ընդհանուր_ռազմավարություն_կազմակերպության՝_սոցիալական_ցանցերում_ներկայացվածության_և_ակտիվության_ապահովման_համար,: 1
+պարբերաբար_պատրաստել_իրականացված_աշխատանքի_և_դրա_արդյունքների_մասին_հաշվետվություն,: 1
+անհրաժեշտության_դեպքում_կազմակերպել_միջոցառումներ,_արշավներ_և_խաղեր,: 1
+ստեղծել,_խմբագրել,_հրապարակել_և_տարածել_ամենօրյա_բովանդակությունը՝_նպաստելով_լսարանի_կողմից_դրա_նկատմամբ_որոշակի_գործողությունների_(հավանել,_տարածել,_մեկնաբանել)_իրականացմանը,: 1
+ուսումնասիրել_կազմակերպության_էջերը,_ներկայացնել_առաջարկներ_դրանց_ոճային_և_կառուցվածքային_փոփոխությունների_իրականացման_համար,: 1
+ուսումնասիրել_ոլորտը_և_մշտապես_տեղյակ_լինել_փոփոխություններին,: 1
+համագործակցել_թիմի_մյուս_անդամների_հետ՝_սոցիալական_մեդիայում_ռազմավարության_քննարկման_և_հետագա_քայլերի_մշակման_համար,: 1
+մշտապես_տեղեկացված_լինել_ոլորտի_նորություններին_և_փոփոխություններին,_մշակել_նոր_մտքեր_և_առաջարկներ_լսարանի_ներգրավվածության_ապահովման_համար,: 1
+անհրաժեշտության_դեպքում_ներկայացնել_կազմակերպության_ծառայությունները_էլ․_փոստով_նամակագրության_կամ_LinkedIn-ի_միջոցով։: 1
+Սոցիալական_կայք_-_էջերի_վարման_փորձառություն,_կայքի_օպտիմիզացիա_և_առաջխաղացում: 1
+Facebook,_Twitter,_Instagram,_Tumblr,_Youtube,_Pinterest,_Linkedin,_Google_+_լավ_իմացություն: 1
+Հայերեն,_ռուսերեն,_անգլերեն_լեզվի_գրավոր_և_բանավոր_բարձր_մակարդակ: 1
+սովորելու_ցանկություն: 1
+մանրուքների_նկատմամբ_ուշադրություն: 1
+ճշտապահություն_և_ժամանակի_արդյունավետ_կառավարման_ունակություն: 1
+սոցիալական_ցանցերում_և_մեդիայում_վիճակագրությունների_վերլուծության_մեթոդների_իմացություն: 1
+Մարքետինգային_և_գովազդային_միջոցառումների_իրականացում,_վաճառքի_ծավալների_ընդլայման_նպատակով: 1
+Պորտֆոլիոյի_առարկություն: 1
+վաճառքի_գործընթացի_կազմակերպում_և_վերահսկում: 1
+պոտենցիալ_հաճախորդների_մասին_ինֆորմացիայի_հավաքագրում: 1
+գնառաջարկներ_կազմելու_ունակություն: 1
+բանակցությունների_վարում: 1
+հանդիպումների_կազմակերպում: 1
+հաճախորդների_հետ_հետադարձ_կապի_պահպանում: 1
+վաճառքի_աճի_նոր_հնարավորությունների_բացահայտում: 1
+շուկայի_մոնիթորինգի_իրականացում: 1
+վաճառքի_արդյունքների_վերլուծություն_և_հաշվետվությունների_ներկայացում_տնօրինությանը: 1
+Հետաքրքրված _անձինք_կարող_են_ուղարկել_իրենց_ինքնակենսագրականը: 1
+Nice_to_Have: 5
+Would_be_a_plus: 1
+Our_client_is_a_CFD/Forex_Broker_in_Yerevan_looking_for_a_Account_Managers_to_join_their_team.: 1
+Responsibilities_&_Duties: 2
+Requirements: 2
+Դիմելու_համար_խնդրում_ենք_գրել: 1
+Սպասարկել_ընկերության_մուտքային_և_ելքային_զանգերը_և_չաթերը: 1
+Պարզել_հաճախորդների_մոտ_առկա_տեխնիկական_խնդիրները_և_առաջարկել_լուծման_տարբերակներ: 1
+Արդյունավետ_և_ժամանակին_պատասխանել_բաժանորդների_տեխնիկական_բնույթի_հարցերին_և_նամակներին: 1
+ԱՇԽԱՏԱՆՔԱՅԻՆ_ԳՐԱՖԻԿԸ․: 1
+Հերթափոխային: 1
+Բարձրագույն_կրթություն: 1
+Գերազանց_տիրապետում_համակարգչին: 1
+Հայերենի_գերազանց_իմացություն,_ռուսերենի_և_անգլերենի_լավ_տիրապետում: 1
+Գրավոր_և_բանավոր_հաղորդակցման_գերազանց_հմտություններ: 1
+Թիմում_աշխատելու_ունակություն: 1
+Լարված_իրավիճակներում_աշխատելու_և_արագ_կողմնորոշվելու_ունակություն: 1
+Խնդրում_ենք_ձեր ինքնակենսագրականը_ուղարկել: 1
+Essential_duties: 1
+Interested_candidates_should_submit_a_resume_and_portfolio via_our_career_portal_ by_clicking: 12
+Interested_candidates_should_submit_a_resume _via_our_career_portal_ by_clicking: 1
+Կազմակերպության_«Գյումրի»,_«Արթիկ»,_«Իջևան»,_«Մարտունի»,_«Մասիս»_մասնաճյուղին_անհրաժեշտ_են_գիշերային_հերթափոխով_գանձապահներ։: 1
+Կազմակերպության_մասնաճյուղին_անհրաժեշտ_են_գանձապահներ_հետևյալ_աշխատաժամանակներով_՝: 1
+«Իմէքս_Գրուպ»_Ընկերությունը_OVS_բրենդային_խանութ_սրահներում_աշխատելու_համար_աշխատանքի_է_հրավիրում_սպասարկող_գործակալների,_ովքեր_զբաղվելու_են_հաճախորդներին_անհրաժեշտ_խորհրդատվության_տրամադրմամբ_ու_վաճառքներով: 1
+Վարկային_մասնագետ/ՓՄՁ_և_Գյուղատնտեսական_վարկավորման_գծով: 1
+մատակարարում: 1
+վարորդական_իրավունք,_սպասարկման_ոլորտում_աշխատանքային_փորձ: 1
+Կարող_եք_դիմել_ուղարկելով_Ձեր_ինքնակենսագրականը_հետևյալ Էլ._փոստին_ <: 1
+զանգահարել_հետևյալ_հեռախոսահամարով՝ _(094)_706-707 _(ժամը_1000-ից _մինչև_2000): 1
+Big_data_developer_Spark_(Scala_/_Python): 1
+Պահանջվող_հմտություններն_ու_որակավորումներն_են՝: 1
+Detected 2 new companies.
+Starting crawling companies.
+Extracted 2/2
+Sun Sep 19 21:46:44 2021
+Ended crawling 'https://staff.am'.
