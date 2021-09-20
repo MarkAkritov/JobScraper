@@ -3,7 +3,7 @@
 # Crawler to scrape job postings and company information from https://staff.am/en/jobs
 """
 
-from typing import Any, List, Set, Dict, Union
+from typing import Any, List, Set, Dict, Union, Callable
 
 import os
 import re, json, time, datetime
@@ -28,6 +28,16 @@ MAIN_URL: str = BASE_URL + os.getenv("MAIN_URL_ENDPOINT") # "/en/jobs"
 # Other Variables
 extracted_data: ExtractedData
 
+
+# Function to handle request's selector as lmabda function to return None
+def selector_handler(
+    response: scrapy.http.HtmlResponse,
+    selector: Callable[[scrapy.http.HtmlResponse], Any]
+) -> Any:
+    try:
+        return selector(response)
+    except:
+        return None
 
 # Function to relative paths to job postings from a given page response
 def get_relative_paths_from_one_page(
@@ -90,51 +100,91 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
     )
 
     extracted_data = {
-        "Company_Title": (
-            response
-            .css("div.company-info > div > a > h1::text")
-            .get()
+        "Company_Title": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("div.company-info > div > a > h1::text")
+                .get()
+            )
         ),
-        "Company_URL": (
-            response
-            .css("div.company-info > div > a::attr(href)")
-            .get()
+        "Company_URL": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("div.company-info > div > a::attr(href)")
+                .get()
+            )
         ),
         "URL": absolute_path,
-        "Total_views": int(
-            response
-            .css("div.col-lg-7.company_info_container p.company-page-views span::text")
-            .getall()[0]
-        ),
-        "Followers": int(
-            response
-            .css("div.col-lg-7.company_info_container p.company-page-views span::text")
-            .getall()[1]
-        ),
-        "Active_Jobs": int(response.css("p.company-active-job span::text").get()),
-        "Jobs_History": int(response.css("p.company-job-history span::text").get()),
-        "Job_Views": int(re.search(
-            "[0-9]+",
-            response.css("div.statistics p::text").get()
-        ).group()),
-        "Job_Title": response.css("div.col-lg-8 h2::text").get(),
-        "Application_Deadline": re.search(
-            r"Deadline: (.*)\s",
-            (
+        "Total_views": selector_handler(
+            response,
+            lambda response: int(
                 response
-                .css("div.col-lg-4.apply-btn-top p::text")
-                .get()
-                .replace("\n", " ")
+                .css("div.col-lg-7.company_info_container p.company-page-views span::text")
+                .getall()[0]
             )
-        ).group(1)
+        ),
+        "Followers": selector_handler(
+            response,
+            lambda response: int(
+                response
+                .css("div.col-lg-7.company_info_container p.company-page-views span::text")
+                .getall()[1]
+            )
+        ),
+        "Active_Jobs": selector_handler(
+            response,
+            lambda response: int(
+                response
+                .css("p.company-active-job span::text")
+                .get()
+            )
+        ),
+        "Jobs_History": selector_handler(
+            response,
+            lambda response: int(
+                response
+                .css("p.company-job-history span::text")
+                .get()
+            )
+        ),
+        "Job_Views": selector_handler(
+            response,
+            lambda response: int(
+                re.search(
+                    "[0-9]+",
+                    response.css("div.statistics p::text").get()
+                ).group()
+            )
+        ),
+        "Job_Title": selector_handler(
+            response,
+            lambda response: response.css("div.col-lg-8 h2::text").get()
+        ),
+        "Application_Deadline": selector_handler(
+            response,
+            lambda response: re.search(
+                r"Deadline: (.*)\s",
+                (
+                    response
+                    .css("div.col-lg-4.apply-btn-top p::text")
+                    .get()
+                    .replace("\n", " ")
+                )
+            ).group(1)
+        )
     }
 
     try:
-        extracted_data["Industry"] = (
-            response
-            .css("div.col-lg-7.company_info_container p.professional-skills-description span::text")
-            .getall()
-            [-1]
+        extracted_data["Industry"] = selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("div.col-lg-7.company_info_container p.professional-skills-description span::text")
+                .getall()
+                [-1]
+            )
         )
     except IndexError:
         extracted_data["Industry"] = "None"
@@ -271,71 +321,126 @@ def crawl_company_info(url: str) -> ExtractedData:
     )
 
     return {
-        "Company_Title": (
-            response
-            .css("div.company-title-views > h1::text")
-            .get()
+        "Company_Title": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("div.company-title-views > h1::text")
+                .get()
+            )
         ),
         "Company_URL": url,
-        "Page views": int(
-            response
-            .css("p.company-page-views > span::text")
-            .get()
+        "Page views": selector_handler(
+            response,
+            lambda response: int(
+                response
+                .css("p.company-page-views > span::text")
+                .get()
+            )
         ),
-        "Followers": int(
-            response
-            .css("p.company-page-views > span#followers_count::text")
-            .get()
+        "Followers": selector_handler(
+            response,
+            lambda response: int(
+                response
+                .css("p.company-page-views > span#followers_count::text")
+                .get()
+            )
         ),
-        "Active_jobs": int(
-            response
-            .css("p.company-active-job > a > span::text")
-            .get()
+        "Active_jobs": selector_handler(
+            response,
+            lambda response: int(
+                response
+                .css("p.company-active-job > a > span::text")
+                .get()
+            )
         ),
-        "Job_history": int(
-            response
-            .css("p.company-job-history > span::text")
-            .get()
+        "Job_history": selector_handler(
+            response,
+            lambda response: int(
+                response
+                .css("p.company-job-history > span::text")
+                .get()
+            )
         ),
-        "Info": "".join(
-            response
-            .css("div.hs_text_block ::text")
-            .getall()
+        "Info": selector_handler(
+            response,
+            lambda response: "".join(
+                response
+                .css("div.hs_text_block ::text")
+                .getall()
+            )
         ),
-        "Industry": (
-            response
-            .css("td:contains('Industry:')~td ::text")
-            .get()
+        "Industry": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("td:contains('Industry:')~td ::text")
+                .get()
+            )
         ),
-        "Type": (
-            response
-            .css("td:contains('Type:')~td ::text")
-            .get()
+        "Type": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("td:contains('Type:')~td ::text")
+                .get()
+            )
         ),
-        "Number_of_Employees": (
-            response
-            .css("span:contains('Number of Employees:')~span ::text")
-            .get()
+        "Date_of_Foundation": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("td:contains('Date of Foundation:')~td ::text")
+                .get()
+            )
         ),
-        "Location": (
-            response
-            .css("span:contains('Location:')~span ::text")
-            .get()
+        "Number_of_Employees": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("span:contains('Number of Employees:')~span ::text")
+                .get()
+            )
         ),
-        "Website": (
-            response
-            .css("a.hs_company_website_btn::attr(href)")
-            .get()
+        "Location": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("span:contains('Location:')~span ::text")
+                .get()
+            )
         ),
-        "Benefits": ( # List[str]
-            response
-            .css("div.hs_benefit_view_block > div > div > span ::text")
-            .getall()
+        "Website": selector_handler(
+            response,
+            lambda response: (
+                response
+                .css("a.hs_company_website_btn::attr(href)")
+                .get()
+            )
         ),
-        "Contacts": ( # List[str]
-            response
-            .css("div.mt15 > a::attr(href)")
-            .getall()
+        "Benefits": selector_handler(
+            response,
+            lambda response: ( # List[str]
+                response
+                .css("div.hs_benefit_view_block > div > div > span ::text")
+                .getall()
+            )
+        ),
+        "Social": selector_handler(
+            response,
+            lambda response: ( # List[str]
+                response
+                .css("div.mt15 > a::attr(href)")
+                .getall()
+            )
+        ),
+        "Contacts": selector_handler(
+            response,
+            lambda response: ( # List[str]
+                response
+                .css("span.hs_info_circle_icon~span::text")
+                .getall()
+            )
         ),
         "Geolocation": get_geolocation(response)
     }
@@ -355,10 +460,10 @@ def get_geolocation(rs):
 
 # Function to collect data about companies
 def crawl_all_companies(
-    absolute_paths_companies: Union[List[str], Set[str]]
+    relative_paths_companies: Union[List[str], Set[str]]
 ) -> ExtractedData:
     extracted_data = {}
-    for url in absolute_paths_companies:
+    for url in relative_paths_companies:
         company_data = crawl_company_info(url)
 
         for key, value in company_data.items():
@@ -413,7 +518,11 @@ def save_files(data: ExtractedData, *formats) -> None:
                 save_files(data, "json")
                 break
         elif ext == "json":
-            with open("staff_" + date + ".json", "w", encoding="utf-8") as f:
+            with open(
+                "../data/postings/staff_" + date + ".json",
+                mode="w",
+                encoding="utf-8"
+            ) as f:
                 json.dump(data, f, indent=4, ensure_ascii=False)
 
 
@@ -452,7 +561,11 @@ def main() -> ExtractedData:
     # TODO: Implement company info crawling here
     company_urls = extracted_data["Company_URL"]
     try:
-        with open("../data/companies/companies.json", "r") as f:
+        with open(
+            "../data/companies/companies.json",
+            mode="r",
+            encoding="utf-8"
+        ) as f:
             companies = json.load(f)
             available_companies = companies["Company_URL"]
     except:

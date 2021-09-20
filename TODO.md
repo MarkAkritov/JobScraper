@@ -29,7 +29,7 @@
 
 * [ ] Add **docstrings**
 
-## Functionalities
+## Functionalities & changes
 
 * [x] When svaing to `.json`, stylize/prettify the content
 
@@ -39,17 +39,17 @@
 
 * [x] Add Company URL to extracted data fields
 
-* [ ] Save logs for a daily crawling (appending msg.-s in `main` function)
+* [x] Add **`Foundation_date`** and **`Telephone`** fields to companies
 
-* [ ] Utilize `urllib.parse.urljoin` for base URL and relative pages' joining
+* [x] Scrape all companies so that new companies can be detected properly
 
-* [ ] Add functionality for scraping **company** information
+* [x] Add functionality for scraping **company** information
 
-* [ ] Implement saving to `.csv` functionality
+* [x] Change data storing directory (currently in `notebooks/`)
 
 * [ ] Add progress bars
 
-* [ ] Change data storing directory (currently in `notebooks/`)
+* [ ] Implement saving to `.csv` functionality
 
 * [ ] Need to check previous scraped data for avoiding duplicate crawling
 
@@ -57,7 +57,21 @@
 
 * [ ] Utilize **`collections.defaultdict`**
 
-* [ ] Add **`Foundation_date`** and **`Telephone`** fields to companies
+* [ ] Save logs for a daily crawling (appending msg.-s in `main` function)
+
+* [ ] Utilize `urllib.parse.urljoin` for base URL and relative pages' joining
+
+* [ ] Add summarizing daily logs with following fields:
+
+    ```json
+    {
+        "date": "datetime",
+        "weekday": "str",
+        "postings": "int",
+        "new_postings": "int",
+        "new_companies": "int"
+    }
+    ```
 
 ## Bugs
 
