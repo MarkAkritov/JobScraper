@@ -531,7 +531,8 @@
         "Red Rock Revolution",
         "VooDoo Programming",
         "Vardanyan & Partners",
-        "HelpSystems Armenia"
+        "HelpSystems Armenia",
+        "ՋԻ-ԷՄ-ՋԻ ԳՐՈՒՊ ՍՊԸ"
     ],
     "Company_URL": [
         "/en/company/granatus-ventures",
@@ -1065,7 +1066,8 @@
         "/en/company/red-rock-revolution",
         "/en/company/voodoo-programming",
         "/en/company/vardanyan-partners",
-        "/en/company/hs-international-llc-helpsystems-armenia"
+        "/en/company/hs-international-llc-helpsystems-armenia",
+        "/en/company/ji-em-ji-grup-sp"
     ],
     "Page views": [
         5742,
@@ -1599,7 +1601,8 @@
         213,
         426,
         18587,
-        147450
+        147450,
+        18235
     ],
     "Followers": [
         12,
@@ -2133,7 +2136,8 @@
         0,
         2,
         15,
-        164
+        164,
+        11
     ],
     "Active_jobs": [
         1,
@@ -2667,7 +2671,8 @@
         1,
         1,
         1,
-        12
+        12,
+        1
     ],
     "Job_history": [
         6,
@@ -3201,7 +3206,8 @@
         2,
         2,
         13,
-        288
+        288,
+        16
     ],
     "Info": [
         "\nWe are the first venture capital firm to provide investment, expertise and networks to startups worldwide that leverage Armenia's potential as an emerging technology hub\n",
@@ -3735,7 +3741,8 @@
         "\nThe Red Rock Revolution company was founded in 2019, in Armenia, but our team consists of rapidly and confidently developing specialists.\nWe have been developing games, drawing, and modeling for several years.\nWe are sure that revolutionary ideas can and should be brought to games, and we are on the way to achieving this.\n",
         "\n",
         "\n",
-        "\nHelpSystems aligns IT and business goals to help organizations build a competitive edge. Our software and services monitor and automate processes, encrypt and secure data, and provide easy access to the information people need. More than 17,000 organizations around the world rely on HelpSystems to make IT lives easier and keep business running smoothly. Founded in 1982, in Minneapolis, Minnesota, the company has 25 offices and more than 780 employees worldwide. HelpSystems has been recognized by the StarTribune as a Top Workplace multiple years in a row from 2012 to 2019.\nHelpSystems brands include: Robot, SEQUEL Software, PowerTech, Halcyon, AutoMate, GoAnywhere, InterMapper, RJS Software, Teamquest, JAMS Workload Automation and Core Security. Learn more at www.helpsystems.com.﻿\n"
+        "\nHelpSystems aligns IT and business goals to help organizations build a competitive edge. Our software and services monitor and automate processes, encrypt and secure data, and provide easy access to the information people need. More than 17,000 organizations around the world rely on HelpSystems to make IT lives easier and keep business running smoothly. Founded in 1982, in Minneapolis, Minnesota, the company has 25 offices and more than 780 employees worldwide. HelpSystems has been recognized by the StarTribune as a Top Workplace multiple years in a row from 2012 to 2019.\nHelpSystems brands include: Robot, SEQUEL Software, PowerTech, Halcyon, AutoMate, GoAnywhere, InterMapper, RJS Software, Teamquest, JAMS Workload Automation and Core Security. Learn more at www.helpsystems.com.﻿\n",
+        "\n"
     ],
     "Industry": [
         "Information technologies",
@@ -4269,7 +4276,8 @@
         "Information technologies",
         "Information technologies",
         "Human Resources/Consulting/ Legal",
-        "Information technologies"
+        "Information technologies",
+        "Mining/Manufacturing/Production"
     ],
     "Type": [
         "LLC/OJSC/CJSC",
@@ -4803,6 +4811,7 @@
         "LLC/OJSC/CJSC",
         null,
         null,
+        "LLC/OJSC/CJSC",
         "LLC/OJSC/CJSC"
     ],
     "Date_of_Foundation": [
@@ -5337,7 +5346,8 @@
         "2019",
         null,
         null,
-        "2016"
+        "2016",
+        null
     ],
     "Number_of_Employees": [
         "up to 50",
@@ -5871,7 +5881,8 @@
         "up to 50",
         null,
         null,
-        "500-1500"
+        "500-1500",
+        "200-500"
     ],
     "Location": [
         "Yerevan, Armenia",
@@ -6405,7 +6416,8 @@
         "Davtashen 3 dstr 30, 3, Yerevan, Armenia",
         "David Anhaght str 5, Yerevan, Armenia",
         "Yerevan, Armenia",
-        "9 Alek Manukyan Street, Yerevan, Armenia"
+        "9 Alek Manukyan Street, Yerevan, Armenia",
+        "Nubarashen Road, Yerevan, Armenia"
     ],
     "Website": [
         null,
@@ -6939,7 +6951,8 @@
         "https://redrock-revolution.com",
         "https://voodoo.pro/",
         "http://armenian-lawyer.com/",
-        "https://www.helpsystems.com/"
+        "https://www.helpsystems.com/",
+        null
     ],
     "Benefits": [
         [],
@@ -8973,6 +8986,7 @@
         ],
         [],
         [],
+        [],
         []
     ],
     "Social": [
@@ -10486,7 +10500,8 @@
             "https://www.linkedin.com/company/14863011/",
             "https://www.youtube.com/channel/UCKwblcov4VLK9lH7GCaLyrg/featured?view_as=subscriber",
             "https://www.instagram.com/helpsystemsarmenia/"
-        ]
+        ],
+        []
     ],
     "Contacts": [
         [
@@ -12383,6 +12398,10 @@
         ],
         [
             "9 Alek Manukyan Street, Yerevan, Armenia"
+        ],
+        [
+            "Nubarashen Road, Yerevan, Armenia",
+            "+37441577935"
         ]
     ],
     "Geolocation": [
@@ -13862,6 +13881,10 @@
         [
             40.1769196,
             44.524563299999954
+        ],
+        [
+            40.1280185,
+            44.54137790000001
         ]
     ]
 }

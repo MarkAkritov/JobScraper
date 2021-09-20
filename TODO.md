@@ -47,19 +47,19 @@
 
 * [x] Change data storing directory (currently in `notebooks/`)
 
-* [ ] Add progress bars
+* [x] Add progress bars
 
-* [ ] Implement saving to `.csv` functionality
+* [x] Utilize **`collections.defaultdict`**
 
-* [ ] Need to check previous scraped data for avoiding duplicate crawling
+* [x] Utilize `urllib.parse.urljoin` for base URL and relative pages' joining
 
 * [ ] Need to update `Job_views` field daily
 
-* [ ] Utilize **`collections.defaultdict`**
+* [ ] Implement saving to `.csv` functionality
 
 * [ ] Save logs for a daily crawling (appending msg.-s in `main` function)
 
-* [ ] Utilize `urllib.parse.urljoin` for base URL and relative pages' joining
+* [ ] Need to check previous scraped data for avoiding duplicate crawling
 
 * [ ] Add summarizing daily logs with following fields:
 
@@ -72,6 +72,9 @@
         "new_companies": "int"
     }
     ```
+
+* [ ] Change behaviour of crawler to store `new h3 field` message's info in
+  `Additional_Info` field, instead of printing in the console
 
 ## Bugs
 
@@ -89,7 +92,7 @@
 
 * [x] Fix Company `Info` field scraping (appends all companies together)
 
-* [ ] Strip scraped `str` data (eg.: `Company_Title`)
+* [x] Strip scraped `str` data (eg.: `Company_Title`)
 
 ## Database
 

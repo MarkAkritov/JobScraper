@@ -12,6 +12,7 @@ scrapy = "*"
 pandas = "*"
 sip = "*"
 python-dotenv = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.9"

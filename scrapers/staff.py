@@ -8,8 +8,10 @@ from typing import Any, List, Set, Dict, Union, Callable
 import os
 import re, json, time, datetime
 from collections import defaultdict
+from urllib.parse import urljoin
 
 from dotenv import load_dotenv
+from tqdm import tqdm
 
 import requests
 import scrapy
@@ -23,7 +25,7 @@ ExtractedData = Dict[str, Union[List[Any]]]
 # URL variables
 load_dotenv()
 BASE_URL: str = os.getenv("BASE_URL") # "https://staff.am"
-MAIN_URL: str = BASE_URL + os.getenv("MAIN_URL_ENDPOINT") # "/en/jobs"
+MAIN_URL: str = urljoin(BASE_URL, os.getenv("MAIN_URL_ENDPOINT")) # "/en/jobs"
 
 # Other Variables
 extracted_data: ExtractedData
@@ -66,7 +68,10 @@ def get_relative_paths_for_all_pages(
             get_relative_paths_from_one_page(response)
         )
         rs = requests.get(
-            base_url + response.css("li.next a::attr(href)").get()
+            urljoin(
+                base_url,
+                response.css("li.next a::attr(href)").get()
+            )
         )
         response = scrapy.http.HtmlResponse(
             url=rs.url, body=rs.text, encoding="utf-8"
@@ -106,6 +111,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
                 response
                 .css("div.company-info > div > a > h1::text")
                 .get()
+                .strip()
             )
         ),
         "Company_URL": selector_handler(
@@ -187,7 +193,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
             )
         )
     except IndexError:
-        extracted_data["Industry"] = "None"
+        extracted_data["Industry"] = None
 
     job_info = [
         i.strip()
@@ -225,7 +231,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
 
     for key in default_job_list_keys:
         if key not in job_list_keys:
-            extracted_data[key] = "None"
+            extracted_data[key] = None
 
     for cnt, h3 in enumerate(job_list.css('h3'), start=1):
 
@@ -258,7 +264,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
             .getall()
         )
     else:
-        extracted_data["Professional_skills"] = "None"
+        extracted_data["Professional_skills"] = None
     if "Soft_skills" in skills_info_keys:
         ind = skills_info_keys.index("Soft_skills")
         extracted_data["Soft_skills"] = (
@@ -268,7 +274,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
             .getall()
         )
     else:
-        extracted_data["Soft_skills"] = "None"
+        extracted_data["Soft_skills"] = None
 
     for key in all_default_keys:
         if key not in extracted_data.keys():
@@ -277,7 +283,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
                 Default field: '{key}' is missing in extracted data.
                 """
             )
-            extracted_data[key] = "None"
+            extracted_data[key] = None
 
     return extracted_data
 
@@ -287,23 +293,14 @@ def crawl_all_postings(
     delay: int=3
 ) -> ExtractedData:
 
-    extracted_data = {}
+    extracted_data = defaultdict(list)
 
-    i = 1
+    for path in tqdm(absolute_paths):
 
-    for path in absolute_paths:
-
-        print(path)
-        print(
-            str(i) + "/" + str(len(absolute_paths)),
-            "Est.: " + str(round((10 * (len(absolute_paths) - i))/60, 2)) + "m."
-        )
-        i += 1
+        # print(path)
         extracted_data_from_posting = get_info_from_one_posting(path)
 
         for key, value in extracted_data_from_posting.items():
-            if key not in extracted_data.keys():
-                extracted_data[key] = []
             extracted_data[key].append(value)
 
         with open("log.json", "w", encoding="utf-8") as l:
@@ -315,7 +312,7 @@ def crawl_all_postings(
 
 # Function to collect data for a single company
 def crawl_company_info(url: str) -> ExtractedData:
-    rs = requests.get(BASE_URL + url)
+    rs = requests.get(urljoin(BASE_URL, url))
     response = scrapy.http.HtmlResponse(
         url=rs.url, body=rs.text, encoding="utf-8"
     )
@@ -327,6 +324,7 @@ def crawl_company_info(url: str) -> ExtractedData:
                 response
                 .css("div.company-title-views > h1::text")
                 .get()
+                .strip()
             )
         ),
         "Company_URL": url,
@@ -462,15 +460,11 @@ def get_geolocation(rs):
 def crawl_all_companies(
     relative_paths_companies: Union[List[str], Set[str]]
 ) -> ExtractedData:
-    extracted_data = {}
-    for url in relative_paths_companies:
+    extracted_data = defaultdict(list)
+    for url in tqdm(relative_paths_companies):
         company_data = crawl_company_info(url)
-
         for key, value in company_data.items():
-            if key not in extracted_data.keys():
-                extracted_data[key] = []
             extracted_data[key].append(value)
-
     return extracted_data
 
 # Function to make dict data to be saved as csv
@@ -537,15 +531,15 @@ def main() -> ExtractedData:
     )
 
     relative_paths = get_relative_paths_for_all_pages(
-        response, BASE_URL, delay=1
+        response, BASE_URL, delay=0.5
     )
-    absolute_paths = [BASE_URL + path for path in relative_paths]
+    absolute_paths = [urljoin(BASE_URL, path) for path in relative_paths]
 
     print(str(len(absolute_paths)) + " jobs detected.")
     print("Starting crawling job postings..")
 
     # NOTE: Added index slice for testing purposes, remove for production
-    extracted_data = crawl_all_postings(absolute_paths[:])
+    extracted_data = crawl_all_postings(absolute_paths[:15], delay=1)
 
     print(
         str(len(extracted_data["URL"])) + "/" +
@@ -575,19 +569,24 @@ def main() -> ExtractedData:
     new_companies = set(company_urls) - set(available_companies)
 
     print(f"Detected {len(new_companies)} new companies.")
-    print("Starting crawling companies.")
+    if len(new_companies) > 0:
+        print("Starting crawling companies.")
 
-    extracted_companies = crawl_all_companies(new_companies)
+        extracted_companies = crawl_all_companies(new_companies)
 
-    print(
-        f"Extracted {len(extracted_companies['Company_URL'])}/{len(new_companies)}"
-    )
+        print(
+            f"Extracted {len(extracted_companies['Company_URL'])}/{len(new_companies)}"
+        )
 
-    for k in extracted_companies.keys():
-        companies[k].extend(extracted_companies[k])
+        for k in extracted_companies.keys():
+            companies[k].extend(extracted_companies[k])
 
-    with open("../data/companies/companies.json", "w", encoding="utf-8") as f:
-        json.dump(companies, f, indent=4, ensure_ascii=False)
+        with open(
+            "../data/companies/companies.json",
+            mode="w",
+            encoding="utf-8"
+        ) as f:
+            json.dump(companies, f, indent=4, ensure_ascii=False)
 
     end_time = time.ctime()
     print(end_time)
