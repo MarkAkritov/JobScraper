@@ -78,6 +78,8 @@
 * [ ] Change behaviour of crawler to store `new h3 field` message's info in
   `Additional_Info` field, instead of printing in the console
 
+* [ ] Change `tqdm` message so that it prints the URL being scraped
+
 ## Bugs
 
 * [x] Fix company title fetching (currently `None`)
