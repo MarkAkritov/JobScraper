@@ -75,7 +75,7 @@
     }
     ```
 
-* [ ] Change behaviour of crawler to store `new h3 field` message's info in
+* [x] Change behaviour of crawler to store `new h3 field` message's info in
   `Additional_Info` field, instead of printing in the console
 
 * [ ] Change `tqdm` message so that it prints the URL being scraped
@@ -97,6 +97,8 @@
 * [x] Fix Company `Info` field scraping (appends all companies together)
 
 * [x] Strip scraped `str` data (eg.: `Company_Title`)
+
+* [x] Fix scraping of `Additional_information` field
 
 ## Database
 

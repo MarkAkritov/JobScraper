@@ -100,7 +100,7 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
         "Job_description", "Job_responsibilities",
         "Required_qualifications", "Required_candidate_level",
         "Salary", "Additional_information",
-        "Professional_skills", "Soft_skills"
+        "Professional_skills", "Soft_skills", "Other"
     )
 
     extracted_data = {
@@ -178,7 +178,8 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
                     .replace("\n", " ")
                 )
             ).group(1)
-        )
+        ),
+        "Other": defaultdict(list)
     }
 
     try:
@@ -212,21 +213,16 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
 
     default_job_list_keys = [
         "Job_description", "Job_responsibilities", "Required_qualifications",
-        "Required_candidate_level", "Salary", "Additional_information"
+        "Required_candidate_level", "Salary",
     ]
     job_list = response.css("div.job-list-content-desc.hs_line_break")
+
+    extracted_data["Text"] = "".join(job_list.css("::text").getall())
+
     job_list_keys = [
         i.strip().replace(":", "").replace(" ", "_")
         for i in job_list.css("h3::text").getall()
     ]
-
-    if len(default_job_list_keys) < len(job_list_keys):
-        print(
-            """
-            New 'h3' fields in job description list are present:
-            \tCheck the output.
-            """
-        )
 
     for key in default_job_list_keys:
         if key not in job_list_keys:
@@ -243,11 +239,28 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
                 "following-sibling::*[count(preceding-sibling::h3)=$cnt]",
                 cnt=cnt
             )[:-1].css("::text").getall()
-            extracted_data[key] = [
+            info = [
                 value.strip()
                 for value in values
                 if value != "\n"
             ]
+            if key not in all_default_keys:
+                extracted_data["Other"][key] = info
+            else:
+                extracted_data[key] = [
+                    value.strip()
+                    for value in values
+                    if value != "\n"
+                ]
+
+    extracted_data["Additional_information"] = selector_handler(
+        response,
+        lambda response: "".join(
+            response
+            .css("div.additional-information.information_application_block ::text")
+            .getall()
+        )
+    )
 
     skills_info_keys = [
         i.replace(" ", "_")
