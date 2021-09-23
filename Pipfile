@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 ipykernel = "*"
+ipywidgets = "*"
 
 [packages]
 requests = "*"
@@ -13,6 +14,8 @@ pandas = "*"
 sip = "*"
 python-dotenv = "*"
 tqdm = "*"
+rich = "*"
+ipywidgets = "*"
 
 [requires]
 python_version = "3.9"

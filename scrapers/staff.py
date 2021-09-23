@@ -308,18 +308,21 @@ def crawl_all_postings(
 
     extracted_data = defaultdict(list)
 
-    for path in tqdm(absolute_paths):
+    with tqdm(absolute_paths) as pbar:
 
-        # print(path)
-        extracted_data_from_posting = get_info_from_one_posting(path)
+        for path in pbar:
 
-        for key, value in extracted_data_from_posting.items():
-            extracted_data[key].append(value)
+            # print(path)
+            extracted_data_from_posting = get_info_from_one_posting(path)
 
-        with open("log.json", "w", encoding="utf-8") as l:
-            json.dump(extracted_data, l, ensure_ascii=False)
+            for key, value in extracted_data_from_posting.items():
+                extracted_data[key].append(value)
 
-        time.sleep(delay)
+            with open("log.json", "w", encoding="utf-8") as l:
+                json.dump(extracted_data, l, ensure_ascii=False)
+
+            time.sleep(delay)
+            pbar.set_description(f"URL {path}")
 
     return extracted_data
 
@@ -474,10 +477,12 @@ def crawl_all_companies(
     relative_paths_companies: Union[List[str], Set[str]]
 ) -> ExtractedData:
     extracted_data = defaultdict(list)
-    for url in tqdm(relative_paths_companies):
-        company_data = crawl_company_info(url)
-        for key, value in company_data.items():
-            extracted_data[key].append(value)
+    with tqdm(relative_paths_companies) as pbar:
+        for url in pbar:
+            company_data = crawl_company_info(url)
+            for key, value in company_data.items():
+                extracted_data[key].append(value)
+        pbar.set_description(f"URL {url}")
     return extracted_data
 
 # Function to make dict data to be saved as csv
