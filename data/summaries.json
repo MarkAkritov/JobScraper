@@ -54,5 +54,19 @@
         "postings": 1474,
         "new_postings": null,
         "new_companies": 16
+    },
+    "03.10.21": {
+        "date": "Sun Oct 03 19:13:09 2021",
+        "weekday": "Sun",
+        "postings": 1275,
+        "new_postings": null,
+        "new_companies": 15
+    },
+    "04.10.21": {
+        "date": "Mon Oct  4 19:17:28 2021",
+        "weekday": "Mon",
+        "postings": 1267,
+        "new_postings": null,
+        "new_companies": 10
     }
 }
