@@ -68,5 +68,12 @@
         "postings": 1267,
         "new_postings": null,
         "new_companies": 10
+    },
+    "06.10.21": {
+        "date": "Wed Oct  6 18:23:35 2021",
+        "weekday": "Wed",
+        "postings": 1384,
+        "new_postings": null,
+        "new_companies": 15
     }
 }
