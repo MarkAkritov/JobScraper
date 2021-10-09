@@ -75,5 +75,19 @@
         "postings": 1384,
         "new_postings": null,
         "new_companies": 15
+    },
+    "08.10.21": {
+        "date": "Fri Oct  9 18:40:19 2021",
+        "weekday": "Fri",
+        "postings": 1432,
+        "new_postings": null,
+        "new_companies": 10
+    },
+    "09.10.21": {
+        "date": "Sat Oct  9 18:40:19 2021",
+        "weekday": "Sat",
+        "postings": 1384,
+        "new_postings": null,
+        "new_companies": 0
     }
 }
