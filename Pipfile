@@ -16,6 +16,7 @@ python-dotenv = "*"
 tqdm = "*"
 rich = "*"
 ipywidgets = "*"
+pymongo = "*"
 
 [requires]
 python_version = "3.9"

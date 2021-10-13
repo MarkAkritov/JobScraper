@@ -209,7 +209,10 @@ def get_info_from_one_posting(absolute_path: str) -> ExtractedData:
             "Job_Location"
         ]
     ):
-        extracted_data[k] = job_info[i]
+        try:
+            extracted_data[k] = job_info[i]
+        except IndexError:
+            extracted_data[k] = None
 
     default_job_list_keys = [
         "Job_description", "Job_responsibilities", "Required_qualifications",
