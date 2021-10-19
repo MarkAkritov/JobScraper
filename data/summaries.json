@@ -131,5 +131,19 @@
         "postings": 1388,
         "new_postings": null,
         "new_companies": 0
+    },
+    "17.10.21": {
+        "date": "Sun Oct 17 19:36:59 2021",
+        "weekday": "Sun",
+        "postings": 1392,
+        "new_postings": null,
+        "new_companies": 0
+    },
+    "19.10.21": {
+        "date": "Tue Oct 19 19:38:49 2021",
+        "weekday": "Tue",
+        "postings": 1325,
+        "new_postings": null,
+        "new_companies": 19
     }
 }
