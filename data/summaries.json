@@ -145,5 +145,47 @@
         "postings": 1325,
         "new_postings": null,
         "new_companies": 19
+    },
+    "20.10.21": {
+        "date": "Wed Oct 20 20:02:21 2021",
+        "weekday": "Wed",
+        "postings": 1387,
+        "new_postings": null,
+        "new_companies": 10
+    },
+    "21.10.21": {
+        "date": "Thu Oct 21 22:51:00 2021",
+        "weekday": "Thu",
+        "postings": 1418,
+        "new_postings": null,
+        "new_companies": 9
+    },
+    "22.10.21": {
+        "date": "Fri Oct 22 22:23:01 2021",
+        "weekday": "Fri",
+        "postings": 1460,
+        "new_postings": null,
+        "new_companies": 8
+    },
+    "23.10.21": {
+        "date": "Sat Oct 23 21:18:24 2021",
+        "weekday": "Sat",
+        "postings": 1408,
+        "new_postings": null,
+        "new_companies": 4
+    },
+    "24.10.21": {
+        "date": "Sun Oct 24 21:43:46 2021",
+        "weekday": "Sun",
+        "postings": 1361,
+        "new_postings": null,
+        "new_companies": 1
+    },
+    "01.11.21": {
+        "date": "Mon Nov  1 20:45:09 2021",
+        "weekday": "Mon",
+        "postings": 1271,
+        "new_postings": null,
+        "new_companies": 8
     }
 }
