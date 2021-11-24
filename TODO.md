@@ -80,6 +80,8 @@
 
 * [x] Change `tqdm` message so that it prints the URL being scraped
 
+* [ ] Email notification if scraping fails for some reason
+
 ## Bugs
 
 * [x] Fix company title fetching (currently `None`)
