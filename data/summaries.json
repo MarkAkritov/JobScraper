@@ -327,5 +327,89 @@
         "postings": 1425,
         "new_postings": null,
         "new_companies": 10
+    },
+    "24.11.21": {
+        "date": "Wed Nov 24 18:57:47 2021",
+        "weekday": "Wed",
+        "postings": 1463,
+        "new_postings": null,
+        "new_companies": 8
+    },
+    "25.11.21": {
+        "date": "Thu Nov 25 19:09:16 2021",
+        "weekday": "Thu",
+        "postings": 1472,
+        "new_postings": null,
+        "new_companies": 8
+    },
+    "07.12.21": {
+        "date": "Tue Dec  7 22:33:08 2021",
+        "weekday": "Tue",
+        "postings": 1475,
+        "new_postings": null,
+        "new_companies": 8
+    },
+    "13.12.21": {
+        "date": "Mon Dec 13 21:58:38 2021",
+        "weekday": "Mon",
+        "postings": 1344,
+        "new_postings": null,
+        "new_companies": 67
+    },
+    "15.12.21": {
+        "date": "Wed Dec 15 19:48:01 2021",
+        "weekday": "Wed",
+        "postings": 1434,
+        "new_postings": null,
+        "new_companies": 9
+    },
+    "17.12.21": {
+        "date": "Fri Dec 17 19:59:06 2021",
+        "weekday": "Fri",
+        "postings": 1368,
+        "new_postings": null,
+        "new_companies": 4
+    },
+    "18.12.21": {
+        "date": "Sat Dec 18 19:57:44 2021",
+        "weekday": "Sat",
+        "postings": 1335,
+        "new_postings": null,
+        "new_companies": 1
+    },
+    "19.12.21": {
+        "date": "Sun Dec 19 20:56:22 2021",
+        "weekday": "Sun",
+        "postings": 1283,
+        "new_postings": null,
+        "new_companies": 0
+    },
+    "21.12.21": {
+        "date": "Tue Dec 21 18:55:37 2021",
+        "weekday": "Tue",
+        "postings": 1312,
+        "new_postings": null,
+        "new_companies": 5
+    },
+    "22.12.21": {
+        "date": "Wed Dec 22 21:23:40 2021",
+        "weekday": "Wed",
+        "postings": 1346,
+        "new_postings": null,
+        "new_companies": 4
+    },
+    "23.12.21": {
+        "date": "Thu Dec 23 18:49:26 2021",
+        "weekday": "Thu",
+        "postings": 1312,
+        "new_postings": null,
+        "new_companies": 3
+    },
+    "25.12.21": {
+        "date": "Sat Dec 25 20:52:34 2021",
+        "weekday": "Sat",
+        "postings": 1221,
+        "new_postings": null,
+        "new_companies": 4
     }
 }

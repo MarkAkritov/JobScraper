@@ -18,6 +18,9 @@ rich = "*"
 ipywidgets = "*"
 pymongo = "*"
 matplotlib = "*"
+aiohttp = "*"
+cchardet = "*"
+aiodns = "*"
 
 [requires]
 python_version = "3.9"

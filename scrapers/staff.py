@@ -9,6 +9,7 @@ import os
 import re, json, time, datetime
 from collections import defaultdict
 from urllib.parse import urljoin
+from functools import lru_cache
 
 from dotenv import load_dotenv
 from tqdm import tqdm
@@ -20,7 +21,7 @@ import pandas as pd
 
 
 # Data Types
-ExtractedData = Dict[str, Union[List[Any]]]
+ExtractedData = Dict[str, List[Any]]
 
 # URL variables
 load_dotenv()
@@ -53,6 +54,7 @@ def get_relative_paths_from_one_page(
     return relative_paths
 
 # Function to get relative paths for all pages
+@lru_cache(maxsize=None)
 def get_relative_paths_for_all_pages(
     response: scrapy.http.HtmlResponse,
     base_url: str,
@@ -551,9 +553,16 @@ def main() -> ExtractedData:
         url=rs.url, body=rs.text, encoding="utf-8"
     )
 
-    relative_paths = get_relative_paths_for_all_pages(
-        response, BASE_URL, delay=0.5
-    )
+    if not os.path.exists("./relative_paths.json"):
+        relative_paths = get_relative_paths_for_all_pages(
+            response, BASE_URL, delay=0.5
+        )
+        with open("./relative_paths.json", "w") as f:
+            json.dump(relative_paths, f)
+    else:
+        with open("./relative_paths.json", "r", encoding="utf-8") as f:
+            relative_paths = json.load(f)
+
     absolute_paths = [urljoin(BASE_URL, path) for path in relative_paths]
 
     print(str(len(absolute_paths)) + " jobs detected.")
@@ -567,9 +576,8 @@ def main() -> ExtractedData:
         str(len(absolute_paths)) + " jobs scraped."
     )
     print("Saving files.")
-
     for key in extracted_data.keys():
-    	print(key + ": " + str(len(extracted_data[key])))
+        print(key + ": " + str(len(extracted_data[key])))
 
     save_files(extracted_data, "json")
 
@@ -607,6 +615,8 @@ def main() -> ExtractedData:
             encoding="utf-8"
         ) as f:
             json.dump(companies, f, indent=4, ensure_ascii=False)
+
+    os.remove("./relative_paths.json")
 
     end_time = time.ctime()
     print(end_time)
